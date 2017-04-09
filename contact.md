@@ -3,9 +3,9 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [rt.ryoji.tanabe@gmail.com](mailto:rt.ryoji.tanabe@gmail.com)
 
-* Phone: [+91-123123](tel:+91-123123)
+# * Phone: [+91-123123](tel:+91-123123)
 
 ---
 
