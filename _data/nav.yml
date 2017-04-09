@@ -1,14 +1,14 @@
-- name: "Contact"
-  link: "contact"
+# - name: "Contact"
+#  link: "contact"
 
 #- name: "Resume"
  # link: "resume.pdf"
 
-- name: "Code"
-  link: "code"
-
 - name: "Publication"
   link: "publication"
 
+- name: "About"
+  link: "about"
+
 - name: "Home"
-  link: "/researcher/"
+  link: "/"

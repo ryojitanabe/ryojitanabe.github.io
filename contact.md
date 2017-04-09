@@ -5,7 +5,8 @@ is_contact: true
 
 * Email: [rt.ryoji.tanabe@gmail.com](mailto:rt.ryoji.tanabe@gmail.com)
 
-# * Phone: [+91-123123](tel:+91-123123)
+{% comment %}
+ * Phone: [+91-123123](tel:+91-123123)
 
 ---
 
@@ -19,8 +20,4 @@ is_contact: true
 
 ---
 
-## Social
-
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+{% endcomment %}
