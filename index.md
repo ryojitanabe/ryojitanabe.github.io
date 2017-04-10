@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Ryoji Tanabe's Homepage
 ---
 
 ## NEWS
