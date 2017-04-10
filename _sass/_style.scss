@@ -13,6 +13,7 @@ body {
     margin: 0;
     font-family: "Inconsolata";
     height: 100%;
+    background-color: $bgcolor;
 }
 a {
     text-decoration: none;
@@ -70,6 +71,10 @@ hr {
 }
 .wrapper {
     min-height: 100%;
+}
+
+code {
+ background-color: #ffe;
 }
 
 /* Mobile */
