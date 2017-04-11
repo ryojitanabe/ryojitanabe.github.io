@@ -1,43 +1,38 @@
 ---
 layout: default
+title: Ryoji Tanabe's Homepage
 ---
 
-## About Me
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+### お知らせ
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+* 2017年4月1日: ウェブサイトを新しくしました! 中国ではGoogle siteが使えないので...
 
-## Research Interest
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+### 田邊遼司, 博士 (学術)
 
-## Publications
+* 身分: 研究助教
+* 所属: [Department of Computer Science and Engineering](http://cse.sustc.edu.cn/en/site/index/), [Southern University of Science and Technology](http://www.sustc.edu.cn/en/) 
+* E-mail: rt.ryoji.tanabe [at] gmail.com or ryoji.tanabe [at] yahoo.com (お気軽にどうぞ!)
+* [CV](cv/rt-cv.pdf), [Google Scholar](https://scholar.google.co.jp/citations?user=xze7scoAAAAJ&hl=en), [DBLP](http://dblp.uni-trier.de/pers/hd/t/Tanabe:Ryoji)
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+### 略歴
 
-## Typography
+2017年4月から, 中国広東省深セン市の南方科技大学にて研究助教として勤務しています.
+たぶん, 石渕研究室所属です.
+2011年3月に上智大学を卒業, 2013年3月に上智大学大学院博士前期課程を修了しました.
+2016年3月に東京大学大学院博士後期課程を修了し,  博士 (学術) を取りました.
+指導教員は [福永Alex先生](http://metahack.org/index-j.html) でした.
+2016年4月から2017年3月までJAXA/ISASにてポスドク研究員として勤務していました.
+[大山研究室]((http://ladse.eng.isas.jaxa.jp/))所属でした.
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
+### 研究の興味
 
-Here is a table
+計算知能, 進化計算, 最適化
 
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
 
-Here is a horizontal rule
 
----
+{% comment %}
 
-Here is a blockquote
 
-> To a great mind, nothing is little
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+{% endcomment %}
