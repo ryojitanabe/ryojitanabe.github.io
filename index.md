@@ -12,7 +12,7 @@ title: Ryoji Tanabe's Homepage
 
 * Position: Research Assistant Professor
 * Affiliation: [Department of Computer Science and Engineering](http://cse.sustc.edu.cn/en/site/index/), [Southern University of Science and Technology](http://www.sustc.edu.cn/en/) 
-* E-mail: rt.ryoji.tanabe [at] gmail.com or ryoji.tanabe [at] yahoo.com (please feel free to contact me!)
+* E-mail: rt.ryoji.tanabe [at] gmail.com or ryoji.tanabe [at] yahoo.com
 * [CV](cv/rt-cv.pdf), [Google Scholar](https://scholar.google.co.jp/citations?user=xze7scoAAAAJ&hl=en), [DBLP](http://dblp.uni-trier.de/pers/hd/t/Tanabe:Ryoji)
 
 ## Short Biography

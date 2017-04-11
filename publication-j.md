@@ -26,6 +26,7 @@ title: Ryoji Tanabe's Homepage
 * 田邊遼司, 福永Alex: **適応DEにおける理想的なパラメータ適応過程の近似**, [第10回進化計算学会研究会](http://www.jpnsec.org/symposium201601.html), 富士通株式会社川崎工場, 3月
 * Claus de Castro Aranha, Ryoji Tanabe, Alex Fukunaga, Romain Chassagne: **Application of Surrogate SHADE for the Oil Field History Matching Problem**, [第10回進化計算学会研究会](http://www.jpnsec.org/symposium201601.html), 富士通株式会社川崎工場, 3月
 q
+
 ### 2015
 
 * 田邊遼司, 福永Alex: **適応DEの適応メカニズムの解析**, [第9回進化計算学会研究会](http://www.jpnsec.org/symposium201502.html), 理化学研究所計算科学研究機構, 9月
