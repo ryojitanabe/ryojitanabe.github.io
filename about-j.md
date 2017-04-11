@@ -3,17 +3,15 @@ layout: default
 title: Ryoji Tanabe's Homepage
 ---
 
-## Work experience
+### 職歴
 
-* 2017 April ~
-  * Research Assistant Professor
-  * Department of Computer Science and Engineering, Southern University of Science and Technology
-* 2016 April ~ 2017 March
-  * Postdoctoral researcher
-  * Institute of Space and Astronautical Science, Japan Aerospace Exploration Agency (ISAS/JAXA)
-* 2014 April ~ 2016 March
-  * Research Fellow
-  * Japan Society for the Promotion of Science (DC2)
+* 2017年4月 ~
+  * 南方科技大学, Department of Computer Science and Engineering, 研究助教
+* 2016年4月 ~ 2017年3月
+  * 宇宙航空研究開発機構 宇宙科学研究所 招聘研究員
+* 2014年4月 ~ 2016年3月
+  * 日本学術振興会 特別研究員 (DC2)
+
 
 ## Education
 
