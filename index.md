@@ -6,7 +6,7 @@ title: Ryoji Tanabe's Homepage
 
 ## NEWS
 
-* 1 April, 2017: I created my new homepage!
+* 12 April 2017: I created my new homepage!
 
 ## Ryoji Tanabe, Ph.D.
 
