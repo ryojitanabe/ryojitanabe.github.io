@@ -17,7 +17,7 @@ title: Ryoji Tanabe's Homepage
 
 ## Short Biography
 
-I am currently a research assistant professor at Southern University of Science and Technology (SUSTech) with Prof. Hisao Ishibuchi. Previously, during 2016 to 2017, I was a postdoctoral researcher in Institute of Space and Astronautical Science at Japan Aerospace Exploration Agency (ISAS/JAXA). Before that, in 2016, I recived the Ph.D degree in Science from The University of Tokyo, under the supervision of [Prof. Alex Fukunaga](http://metahack.org/index.html). I also recived the B.S. and M.S degree in Engineering from Sophia University. 
+I am currently a research assistant professor at Southern University of Science and Technology (SUSTech) with Prof. Hisao Ishibuchi. Previously, during 2016 to 2017, I was a postdoctoral researcher at Japan Aerospace Exploration Agency (JAXA). Before that, in 2016, I received the Ph.D. degree in Science from The University of Tokyo, under the supervision of [Prof. Alex Fukunaga](http://metahack.org/index.html). I also received the B.S. and M.S degree in Engineering from Sophia University. 
 
 ## Research Interest
 
