@@ -36,10 +36,8 @@ title: Ryoji Tanabe's Homepage
 
 ## Awards
 
-* 2014: ACM GECCO Student Travel Award
 * 2014: Winner of the IEEE CEC2014 Competition on Real-Parameter Single Objective Optimization
-* 2014: IEEE CIS Outstanding Student-Paper Travel Grant Award
-* 2014: IEEE CIS Outstanding Student-Paper Travel Grant Award
+* 2013: IEEE CIS Outstanding Student-Paper Travel Grant Award
 
 ## Professional Activities/Service
 

@@ -5,6 +5,11 @@ title: Ryoji Tanabe's Homepage
 
 英文論文は[Publication](/publication)で紹介しています. または [Google Scholar](https://scholar.google.co.jp/citations?user=xze7scoAAAAJ&hl=en) や [DBLP](http://dblp.uni-trier.de/pers/hd/t/Tanabe:Ryoji) をご覧ください.
 
+
+### 博士論文
+
+* 関数最適化問題に対する適応型差分進化法の研究 [(pdf)](https://drive.google.com/open?id=0B5QxTedsd-SXQlRld2Vjd1ZwZU0)
+
 ### 和文論文誌 (査読有り)
 
 * 田邊遼司, 福永Alex: DEにおけるExponential Crossoverの再評価, [進化計算学会論文誌](http://www.jpnsec.org/index.html), vol. 6, no. 1, pp. 42-52 [(link)](https://www.jstage.jst.go.jp/article/tjpnsec/6/1/6_42/_article/-char/ja/)

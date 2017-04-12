@@ -13,33 +13,29 @@ title: Ryoji Tanabe's Homepage
   * 日本学術振興会 特別研究員 (DC2)
 
 
-## Education
+### 学歴
 
-* 2016 March: Ph.D. degree in Science from The University of Tokyo
-  * Advisor: [Prof. Alex Fukunaga](http://metahack.org/index.html)
-  * Thesis: Studies of Adaptive Differential Evolution for Function Optimization Problems (in japanease)
-* 2013 March: M.S. degree in engineering from Sophia University
-* 2011 March: B.S. degree in engineering from Sophia University
+* 2016年3月 東京大学大学院総合文化研究科博士後期課程 修了
+  * 指導教員: [福永Alex先生](http://metahack.org/index-j.html)
+  * 博士論文: 関数最適化問題に対する適応型差分進化法の研究 [(pdf)](https://drive.google.com/open?id=0B5QxTedsd-SXQlRld2Vjd1ZwZU0)
+* 2011年3月 上智大学理工学部機械工学科 卒業
+* 2013年3月 上智大学大学院理工学研究科博士前期課程 修了
 
-## Grants
+### 外部資金
 
-* 2017 April ~ 2020 March: Grant-in-Aid for Young Scientists B
-  * Unfortunately, I refused this grant because I will not be in Japan for 2017 ~ 2020
-  * Title: Efficient Adaptive Differential Evolutoin for Multi-objective Optimization
-  * 3,800,000 YEN
+* [辞退] 平成29年 ~ 平成32年度: 若手研究（B）
+  * 題目: 多目的最適化問題に対する実用的な適応型差分進化法の開発, その応用
+  * 少なくとも平成29年度は日本にいないため, 交付辞退...
 
-* 2014 April ~ 2016 March: Grant-in-Aid for JSPS Research Fellow
-  * Title: Development of Novel, Efficient Parameter Setting Strategies for Evolutionary Algorithms and Its Application 
-  * 2,200,000 YEN
+* 平成26年 ~ 27年度: 特別研究員奨励費
+  * 題目: [進化計算における制御パラメタの効率的な設定方法の開発と応用](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-14J09528/)
 
-## Awards
+### 受賞
 
-* 2014: ACM GECCO Student Travel Award
-* 2014: Winner of the IEEE CEC2014 Competition on Real-Parameter Single Objective Optimization
-* 2014: IEEE CIS Outstanding Student-Paper Travel Grant Award
-* 2014: IEEE CIS Outstanding Student-Paper Travel Grant Award
+* 2014年: IEEE CEC2014 Competition on Real-Parameter Single Objective Optimization 優勝
+* 2013年: IEEE CIS Outstanding Student-Paper Travel Grant Award
 
-## Professional Activities/Service
+### 学会活動歴
 
 * Program Committee Member
   * GECCO: 2016, 2017
@@ -52,3 +48,13 @@ title: Ryoji Tanabe's Homepage
   * Memetic Computing
   * Applied Soft Computing
 
+* 所属学会
+  * 計測自動制御学会
+  * 人工知能学会
+  * 進化計算学会
+  * ACM SIGEVO 
+  * IEEE CIS
+
+* その他
+  * 人工知能学会全国大会 学生プログラム委員 (2014年度, 2015年度)
+  * 人工知能学会 学生編集委員 (2013年7月 ~ 2015年3月)
