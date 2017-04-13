@@ -8,7 +8,7 @@ title: Ryoji Tanabe's Homepage
 
 * 2017年4月13日: 我々の論文が国際会議[GECCO2017](http://gecco-2017.sigevo.org/)にてベストペーパーにノミネートされました!
 
-    *  Ryoji Tanabe and Alex Fukunaga: **TPAM: A Simulation-Based Model for Quantitatively Analyzing Parameter Adaptation Methods**, Proc. ACM Genetic and Evolutionary Computation Conference [(GECCO2017)](http://gecco-2017.sigevo.org/), July 2017, Berlin, accepted, [(pdf)](pdf/tf-gecco2017.pdf), [(supplemental-pdf)](pdf/tf-gecco17-supp.pdf)
+    *  Ryoji Tanabe and Alex Fukunaga: **TPAM: A Simulation-Based Model for Quantitatively Analyzing Parameter Adaptation Methods**, Proc. ACM Genetic and Evolutionary Computation Conference [(GECCO2017)](http://gecco-2017.sigevo.org/), July 2017, Berlin, accepted, [(pdf)](pdf/tf-gecco2017.pdf), [(supplemental-pdf)](pdf/tf-gecco2017-supp.pdf)
 
 * 2017年4月12日: ウェブサイトを新しくしました! 中国ではGoogle siteが使えないので...
 
