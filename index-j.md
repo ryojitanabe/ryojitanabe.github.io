@@ -10,6 +10,7 @@ title: Ryoji Tanabe's Homepage
 
     *  Ryoji Tanabe and Alex Fukunaga: **TPAM: A Simulation-Based Model for Quantitatively Analyzing Parameter Adaptation Methods**, Proc. ACM Genetic and Evolutionary Computation Conference [(GECCO2017)](http://gecco-2017.sigevo.org/), July 2017, Berlin, accepted, [(pdf)](pdf/tf-gecco2017.pdf), [(supplemental-pdf)](pdf/tf-gecco2017-supp.pdf)
 
+* 2017年4月13日: 科研費 若手研究 (B) に採択されました! が, 中国にいるため交付辞退しました...
 * 2017年4月12日: ウェブサイトを新しくしました! 中国ではGoogle siteが使えないので...
 
 
