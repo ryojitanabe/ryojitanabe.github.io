@@ -32,7 +32,7 @@ title: Ryoji Tanabe's Homepage
 
 ### 受賞
 
-* 2014年: IEEE CEC2014 Competition on Real-Parameter Single Objective Optimization 優勝
+* 2014年: IEEE CEC2014 Competition on Real-Parameter Single Objective Optimization 優勝 [(link)](http://www3.ntu.edu.sg/home/EPNSugan/index_files/CEC2014/CEC2014.htm)
 * 2013年: IEEE CIS Outstanding Student-Paper Travel Grant Award
 
 ### 学会活動歴
