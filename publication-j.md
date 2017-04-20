@@ -35,7 +35,7 @@ q
 ### 2015
 
 * 田邊遼司, 福永Alex: **適応DEの適応メカニズムの解析**, [第9回進化計算学会研究会](http://www.jpnsec.org/symposium201502.html), 理化学研究所計算科学研究機構, 9月
-  * <span style="color:#C31D1D;">2015年度研究会最優秀論文賞</span>  [(link)](http://www3.ntu.edu.sg/home/EPNSugan/index_files/CEC2014/CEC2014.htm)
+  * <span style="color:#C31D1D;">2015年度研究会最優秀論文賞</span>
 
 * 田邊遼司, 福永Alex: **Expensive Optimizationにおける進化アルゴリズムのEvolvabilityについて**, [第29回人工知能学会全国大会](http://www.ai-gakkai.or.jp/jsai2015/), 公立はこだて未来大学, 5月
 * 田邊遼司, 福永Alex: **Expensive Scenario での多峰性関数における進化アルゴリズムの Evolvability について**, [第42回知能システムシンポジウム](http://www.sice.or.jp/org/i-sys/is42/), 神戸市, 3月
