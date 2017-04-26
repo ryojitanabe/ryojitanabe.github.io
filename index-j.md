@@ -29,6 +29,7 @@ title: Ryoji Tanabe's Homepage
 2016年3月に東京大学大学院博士後期課程を修了し,  博士 (学術) を取りました.
 指導教員は [福永Alex先生](http://metahack.org/index-j.html) でした.
 2016年4月から2017年3月までJAXA/ISASにてポスドク研究員として勤務していました.
+[大山研究室](http://ladse.eng.isas.jaxa.jp/)所属でした.
 
 ### 研究の興味
 
