@@ -18,7 +18,8 @@ title: Ryoji Tanabe's Homepage
 
 * 身分: 研究助教
 * 所属: [Department of Computer Science and Engineering](http://cse.sustc.edu.cn/en/site/index/), [南方科技大学](http://www.sustc.edu.cn/en/) 
-* E-mail: rt.ryoji.tanabe [at] gmail.com
+* オフィス: Room 913, Building A7, Nanshan i-Park
+* E-mail: rt.ryoji.tanabe [at] gmail.com or ryoji@sustc.edu.cn
 * [Google Scholar](https://scholar.google.co.jp/citations?user=xze7scoAAAAJ&hl=en), [DBLP](http://dblp.uni-trier.de/pers/hd/t/Tanabe:Ryoji), [ブログ](http://d.hatena.ne.jp/LCRTB/)
 
 ### 略歴
