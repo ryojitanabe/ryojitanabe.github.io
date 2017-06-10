@@ -18,7 +18,8 @@ None!
 * Ryoji Tanabe and Akira Oyama: **Benchmarking MOEAs for Multi- and Many-objective Optimization Using an Unbounded External Archive**, Proc. ACM Genetic and Evolutionary Computation Conference [(GECCO2017)](http://gecco-2017.sigevo.org/), accepted, [(pdf)](pdf/to-gecco2017.pdf), [(supplemental-pdf)](pdf/to-gecco2017-supp.pdf)
   * Experimental data used in this paper can be downloaded from [here](https://sites.google.com/site/benchmarkingmoeas/)
 
-* Ryoji Tanabe and Akira Oyama: **A Note on Constrained Multi-Objective Optimization Benchmark Problems**, Proc. IEEE Congress on Evolutionary Computation [(CEC2017)](http://www.cec2017.org/), (accepted), [(pdf)](pdf/to-cec2017.pdf)
+* Ryoji Tanabe and Akira Oyama: **A Note on Constrained Multi-Objective Optimization Benchmark Problems**, Proc. IEEE Congress on Evolutionary Computation [(CEC2017)](http://www.cec2017.org/), [(pdf)](pdf/to-cec2017.pdf)
+  * The source code of seven (six) real-world problems can be downloaded from [here](code/jmetal-rwlps.zip)
 
 * Ryoji Tanabe and Akira Oyama: **The Impact of Population Size, Number of Children, and Number of Reference Points on The Performance of NSGA-III**, Proc. Evolutionary Multi-Criterion Optimization [(EMO2017)](http://www.emo2017.org/), [(pdf)](pdf/to-emo2017.pdf)
   
