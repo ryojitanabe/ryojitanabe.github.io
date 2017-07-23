@@ -13,9 +13,10 @@ None!
 
 ### 2017 
 
-*  Ryoji Tanabe and Alex Fukunaga: **TPAM: A Simulation-Based Model for Quantitatively Analyzing Parameter Adaptation Methods**, Proc. ACM Genetic and Evolutionary Computation Conference [(GECCO2017)](http://gecco-2017.sigevo.org/), accepted, [(pdf)](pdf/tf-gecco2017.pdf), [(supplemental-pdf)](pdf/tf-gecco2017-supp.pdf)
+*  Ryoji Tanabe and Alex Fukunaga: **TPAM: A Simulation-Based Model for Quantitatively Analyzing Parameter Adaptation Methods**, Proc. ACM Genetic and Evolutionary Computation Conference [(GECCO2017)](http://gecco-2017.sigevo.org/), [(pdf)](pdf/tf-gecco2017.pdf), [(supplemental-pdf)](pdf/tf-gecco2017-supp.pdf), [(slide)](pdf/tf-gecco2017-slide.pdf)
+   * Nominated for the best paper at [GECCO2017](http://gecco-2017.sigevo.org/) 
 
-* Ryoji Tanabe and Akira Oyama: **Benchmarking MOEAs for Multi- and Many-objective Optimization Using an Unbounded External Archive**, Proc. ACM Genetic and Evolutionary Computation Conference [(GECCO2017)](http://gecco-2017.sigevo.org/), accepted, [(pdf)](pdf/to-gecco2017.pdf), [(supplemental-pdf)](pdf/to-gecco2017-supp.pdf)
+* Ryoji Tanabe and Akira Oyama: **Benchmarking MOEAs for Multi- and Many-objective Optimization Using an Unbounded External Archive**, Proc. ACM Genetic and Evolutionary Computation Conference [(GECCO2017)](http://gecco-2017.sigevo.org/), [(pdf)](pdf/to-gecco2017.pdf), [(supplemental-pdf)](pdf/to-gecco2017-supp.pdf), [(slide)](pdf/to-gecco2017-slide.pdf)
   * Experimental data used in this paper can be downloaded from [here](https://sites.google.com/site/benchmarkingmoeas/)
 
 * Ryoji Tanabe and Akira Oyama: **A Note on Constrained Multi-Objective Optimization Benchmark Problems**, Proc. IEEE Congress on Evolutionary Computation [(CEC2017)](http://www.cec2017.org/), [(pdf)](pdf/to-cec2017.pdf)

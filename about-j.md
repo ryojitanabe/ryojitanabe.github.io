@@ -32,7 +32,8 @@ title: Ryoji Tanabe's Homepage
 
 ### 受賞
 
-* 2014年: IEEE CEC2014 Competition on Real-Parameter Single Objective Optimization 優勝 [(link)](http://www3.ntu.edu.sg/home/EPNSugan/index_files/CEC2014/CEC2014.htm)
+* 2017年: [ACM GECCO2017](http://gecco-2017.sigevo.org/) ベストペーパーノミネーション
+* 2014年: [IEEE CEC2014 Competition on Real-Parameter Single Objective Optimization](http://www3.ntu.edu.sg/home/EPNSugan/index_files/CEC2014/CEC2014.htm) 優勝
 * 2013年: IEEE CIS Outstanding Student-Paper Travel Grant Award
 
 ### 学会活動歴
@@ -44,6 +45,7 @@ title: Ryoji Tanabe's Homepage
   * IEEE Transactions on Evolutionary Computation
   * IEEE Transactions on Cybernetics
   * IEEE Transactions on Fuzzy Systems
+  * IEEE Access
   * Swarm and Evolutionary Computation
   * Memetic Computing
   * Applied Soft Computing
