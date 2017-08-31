@@ -5,6 +5,9 @@ title: Ryoji Tanabe's Homepage
 
 
 ### お知らせ
+* 2017年8月31日: 我々の論文が論文誌IEEE Accessに採択されました:
+    * Ryoji Tanabe, Hisao Ishibuchi, and Akira Oyama: Benchmarking MOEAs for Multi- and Many-objective Optimization under Two Optimization Scenarios
+
 * 2017年7月23日: [GECCO2017](http://gecco-2017.sigevo.org/)のベストペーパーセッションにて負けました! 2つの発表スライドを[Publication](publication)にアプロードしましたので, よろしければ.
 
 * 2017年6月9日: CEC2017論文の実験にて使用しました7つの制約付き多目的最適化実問題のソースコードをアップロードしました. 詳しくはこちらから: [Publication](publication).
@@ -13,7 +16,11 @@ title: Ryoji Tanabe's Homepage
     *  Ryoji Tanabe and Alex Fukunaga: **TPAM: A Simulation-Based Model for Quantitatively Analyzing Parameter Adaptation Methods**, Proc. ACM Genetic and Evolutionary Computation Conference [(GECCO2017)](http://gecco-2017.sigevo.org/), July 2017, Berlin, accepted, [(pdf)](pdf/tf-gecco2017.pdf), [(supplemental-pdf)](pdf/tf-gecco2017-supp.pdf)
 
 * 2017年4月13日: 科研費 若手研究 (B) に採択されました! が, 中国にいるため交付辞退しました...
+
+{% comment %}
 * 2017年4月12日: ウェブサイトを新しくしました! 中国ではGoogle siteが使えないので...
+{% endcomment %}
+
 
 
 ### 田邊遼司, 博士 (学術)

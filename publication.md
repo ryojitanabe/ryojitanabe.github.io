@@ -7,7 +7,9 @@ Please also see [Google Scholar](https://scholar.google.co.jp/citations?user=xze
 
 ## Refereed Journal Papers
 
-None!
+### 2017 
+
+* Ryoji Tanabe, Hisao Ishibuchi, and Akira Oyama: **Benchmarking MOEAs for Multi- and Many-objective Optimization under Two Optimization Scenarios** IEEE Access (accepted)
 
 ## Refereed Conference Papers
 
