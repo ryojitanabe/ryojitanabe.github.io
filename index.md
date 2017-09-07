@@ -7,7 +7,7 @@ title: Ryoji Tanabe's Homepage
 ## NEWS
 
 * 31 August 2017: Our paper has been accepted to IEEE Access:
-    * Ryoji Tanabe, Hisao Ishibuchi, and Akira Oyama: Benchmarking MOEAs for Multi- and Many-objective Optimization under Two Optimization Scenarios
+    * Ryoji Tanabe, Hisao Ishibuchi, and Akira Oyama: Benchmarking Multi- and Many-objective Evolutionary Algorithms under Two Optimization Scenarios, [(pdf)](pdf/tif-access.pdf)
 
 * 23 July 2017: I lost a best paper award competition at [GECCO2017](http://gecco-2017.sigevo.org/)! I uploaded two presentation slides. If you are interested, please check [Publication](publication).
 

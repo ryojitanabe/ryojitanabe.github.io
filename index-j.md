@@ -6,7 +6,7 @@ title: Ryoji Tanabe's Homepage
 
 ### お知らせ
 * 2017年8月31日: 我々の論文が論文誌IEEE Accessに採択されました:
-    * Ryoji Tanabe, Hisao Ishibuchi, and Akira Oyama: Benchmarking MOEAs for Multi- and Many-objective Optimization under Two Optimization Scenarios
+    * Ryoji Tanabe, Hisao Ishibuchi, and Akira Oyama: Benchmarking Multi- and Many-objective Evolutionary Algorithms under Two Optimization Scenarios, [(pdf)](pdf/tif-access.pdf)
 
 * 2017年7月23日: [GECCO2017](http://gecco-2017.sigevo.org/)のベストペーパーセッションにて負けました! 2つの発表スライドを[Publication](publication)にアプロードしましたので, よろしければ.
 
@@ -25,7 +25,7 @@ title: Ryoji Tanabe's Homepage
 
 ### 田邊遼司, 博士 (学術)
 
-* 身分: 研究助教
+* 身分: 研究助教 (ポスドク)
 * 所属: [Department of Computer Science and Engineering](http://cse.sustc.edu.cn/en/site/index/), [南方科技大学](http://www.sustc.edu.cn/en/) 
 * オフィス: Room 913, Nanshan i-Park building A7, Xueyuan Road 1088, Nanshan District, Shenzhen City, Guangdong Province, China
 * E-mail: rt.ryoji.tanabe [at] gmail.com
@@ -33,7 +33,7 @@ title: Ryoji Tanabe's Homepage
 
 ### 略歴
 
-2017年4月から, 中国広東省深セン市の南方科技大学にて研究助教として勤務しています.
+2017年4月から, 中国広東省深セン市の南方科技大学にて研究助教 (ポスドク) として勤務しています.
 [石渕研究室](http://www.cs.osakafu-u.ac.jp/~hisaoi/)所属です.
 2011年3月に上智大学を卒業, 2013年3月に上智大学大学院博士前期課程を修了しました.
 2016年3月に東京大学大学院博士後期課程を修了し,  博士 (学術) を取りました.

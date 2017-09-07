@@ -9,7 +9,7 @@ Please also see [Google Scholar](https://scholar.google.co.jp/citations?user=xze
 
 ### 2017 
 
-* Ryoji Tanabe, Hisao Ishibuchi, and Akira Oyama: **Benchmarking MOEAs for Multi- and Many-objective Optimization under Two Optimization Scenarios** IEEE Access (accepted)
+* Ryoji Tanabe, Hisao Ishibuchi, and Akira Oyama: **Benchmarking Multi- and Many-objective Evolutionary Algorithms under Two Optimization Scenarios**, [(pdf)](pdf/tif-access.pdf)
 
 ## Refereed Conference Papers
 
