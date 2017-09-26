@@ -6,7 +6,7 @@ title: Ryoji Tanabe's Homepage
 
 ### お知らせ
 * 2017年9月14日: [SSI2017](http://www.sice.or.jp/org/SSI2017/)で発表します:
-    * 田邊遼司, 石渕久生: 集団数が進化型多目的最適化アルゴリズムの振る舞いに与える影響の解析
+    * 田邊遼司, 石渕久生: 集団数が進化型多目的最適化アルゴリズムの探索性能と振る舞いに与える影響の解析
 
 * 2017年8月31日: 我々の論文が論文誌IEEE Accessに採択されました:
     * Ryoji Tanabe, Hisao Ishibuchi, and Akira Oyama: Benchmarking Multi- and Many-objective Evolutionary Algorithms under Two Optimization Scenarios, [(pdf)](pdf/tif-access.pdf)
