@@ -16,15 +16,16 @@ title: Ryoji Tanabe's Homepage
 ### 学歴
 
 * 2016年3月 東京大学大学院総合文化研究科博士後期課程 修了
-  * 指導教員: [福永Alex先生](http://metahack.org/index-j.html)
+  * 指導教員: [福永Alex教授](http://metahack.org/index-j.html)
   * 博士論文: 関数最適化問題に対する適応型差分進化法の研究 [(pdf)](https://drive.google.com/open?id=0B5QxTedsd-SXQlRld2Vjd1ZwZU0)
-* 2011年3月 上智大学理工学部機械工学科 卒業
 * 2013年3月 上智大学大学院理工学研究科博士前期課程 修了
+* 2011年3月 上智大学理工学部機械工学科 卒業
+
 
 ### 外部資金
 
 * [辞退] 平成29年 ~ 平成32年度: 若手研究（B）
-  * 題目: 多目的最適化問題に対する実用的な適応型差分進化法の開発, その応用
+  * 題目: [多目的最適化問題に対する実用的な適応型差分進化法の開発, その応用](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-17K12755/)
   * 少なくとも平成29年度は日本にいないため, 交付辞退...
 
 * 平成26年 ~ 27年度: 特別研究員奨励費
