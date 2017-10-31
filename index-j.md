@@ -9,7 +9,7 @@ title: Ryoji Tanabe's Homepage
     * 田邊遼司, 石渕久生: 集団数が進化型多目的最適化アルゴリズムの探索性能と振る舞いに与える影響の解析
 
 * 2017年8月31日: 我々の論文が論文誌IEEE Accessに採択されました:
-    * Ryoji Tanabe, Hisao Ishibuchi, and Akira Oyama: Benchmarking Multi- and Many-objective Evolutionary Algorithms under Two Optimization Scenarios, [(pdf)](pdf/tif-access.pdf)
+    * Ryoji Tanabe, Hisao Ishibuchi, and Akira Oyama: Benchmarking Multi- and Many-objective Evolutionary Algorithms under Two Optimization Scenarios, [(link-to-pdf)](http://ieeexplore.ieee.org/document/8031325/), [(supplemental-website)](https://sites.google.com/site/benchmarkingmoeas/)
 
 * 2017年7月23日: [GECCO2017](http://gecco-2017.sigevo.org/)のベストペーパーセッションにて負けました! 2つの発表スライドを[Publication](publication)にアプロードしましたので, よろしければ.
 
