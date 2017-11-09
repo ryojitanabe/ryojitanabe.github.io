@@ -28,6 +28,8 @@ title: Ryoji Tanabe's Homepage
 
 ### 2017
 
+* 田邊遼司, 石渕久生: **多峰性多数目的最適化問題に対するニッチングを用いたIndicator-Based Evolutionary Algorithm**, [進化計算シンポジウム2017](http://www.jpnsec.org/symposium201703.html), 北海道茅部郡森町, 12月
+
 * 田邊遼司, 石渕久生: **集団数が進化型多目的最適化アルゴリズムの探索性能と振る舞いに与える影響の解析**, [SSI2017](http://www.sice.or.jp/org/SSI2017/), 静岡大学, 11月
 
 ### 2016
