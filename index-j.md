@@ -5,6 +5,9 @@ title: Ryoji Tanabe's Homepage
 
 
 ### お知らせ
+* 2017年11月9日: [進化計算シンポジウム2017](http://www.jpnsec.org/symposium201703.html)で発表します:
+    * 田邊遼司, 石渕久生: 多峰性多数目的最適化問題に対するニッチングを用いたIndicator-Based Evolutionary Algorithm
+
 * 2017年9月14日: [SSI2017](http://www.sice.or.jp/org/SSI2017/)で発表します:
     * 田邊遼司, 石渕久生: 集団数が進化型多目的最適化アルゴリズムの探索性能と振る舞いに与える影響の解析
 
