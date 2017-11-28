@@ -43,8 +43,8 @@ title: Ryoji Tanabe's Homepage
 ## Professional Activities/Service
 
 * Program Committee Member
-  * GECCO: 2016, 2017
-  * CEC: 2014, 2016, 2017
+  * GECCO: 2016, 2017, 2018
+  * CEC: 2014, 2016, 2017, 2018
 * Reviewer
   * IEEE Transactions on Evolutionary Computation
   * IEEE Transactions on Cybernetics
