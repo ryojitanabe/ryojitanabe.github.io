@@ -5,6 +5,9 @@ title: Ryoji Tanabe's Homepage
 
 
 ### お知らせ
+* 2017年12月11日: [進化計算シンポジウム2017](http://www.jpnsec.org/symposium201703.html)の下記の発表で, ベストポスター発表賞とIEEE CIS Japan Chapter Young Researcher Awardを受賞しました:
+    * 田邊遼司, 石渕久生: 多峰性多数目的最適化問題に対するニッチングを用いたIndicator-Based Evolutionary Algorithm
+
 * 2017年11月9日: [進化計算シンポジウム2017](http://www.jpnsec.org/symposium201703.html)で発表します:
     * 田邊遼司, 石渕久生: 多峰性多数目的最適化問題に対するニッチングを用いたIndicator-Based Evolutionary Algorithm
 
@@ -13,6 +16,8 @@ title: Ryoji Tanabe's Homepage
 
 * 2017年8月31日: 我々の論文が論文誌IEEE Accessに採択されました:
     * Ryoji Tanabe, Hisao Ishibuchi, and Akira Oyama: Benchmarking Multi- and Many-objective Evolutionary Algorithms under Two Optimization Scenarios, [(link-to-pdf)](http://ieeexplore.ieee.org/document/8031325/), [(supplemental-website)](https://sites.google.com/site/benchmarkingmoeas/)
+
+{% comment %}
 
 * 2017年7月23日: [GECCO2017](http://gecco-2017.sigevo.org/)のベストペーパーセッションにて負けました! 2つの発表スライドを[Publication](publication)にアプロードしましたので, よろしければ.
 
@@ -23,7 +28,7 @@ title: Ryoji Tanabe's Homepage
 
 * 2017年4月13日: 科研費 若手研究 (B) に採択されました! が, 中国にいるため交付辞退しました...
 
-{% comment %}
+
 * 2017年4月12日: ウェブサイトを新しくしました! 中国ではGoogle siteが使えないので...
 {% endcomment %}
 
