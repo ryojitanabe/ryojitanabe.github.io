@@ -6,7 +6,7 @@ title: Ryoji Tanabe's Homepage
 ### 職歴
 
 * 2017年4月 ~
-  * 南方科技大学, Department of Computer Science and Engineering, 研究助教
+  * Southern University of Science and Technology, Department of Computer Science and Engineering, 研究助教
 * 2016年4月 ~ 2017年3月
   * 宇宙航空研究開発機構 宇宙科学研究所 招聘研究員
 * 2014年4月 ~ 2016年3月
@@ -40,10 +40,6 @@ title: Ryoji Tanabe's Homepage
 * 2014年: [IEEE CEC2014 Competition on Real-Parameter Single Objective Optimization](http://www3.ntu.edu.sg/home/EPNSugan/index_files/CEC2014/CEC2014.htm) 優勝
 * 2013年: IEEE CIS Outstanding Student-Paper Travel Grant Award
 * 2013年: [進化計算シンポジウム2013](http://www.jpnsec.org/symposium201303.html) ベストポスター発表賞
-
-
-* 2017年12月11日: [進化計算シンポジウム2017](http://www.jpnsec.org/symposium201703.html)の下記の発表で, ベストポスター発表賞とIEEE CIS Japan Chapter Young Researcher Awardを受賞しました:
-    * 田邊遼司, 石渕久生: 多峰性多数目的最適化問題に対するニッチングを用いたIndicator-Based Evolutionary Algorithm
 
 
 ### 学会活動歴

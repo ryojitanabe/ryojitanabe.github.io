@@ -37,14 +37,14 @@ title: Ryoji Tanabe's Homepage
 ### 田邊遼司, 博士 (学術)
 
 * 身分: 研究助教 (ポスドク)
-* 所属: [Department of Computer Science and Engineering](http://cse.sustc.edu.cn/en/site/index/), [南方科技大学](http://www.sustc.edu.cn/en/) 
+* 所属: [Department of Computer Science and Engineering](http://cse.sustc.edu.cn/en/site/index/), [Southern University of Science and Technology](http://www.sustc.edu.cn/en/) 
 * オフィス: Room 913, Nanshan i-Park building A7, Xueyuan Road 1088, Nanshan District, Shenzhen City, Guangdong Province, China
 * E-mail: rt.ryoji.tanabe [at] gmail.com
 * [Google Scholar](https://scholar.google.co.jp/citations?user=xze7scoAAAAJ&hl=en), [DBLP](http://dblp.uni-trier.de/pers/hd/t/Tanabe:Ryoji), [ブログ](http://d.hatena.ne.jp/LCRTB/)
 
 ### 略歴
 
-2017年4月から, 中国広東省深セン市の南方科技大学にて研究助教 (ポスドク) として勤務しています.
+2017年4月から, 中国広東省深セン市のSouthern University of Science and Technology (SUSTech) にて研究助教 (ポスドク) として勤務しています.
 [石渕研究室](http://www.cs.osakafu-u.ac.jp/~hisaoi/)所属です.
 2011年3月に上智大学を卒業, 2013年3月に上智大学大学院博士前期課程を修了しました.
 2016年3月に東京大学大学院博士後期課程を修了し,  博士 (学術) を取りました.
