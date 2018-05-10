@@ -7,6 +7,10 @@ Please also see [Google Scholar](https://scholar.google.co.jp/citations?user=xze
 
 ## Refereed Journal Papers
 
+### 2018
+
+* Ryoji Tanabe and Hisao Ishibuchi: **An Analysis of Control Parameters of MOEA/D Under Two Different Optimization Scenarios**, Applied Soft Computing [(pdf)](pdf/ti-moead-asoc18.pdf), [(supplemental-pdf)](pdf/ti-moead-asoc18-supp.pdf)
+
 ### 2017 
 
 * Ryoji Tanabe, Hisao Ishibuchi, and Akira Oyama: **Benchmarking Multi- and Many-objective Evolutionary Algorithms under Two Optimization Scenarios**, IEEE Access [(link-to-pdf)](http://ieeexplore.ieee.org/document/8031325/), [(supplemental-website)](https://sites.google.com/site/benchmarkingmoeas/)
