@@ -5,24 +5,33 @@ title: Ryoji Tanabe's Homepage
 
 英文論文は[Publication](/publication)で紹介しています. または [Google Scholar](https://scholar.google.co.jp/citations?user=xze7scoAAAAJ&hl=en) や [DBLP](http://dblp.uni-trier.de/pers/hd/t/Tanabe:Ryoji) をご覧ください.
 
+---
 
 ### 博士論文
 
 * 関数最適化問題に対する適応型差分進化法の研究 [(pdf)](https://drive.google.com/open?id=0B5QxTedsd-SXQlRld2Vjd1ZwZU0)
+
+---
 
 ### 和文論文誌 (査読有り)
 
 * 田邊遼司, 福永Alex: DEにおけるExponential Crossoverの再評価, [進化計算学会論文誌](http://www.jpnsec.org/index.html), vol. 6, no. 1, pp. 42-52 [(link)](https://www.jstage.jst.go.jp/article/tjpnsec/6/1/6_42/_article/-char/ja/)
 * 田邊遼司, 福永Alex: 自動チューナーを用いた異なる最大評価回数におけるDifferential Evolutionアルゴリズムのパラメータ設定の調査, [進化計算学会論文誌](http://www.jpnsec.org/index.html), vol. 6, no. 2, pp. 67-81 [(link)](https://www.jstage.jst.go.jp/article/tjpnsec/6/2/6_67/_article/-char/ja/)
 
+---
+
 ### 解説
 
 * 田邊遼司, 串田淳一, 畠中利治: 関数最適化における進化計算, [計測自動制御学会学会誌「計測と制御」](http://www.sice.jp/pub/pub_journal_j.html), vol. 54, no. 8, pp. 567-572, 2015 [(link)](https://www.jstage.jst.go.jp/article/sicejl/54/8/54_567/_article/-char/ja/)
+
+---
 
 ### インタビュー記事
 
 * 田邊遼司, 小野淳平: 大林茂先生インタビュー「境界領域の研究に目を向けよう」, 人工知能 (学生フォーラム), vol. 30, no. 3, pp. 398 - 401, 2015 [link](https://jsai.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&page_id=13&block_id=23&item_id=1906&item_no=1)
 * 田邊遼司, 林 侑輝:  伊庭斉志先生インタビュー「進化からの知能の実現」, 人工知能 (学生フォーラム), vol. 29, no. 5, pp. 570 - 572, 2014 [link](https://jsai.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=1708&item_no=1&page_id=13&block_id=23)
+
+---
 
 ### 国内研究発表 (査読無し)
 

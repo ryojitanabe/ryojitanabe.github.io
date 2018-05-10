@@ -5,6 +5,18 @@ title: Ryoji Tanabe's Homepage
 
 Please also see [Google Scholar](https://scholar.google.co.jp/citations?user=xze7scoAAAAJ&hl=en) or [DBLP](http://dblp.uni-trier.de/pers/hd/t/Tanabe:Ryoji). All articles that can be downloaded from this page are accepted versions, not final published versions.
 
+---
+
+## Selected Papers
+
+*  Ryoji Tanabe and Alex Fukunaga: **TPAM: A Simulation-Based Model for Quantitatively Analyzing Parameter Adaptation Methods**, Proc. ACM Genetic and Evolutionary Computation Conference [(GECCO2017)](http://gecco-2017.sigevo.org/), [(pdf)](pdf/tf-gecco2017.pdf), [(supplemental-pdf)](pdf/tf-gecco2017-supp.pdf), [(slide)](pdf/tf-gecco2017-slide.pdf)
+   * Nominated for the best paper at [GECCO2017](http://gecco-2017.sigevo.org/) 
+* Ryoji Tanabe and Alex Fukunaga: **How Far Are We From an Optimal, Adaptive DE?**, Proc. Parallel Problem Solving from Nature [(PPSN2016)](http://www.ppsn2016.org/conference/) [(pdf)](pdf/tf-ppsn16.pdf), [(supplemental-pdf)](pdf/tf-ppsn16-supp.pdf)
+* Ryoji Tanabe and Alex Fukunaga: **Success-History Based Parameter Adaptation for Differential Evolution**, Proc. IEEE Congress on Evolutionary Computation [(CEC2013)](http://www.cec2013.org/), [(pdf)](tf-cec2013-shade.pdf)
+    * [(C++ code)](code/SHADE1.1.1_CEC2014_c++.zip), [(Matlab/Octave code)](code/SHADE1.1.1_CEC2014_Matlab_Octave.zip), [(Java code)](code/SHADE1.1.1_CEC2014_Java.zip)
+
+---
+
 ## Refereed Journal Papers
 
 ### 2018
@@ -16,6 +28,7 @@ Please also see [Google Scholar](https://scholar.google.co.jp/citations?user=xze
 * Ryoji Tanabe, Hisao Ishibuchi, and Akira Oyama: **Benchmarking Multi- and Many-objective Evolutionary Algorithms under Two Optimization Scenarios**, IEEE Access [(link-to-pdf)](http://ieeexplore.ieee.org/document/8031325/), [(supplemental-website)](https://sites.google.com/site/benchmarkingmoeas/)
    * This paper is an extended version of our GECCO2017 paper
 
+---
 
 ## Refereed Conference Papers
 
