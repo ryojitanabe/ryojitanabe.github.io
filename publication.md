@@ -32,6 +32,11 @@ Please also see [Google Scholar](https://scholar.google.co.jp/citations?user=xze
 
 ## Refereed Conference Papers
 
+### 2018
+
+*  Ryoji Tanabe and Hisao Ishibuchi: **A Decomposition-based Evolutionary Algorithm for Multi-modal Multi-objective Optimization**, Proc. Parallel Problem Solving from Nature [(PPSN2018)](http://ppsn2018.dei.uc.pt/) (pdf)
+
+
 ### 2017 
 
 *  Ryoji Tanabe and Alex Fukunaga: **TPAM: A Simulation-Based Model for Quantitatively Analyzing Parameter Adaptation Methods**, Proc. ACM Genetic and Evolutionary Computation Conference [(GECCO2017)](http://gecco-2017.sigevo.org/), [(pdf)](pdf/tf-gecco2017.pdf), [(supplemental-pdf)](pdf/tf-gecco2017-supp.pdf), [(slide)](pdf/tf-gecco2017-slide.pdf)
