@@ -21,7 +21,7 @@ Please also see [Google Scholar](https://scholar.google.co.jp/citations?user=xze
 
 ### 2018
 
-* Ryoji Tanabe and Hisao Ishibuchi: **An Analysis of Control Parameters of MOEA/D Under Two Different Optimization Scenarios**, Applied Soft Computing [(pdf)](pdf/ti-moead-asoc18.pdf), [(supplemental-pdf)](pdf/ti-moead-asoc18-supp.pdf)
+* Ryoji Tanabe and Hisao Ishibuchi: **An Analysis of Control Parameters of MOEA/D Under Two Different Optimization Scenarios**, [Applied Soft Computing](https://www.journals.elsevier.com/applied-soft-computing/) [(pdf)](pdf/ti-moead-asoc18.pdf), [(supplemental-pdf)](pdf/ti-moead-asoc18-supp.pdf)
 
 ### 2017 
 
@@ -34,7 +34,7 @@ Please also see [Google Scholar](https://scholar.google.co.jp/citations?user=xze
 
 ### 2018
 
-*  Ryoji Tanabe and Hisao Ishibuchi: **A Decomposition-based Evolutionary Algorithm for Multi-modal Multi-objective Optimization**, Proc. Parallel Problem Solving from Nature [(PPSN2018)](http://ppsn2018.dei.uc.pt/) (pdf)
+*  Ryoji Tanabe and Hisao Ishibuchi: **A Decomposition-based Evolutionary Algorithm for Multi-modal Multi-objective Optimization**, Proc. Parallel Problem Solving from Nature [(PPSN2018)](http://ppsn2018.dei.uc.pt/) (pdf), [(code)](code/moeadad-1.0.tar.gz)
 
 
 ### 2017 

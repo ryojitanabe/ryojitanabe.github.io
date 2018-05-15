@@ -7,9 +7,9 @@ title: Ryoji Tanabe's Homepage
 ## NEWS
 
 * 15 May 2018: Our paper has been accepted to [PPSN2018](http://ppsn2018.dei.uc.pt/):
-    * Ryoji Tanabe and Hisao Ishibuchi: A Decomposition-based Evolutionary Algorithm for Multi-modal Multi-objective Optimization. (pdf)
+    * Ryoji Tanabe and Hisao Ishibuchi: A Decomposition-based Evolutionary Algorithm for Multi-modal Multi-objective Optimization. (pdf), [(code)](code/moeadad-1.0.tar.gz)
 
-* 10 May 2018: Our paper has been accepted to Applied Soft Computing:
+* 10 May 2018: Our paper has been accepted to [Applied Soft Computing](https://www.journals.elsevier.com/applied-soft-computing/):
     * Ryoji Tanabe and Hisao Ishibuchi: An Analysis of Control Parameters of MOEA/D Under Two Different Optimization Scenarios. [(pdf)](pdf/ti-moead-asoc18.pdf), [(supplemental-pdf)](pdf/ti-moead-asoc18-supp.pdf)
 
 * 31 August 2017: Our paper has been accepted to IEEE Access:
