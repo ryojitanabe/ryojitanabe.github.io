@@ -10,7 +10,7 @@ title: Ryoji Tanabe's Homepage
     * Ryoji Tanabe and Hisao Ishibuchi: A Decomposition-based Evolutionary Algorithm for Multi-modal Multi-objective Optimization. [(pdf)](pdf/ti-moeadad-ppsn18.pdf), [(code)](code/moeadad-1.0.tar.gz)
 
 * 2018年5月10日: 我々の論文が論文誌[Applied Soft Computing](https://www.journals.elsevier.com/applied-soft-computing/)に採択されました:
-    * Ryoji Tanabe and Hisao Ishibuchi: An Analysis of Control Parameters of MOEA/D Under Two Different Optimization Scenarios. [(pdf)](pdf/ti-moead-asoc18.pdf), [(supplemental-pdf)](pdf/ti-moead-asoc18-supp.pdf)
+    * Ryoji Tanabe and Hisao Ishibuchi: An Analysis of Control Parameters of MOEA/D Under Two Different Optimization Scenarios. [(link)](https://www.sciencedirect.com/science/article/pii/S1568494618302771) [(pdf)](pdf/ti-moead-asoc18.pdf), [(supplemental-pdf)](pdf/ti-moead-asoc18-supp.pdf)
 
 
 * 2017年12月11日: [進化計算シンポジウム2017](http://www.jpnsec.org/symposium201703.html)の下記の発表で, ベストポスター発表賞とIEEE CIS Japan Chapter Young Researcher Awardを受賞しました:
