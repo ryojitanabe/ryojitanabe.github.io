@@ -6,16 +6,20 @@ title: Ryoji Tanabe's Homepage
 
 ## NEWS
 
+* 26 July 2018: Our paper describing a novel MOEA/D for multi-modal multi-objective optimization has been nominated for the best paper award at [PPSN2018](http://ppsn2018.dei.uc.pt/index.php/award/).
+    * Ryoji Tanabe and Hisao Ishibuchi: A Decomposition-based Evolutionary Algorithm for Multi-modal Multi-objective Optimization. [(pdf)](pdf/ti-moeadad-ppsn18.pdf), [(code)](code/moeadad-1.0.tar.gz)
+
 * 15 May 2018: Our paper has been accepted to [PPSN2018](http://ppsn2018.dei.uc.pt/):
     * Ryoji Tanabe and Hisao Ishibuchi: A Decomposition-based Evolutionary Algorithm for Multi-modal Multi-objective Optimization. [(pdf)](pdf/ti-moeadad-ppsn18.pdf), [(code)](code/moeadad-1.0.tar.gz)
 
 * 10 May 2018: Our paper has been accepted to [Applied Soft Computing](https://www.journals.elsevier.com/applied-soft-computing/):
     * Ryoji Tanabe and Hisao Ishibuchi: An Analysis of Control Parameters of MOEA/D Under Two Different Optimization Scenarios. [(link)](https://www.sciencedirect.com/science/article/pii/S1568494618302771), [(pdf)](pdf/ti-moead-asoc18.pdf), [(supplemental-pdf)](pdf/ti-moead-asoc18-supp.pdf)
 
+{% comment %}
+
 * 31 August 2017: Our paper has been accepted to IEEE Access:
     * Ryoji Tanabe, Hisao Ishibuchi, and Akira Oyama: Benchmarking Multi- and Many-objective Evolutionary Algorithms under Two Optimization Scenarios, [(link-to-pdf)](http://ieeexplore.ieee.org/document/8031325/), [(supplemental-website)](https://sites.google.com/site/benchmarkingmoeas/)
 
-{% comment %}
 
 * 23 July 2017: I lost a best paper award competition at [GECCO2017](http://gecco-2017.sigevo.org/)! I uploaded two presentation slides. If you are interested, please check [Publication](publication).
 

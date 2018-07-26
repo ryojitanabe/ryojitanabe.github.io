@@ -6,17 +6,21 @@ title: Ryoji Tanabe's Homepage
 
 ### お知らせ
 
+* 2018年7月26日: 我々の論文が国際会議[PPSN2018](http://ppsn2018.dei.uc.pt/index.php/award/)にてベストペーパーにノミネートされました.
+    * Ryoji Tanabe and Hisao Ishibuchi: A Decomposition-based Evolutionary Algorithm for Multi-modal Multi-objective Optimization. [(pdf)](pdf/ti-moeadad-ppsn18.pdf), [(code)](code/moeadad-1.0.tar.gz)
+
 * 2018年5月15日: 我々の論文が国際会議[PPSN2018](http://ppsn2018.dei.uc.pt/)に採択されました:
     * Ryoji Tanabe and Hisao Ishibuchi: A Decomposition-based Evolutionary Algorithm for Multi-modal Multi-objective Optimization. [(pdf)](pdf/ti-moeadad-ppsn18.pdf), [(code)](code/moeadad-1.0.tar.gz)
 
 * 2018年5月10日: 我々の論文が論文誌[Applied Soft Computing](https://www.journals.elsevier.com/applied-soft-computing/)に採択されました:
     * Ryoji Tanabe and Hisao Ishibuchi: An Analysis of Control Parameters of MOEA/D Under Two Different Optimization Scenarios. [(link)](https://www.sciencedirect.com/science/article/pii/S1568494618302771) [(pdf)](pdf/ti-moead-asoc18.pdf), [(supplemental-pdf)](pdf/ti-moead-asoc18-supp.pdf)
 
+{% comment %}
 
 * 2017年12月11日: [進化計算シンポジウム2017](http://www.jpnsec.org/symposium201703.html)の下記の発表で, ベストポスター発表賞とIEEE CIS Japan Chapter Young Researcher Awardを受賞しました:
     * 田邊遼司, 石渕久生: 多峰性多数目的最適化問題に対するニッチングを用いたIndicator-Based Evolutionary Algorithm
 
-{% comment %}
+
 * 2017年11月9日: [進化計算シンポジウム2017](http://www.jpnsec.org/symposium201703.html)で発表します:
     * 田邊遼司, 石渕久生: 多峰性多数目的最適化問題に対するニッチングを用いたIndicator-Based Evolutionary Algorithm
 
