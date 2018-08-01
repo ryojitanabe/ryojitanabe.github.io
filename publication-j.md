@@ -35,6 +35,10 @@ title: Ryoji Tanabe's Homepage
 
 ### 国内研究発表 (査読無し)
 
+### 2018
+
+* 田邊遼司, 石渕久生: **分解に基づく多峰性多目的最適化**, [2018 JPNSEC International Workshop on Evolutionary Computation](http://www.jpnsec.org/symposium201802.html), SUSTech, 8月
+   
 ### 2017
 
 * 田邊遼司, 石渕久生: **多峰性多数目的最適化問題に対するニッチングを用いたIndicator-Based Evolutionary Algorithm**, [進化計算シンポジウム2017](http://www.jpnsec.org/symposium201703.html), 北海道茅部郡森町, 12月

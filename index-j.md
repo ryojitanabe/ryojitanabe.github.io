@@ -6,6 +6,9 @@ title: Ryoji Tanabe's Homepage
 
 ### お知らせ
 
+* 2018年8月1日: [進化計算学会研究会@深セン](http://www.jpnsec.org/symposium201802.html)で発表します:
+    * 田邊遼司, 石渕久生: 分解に基づく多峰性多目的最適化
+
 * 2018年7月26日: 我々の論文が国際会議[PPSN2018](http://ppsn2018.dei.uc.pt/index.php/award/)にてベストペーパーにノミネートされました.
     * Ryoji Tanabe and Hisao Ishibuchi: A Decomposition-based Evolutionary Algorithm for Multi-modal Multi-objective Optimization. [(pdf)](pdf/ti-moeadad-ppsn18.pdf), [(code)](code/moeadad-1.0.tar.gz)
 
