@@ -6,7 +6,7 @@ title: Ryoji Tanabe's Homepage
 
 ## NEWS
 
-* 12 September 2018: I lost the best paper award competition again this year too! My poster for [PPSN2018](http://ppsn2018.dei.uc.pt/) is available from [here](ti-ppsn2018-poster.pdf).
+* 12 September 2018: I lost the best paper award competition again this year too! My poster for [PPSN2018](http://ppsn2018.dei.uc.pt/) is available from [here](pdf/ti-ppsn2018-poster.pdf).
 
 * 26 July 2018: Our paper describing a novel MOEA/D for multi-modal multi-objective optimization has been nominated for the best paper award at [PPSN2018](http://ppsn2018.dei.uc.pt/index.php/award/).
     * Ryoji Tanabe and Hisao Ishibuchi: A Decomposition-based Evolutionary Algorithm for Multi-modal Multi-objective Optimization. [(pdf)](pdf/ti-moeadad-ppsn18.pdf), [(code)](code/moeadad-1.0.tar.gz)
