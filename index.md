@@ -6,6 +6,9 @@ title: Ryoji Tanabe's Homepage
 
 ## NEWS
 
+* 18 October 2018: Our paper has been conditionally accepted to [IEEE Transactions on Cybernetics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036):
+    * Ryoji Tanabe and Alex Fukunaga: Reviewing and Benchmarking Parameter Control Methods in Differential Evolution. (link-to-pdf), (link-to-supplemental-website)
+
 * 12 September 2018: I lost the best paper award competition again this year too! My poster for [PPSN2018](http://ppsn2018.dei.uc.pt/) is available from [here](pdf/ti-ppsn2018-poster.pdf).
 
 * 26 July 2018: Our paper describing a novel MOEA/D for multi-modal multi-objective optimization has been nominated for the best paper award at [PPSN2018](http://ppsn2018.dei.uc.pt/index.php/award/).
