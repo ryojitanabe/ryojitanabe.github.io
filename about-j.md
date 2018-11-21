@@ -46,16 +46,15 @@ title: Ryoji Tanabe's Homepage
 ### 学会活動歴
 
 * Program Committee Member
-  * GECCO: 2016, 2017, 2018
-  * CEC: 2014, 2016, 2017, 2018
+  * GECCO: 2016, 2017, 2018, 2019
+  * CEC: 2014, 2016, 2017, 2018, 2019
 * Reviewer
   * IEEE Transactions on Evolutionary Computation
   * IEEE Transactions on Cybernetics
   * IEEE Transactions on Fuzzy Systems
-  * IEEE Access
   * Swarm and Evolutionary Computation
-  * Memetic Computing
   * Applied Soft Computing
+  * etc.
 
 * 所属学会
   * 計測自動制御学会
