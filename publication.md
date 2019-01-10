@@ -7,18 +7,6 @@ Please also see [Google Scholar](https://scholar.google.co.jp/citations?user=xze
 
 ---
 
-## Selected Papers
-
-*  Ryoji Tanabe and Hisao Ishibuchi: **A Decomposition-based Evolutionary Algorithm for Multi-modal Multi-objective Optimization**, Proc. Parallel Problem Solving from Nature [(PPSN2018)](http://ppsn2018.dei.uc.pt/) [(pdf)](pdf/ti-moeadad-ppsn18.pdf), [(code)](code/moeadad-1.0.tar.gz), [poster](pdf/ti-ppsn2018-poster.pdf)
-   * Nominated for the best paper at [PPSN2018](http://ppsn2018.dei.uc.pt/)
-*  Ryoji Tanabe and Alex Fukunaga: **TPAM: A Simulation-Based Model for Quantitatively Analyzing Parameter Adaptation Methods**, Proc. ACM Genetic and Evolutionary Computation Conference [(GECCO2017)](http://gecco-2017.sigevo.org/), [(pdf)](pdf/tf-gecco2017.pdf), [(supplemental-pdf)](pdf/tf-gecco2017-supp.pdf), [(slide)](pdf/tf-gecco2017-slide.pdf)
-   * Nominated for the best paper at [GECCO2017](http://gecco-2017.sigevo.org/) 
-* Ryoji Tanabe and Alex Fukunaga: **How Far Are We From an Optimal, Adaptive DE?**, Proc. Parallel Problem Solving from Nature [(PPSN2016)](http://www.ppsn2016.org/conference/) [(pdf)](pdf/tf-ppsn16.pdf), [(supplemental-pdf)](pdf/tf-ppsn16-supp.pdf)
-* Ryoji Tanabe and Alex Fukunaga: **Success-History Based Parameter Adaptation for Differential Evolution**, Proc. IEEE Congress on Evolutionary Computation [(CEC2013)](http://www.cec2013.org/), [(pdf)](tf-cec2013-shade.pdf)
-    * [(C++ code)](code/SHADE1.1.1_CEC2014_c++.zip), [(Matlab/Octave code)](code/SHADE1.1.1_CEC2014_Matlab_Octave.zip), [(Java code)](code/SHADE1.1.1_CEC2014_Java.zip)
-
----
-
 ## Refereed Journal Papers
 
 ### 2019
@@ -41,12 +29,12 @@ Please also see [Google Scholar](https://scholar.google.co.jp/citations?user=xze
 ### 2018
 
 *  Ryoji Tanabe and Hisao Ishibuchi: **A Decomposition-based Evolutionary Algorithm for Multi-modal Multi-objective Optimization**, Proc. Parallel Problem Solving from Nature [(PPSN2018)](http://ppsn2018.dei.uc.pt/) [(pdf)](pdf/ti-moeadad-ppsn18.pdf), [(code)](code/moeadad-1.0.tar.gz)
-   * Nominated for the best paper at [PPSN2018](http://ppsn2018.dei.uc.pt/)
+   * <span style="color:#C31D1D;">Nominated for the best paper at [PPSN2018](http://ppsn2018.dei.uc.pt/)</span> 
 
 ### 2017 
 
 *  Ryoji Tanabe and Alex Fukunaga: **TPAM: A Simulation-Based Model for Quantitatively Analyzing Parameter Adaptation Methods**, Proc. ACM Genetic and Evolutionary Computation Conference [(GECCO2017)](http://gecco-2017.sigevo.org/), [(pdf)](pdf/tf-gecco2017.pdf), [(supplemental-pdf)](pdf/tf-gecco2017-supp.pdf), [(slide)](pdf/tf-gecco2017-slide.pdf)
-   * Nominated for the best paper at [GECCO2017](http://gecco-2017.sigevo.org/) 
+   * <span style="color:#C31D1D;">Nominated for the best paper at [GECCO2017](http://gecco-2017.sigevo.org/)</span> 
 
 * Ryoji Tanabe and Akira Oyama: **Benchmarking MOEAs for Multi- and Many-objective Optimization Using an Unbounded External Archive**, Proc. ACM Genetic and Evolutionary Computation Conference [(GECCO2017)](http://gecco-2017.sigevo.org/), [(pdf)](pdf/to-gecco2017.pdf), [(supplemental-pdf)](pdf/to-gecco2017-supp.pdf), [(slide)](pdf/to-gecco2017-slide.pdf)
   * Experimental data used in this paper can be downloaded from [here](https://sites.google.com/site/benchmarkingmoeas/)
