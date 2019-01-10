@@ -6,6 +6,8 @@ title: Ryoji Tanabe's Homepage
 
 ### お知らせ
 
+* 2019年1月10日: 我々の論文が論文誌[IEEE Transactions on Cybernetics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036)に採択されました:
+    * Ryoji Tanabe and Alex Fukunaga: Reviewing and Benchmarking Parameter Control Methods in Differential Evolution. [(pdf)](pdf/tf-tcyb2018.pdf), [(supplemental-pdf)](pdf/tf-tcyb2018-supp.pdf), [(supplemental-website)](https://sites.google.com/view/pcmde/)
 
 * 2018年10月30日: [進化計算シンポジウム2018](http://www.jpnsec.org/symposium201803.html)で発表します:
     * 田邊遼司, 石渕久生: 近似最適な目的ベクトル集合

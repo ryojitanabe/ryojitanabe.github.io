@@ -21,6 +21,10 @@ Please also see [Google Scholar](https://scholar.google.co.jp/citations?user=xze
 
 ## Refereed Journal Papers
 
+### 2019
+
+* Ryoji Tanabe and Alex Fukunaga: **Reviewing and Benchmarking Parameter Control Methods in Differential Evolution**, [IEEE Transactions on Cybernetics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036), [(pdf)](pdf/tf-tcyb2018.pdf), [(supplemental-pdf)](pdf/tf-tcyb2018-supp.pdf), [(supplemental-website)](https://sites.google.com/view/pcmde/)
+
 ### 2018
 
 * Ryoji Tanabe and Hisao Ishibuchi: **An Analysis of Control Parameters of MOEA/D Under Two Different Optimization Scenarios**, [Applied Soft Computing](https://www.journals.elsevier.com/applied-soft-computing/) [(link)](https://www.sciencedirect.com/science/article/pii/S1568494618302771), [(pdf)](pdf/ti-moead-asoc18.pdf), [(supplemental-pdf)](pdf/ti-moead-asoc18-supp.pdf)
