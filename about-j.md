@@ -58,7 +58,6 @@ title: Ryoji Tanabe's Homepage
 
 * 所属学会
   * 計測自動制御学会
-  * 人工知能学会
   * 進化計算学会
   * ACM SIGEVO 
   * IEEE CIS
