@@ -6,6 +6,9 @@ title: Ryoji Tanabe's Homepage
 
 ### お知らせ
 
+* 2019年2月6日: 我々の論文が論文誌[Soft Computing](https://link.springer.com/journal/500)に採択されました:
+    * Ryoji Tanabe and Hisao Ishibuchi: Review and Analysis of Three Components of the Differential Evolution Mutation Operator in MOEA/D-DE. [(pdf)](pdf/ti-soco2019.pdf), [(supplemental-pdf)](pdf/ti-soco2019-supp.pdf)
+
 * 2019年1月10日: 我々の論文が論文誌[IEEE Transactions on Cybernetics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036)に採択されました:
     * Ryoji Tanabe and Alex Fukunaga: Reviewing and Benchmarking Parameter Control Methods in Differential Evolution. [(pdf)](pdf/tf-tcyb2018.pdf), [(supplemental-pdf)](pdf/tf-tcyb2018-supp.pdf), [(supplemental-website)](https://sites.google.com/view/pcmde/)
 
