@@ -12,6 +12,8 @@ title: Ryoji Tanabe's Homepage
 * 2019年1月10日: 我々の論文が論文誌[IEEE Transactions on Cybernetics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036)に採択されました:
     * Ryoji Tanabe and Alex Fukunaga: Reviewing and Benchmarking Parameter Control Methods in Differential Evolution. [(pdf)](pdf/tf-tcyb2018.pdf), [(supplemental-pdf)](pdf/tf-tcyb2018-supp.pdf), [(supplemental-website)](https://sites.google.com/view/pcmde/)
 
+{% comment %}
+
 * 2018年10月30日: [進化計算シンポジウム2018](http://www.jpnsec.org/symposium201803.html)で発表します:
     * 田邊遼司, 石渕久生: 近似最適な目的ベクトル集合
 
@@ -30,7 +32,7 @@ title: Ryoji Tanabe's Homepage
 * 2018年5月10日: 我々の論文が論文誌[Applied Soft Computing](https://www.journals.elsevier.com/applied-soft-computing/)に採択されました:
     * Ryoji Tanabe and Hisao Ishibuchi: An Analysis of Control Parameters of MOEA/D Under Two Different Optimization Scenarios. [(link)](https://www.sciencedirect.com/science/article/pii/S1568494618302771) [(pdf)](pdf/ti-moead-asoc18.pdf), [(supplemental-pdf)](pdf/ti-moead-asoc18-supp.pdf)
 
-{% comment %}
+
 
 * 2017年12月11日: [進化計算シンポジウム2017](http://www.jpnsec.org/symposium201703.html)の下記の発表で, ベストポスター発表賞とIEEE CIS Japan Chapter Young Researcher Awardを受賞しました:
     * 田邊遼司, 石渕久生: 多峰性多数目的最適化問題に対するニッチングを用いたIndicator-Based Evolutionary Algorithm

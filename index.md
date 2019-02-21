@@ -11,7 +11,9 @@ title: Ryoji Tanabe's Homepage
 
 * 10 January 2019: Our paper has been accepted to [IEEE Transactions on Cybernetics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036):
     * Ryoji Tanabe and Alex Fukunaga: Reviewing and Benchmarking Parameter Control Methods in Differential Evolution. [(pdf)](pdf/tf-tcyb2018.pdf), [(supplemental-pdf)](pdf/tf-tcyb2018-supp.pdf), [(supplemental-website)](https://sites.google.com/view/pcmde/)
-  
+
+{% comment %}
+
 * 18 October 2018: Our paper has been conditionally accepted to [IEEE Transactions on Cybernetics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036):
     * Ryoji Tanabe and Alex Fukunaga: Reviewing and Benchmarking Parameter Control Methods in Differential Evolution. (link-to-pdf), (link-to-supplemental-website)
 
@@ -26,7 +28,7 @@ title: Ryoji Tanabe's Homepage
 * 10 May 2018: Our paper has been accepted to [Applied Soft Computing](https://www.journals.elsevier.com/applied-soft-computing/):
     * Ryoji Tanabe and Hisao Ishibuchi: An Analysis of Control Parameters of MOEA/D Under Two Different Optimization Scenarios. [(link)](https://www.sciencedirect.com/science/article/pii/S1568494618302771), [(pdf)](pdf/ti-moead-asoc18.pdf), [(supplemental-pdf)](pdf/ti-moead-asoc18-supp.pdf)
 
-{% comment %}
+
 
 * 31 August 2017: Our paper has been accepted to IEEE Access:
     * Ryoji Tanabe, Hisao Ishibuchi, and Akira Oyama: Benchmarking Multi- and Many-objective Evolutionary Algorithms under Two Optimization Scenarios, [(link-to-pdf)](http://ieeexplore.ieee.org/document/8031325/), [(supplemental-website)](https://sites.google.com/site/benchmarkingmoeas/)

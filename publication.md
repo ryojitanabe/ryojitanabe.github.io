@@ -13,7 +13,7 @@ Please also see [Google Scholar](https://scholar.google.co.jp/citations?user=xze
 
 * Ryoji Tanabe and Alex Fukunaga: **Reviewing and Benchmarking Parameter Control Methods in Differential Evolution**, [IEEE Transactions on Cybernetics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036), [(link)](https://ieeexplore.ieee.org/document/8626758), [(pdf)](pdf/tf-tcyb2018.pdf), [(supplemental-pdf)](pdf/tf-tcyb2018-supp.pdf), [(supplemental-website)](https://sites.google.com/view/pcmde/)
 
-* Ryoji Tanabe and Hisao Ishibuchi: **Review and Analysis of Three Components of the Differential Evolution Mutation Operator in MOEA/D-DE**, [Soft Computing](https://link.springer.com/journal/500), [(pdf)](pdf/ti-soco2019.pdf), [(supplemental-pdf)](pdf/ti-soco2019-supp.pdf)
+* Ryoji Tanabe and Hisao Ishibuchi: **Review and Analysis of Three Components of the Differential Evolution Mutation Operator in MOEA/D-DE**, [Soft Computing](https://link.springer.com/journal/500), [(link)](https://link.springer.com/article/10.1007%2Fs00500-019-03842-6), [(pdf)](pdf/ti-soco2019.pdf), [(supplemental-pdf)](pdf/ti-soco2019-supp.pdf)
 
 ### 2018
 
