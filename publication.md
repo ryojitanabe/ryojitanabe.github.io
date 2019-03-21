@@ -28,6 +28,10 @@ Please also see [Google Scholar](https://scholar.google.co.jp/citations?user=xze
 
 ## Refereed Conference Papers
 
+### 2019
+
+*  Ryoji Tanabe and Hisao Ishibuchi: **Non-elitist Evolutionary Multi-objective Optimizers Revisited**, Proc. ACM Genetic and Evolutionary Computation Conference [(GECCO2019)](http://gecco-2019.sigevo.org/), (pdf), (code), (data)
+
 ### 2018
 
 *  Ryoji Tanabe and Hisao Ishibuchi: **A Decomposition-based Evolutionary Algorithm for Multi-modal Multi-objective Optimization**, Proc. Parallel Problem Solving from Nature [(PPSN2018)](http://ppsn2018.dei.uc.pt/) [(pdf)](pdf/ti-moeadad-ppsn18.pdf), [(code)](code/moeadad-1.0.tar.gz)

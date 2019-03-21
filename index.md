@@ -6,6 +6,9 @@ title: Ryoji Tanabe's Homepage
 
 ## NEWS
 
+* 21 March 2019: Our paper has been accepted to [ACM GECCO2019](https://gecco-2019.sigevo.org/):
+    * Ryoji Tanabe and Hisao Ishibuchi: Non-elitist Evolutionary Multi-objective Optimizers Revisited. (pdf), (code), (data)
+
 * 6 February 2019: Our paper has been accepted to [Soft Computing](https://link.springer.com/journal/500):
     * Ryoji Tanabe and Hisao Ishibuchi: Review and Analysis of Three Components of the Differential Evolution Mutation Operator in MOEA/D-DE. [(pdf)](pdf/ti-soco2019.pdf), [(supplemental-pdf)](pdf/ti-soco2019-supp.pdf)
 
