@@ -15,6 +15,8 @@ Please also see [Google Scholar](https://scholar.google.co.jp/citations?user=xze
 
 * Ryoji Tanabe and Hisao Ishibuchi: **Review and Analysis of Three Components of the Differential Evolution Mutation Operator in MOEA/D-DE**, [Soft Computing](https://link.springer.com/journal/500), [(link)](https://link.springer.com/article/10.1007%2Fs00500-019-03842-6), [(pdf)](pdf/ti-soco2019.pdf), [(supplemental-pdf)](pdf/ti-soco2019-supp.pdf)
 
+* Ryoji Tanabe and Hisao Ishibuchi: **A Review of Evolutionary Multi-modal Multi-objective Optimization**, [IEEE Transactions on Evolutionary Computation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235), pdf, supplemental-website
+
 ### 2018
 
 * Ryoji Tanabe and Hisao Ishibuchi: **An Analysis of Control Parameters of MOEA/D Under Two Different Optimization Scenarios**, [Applied Soft Computing](https://www.journals.elsevier.com/applied-soft-computing/) [(link)](https://www.sciencedirect.com/science/article/pii/S1568494618302771), [(pdf)](pdf/ti-moead-asoc18.pdf), [(supplemental-pdf)](pdf/ti-moead-asoc18-supp.pdf)

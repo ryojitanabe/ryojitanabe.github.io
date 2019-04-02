@@ -6,6 +6,9 @@ title: Ryoji Tanabe's Homepage
 
 ## NEWS
 
+* 2 April 2019: Our paper has been accepted to [IEEE Transactions on Evolutionary Computation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235):
+    * Ryoji Tanabe and Hisao Ishibuchi: A Review of Evolutionary Multi-modal Multi-objective Optimization. pdf, supplemental-website
+
 * 21 March 2019: Our paper has been accepted to [ACM GECCO2019](https://gecco-2019.sigevo.org/):
     * Ryoji Tanabe and Hisao Ishibuchi: Non-elitist Evolutionary Multi-objective Optimizers Revisited. [pdf](pdf/ti-gecco2019.pdf), [code](https://drive.google.com/open?id=1utAyXaOHJwtmhQIvdHMqtmlrrdgAlRno), [supplemental-website](https://sites.google.com/view/nemorgecco2019/)
 
