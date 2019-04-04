@@ -6,11 +6,8 @@ title: Ryoji Tanabe's Homepage
 
 ### お知らせ
 
-* 2019年4月2日: 我々の論文が論文誌[IEEE Transactions on Evolutionary Computation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235)に採択されました:
-    * Ryoji Tanabe and Hisao Ishibuchi: A Review of Evolutionary Multi-modal Multi-objective Optimization. [pdf](pdf/ti-emmo-tevc2019.pdf), [code](https://drive.google.com/file/d/19tK-_CEBn08U0_TDdD3tfQ_QvOqxaZ5A/view)
-
 * 2019年3月21日: 我々の論文が国際会議[ACM GECCO2019](https://gecco-2019.sigevo.org/)に採択されました:
-    * Ryoji Tanabe and Hisao Ishibuchi: Non-elitist Evolutionary Multi-objective Optimizers Revisited. [pdf](pdf/ti-gecco2019.pdf), [code](https://drive.google.com/open?id=1utAyXaOHJwtmhQIvdHMqtmlrrdgAlRno), [supplemental-website](https://sites.google.com/view/nemorgecco2019/)
+    * Ryoji Tanabe and Hisao Ishibuchi: Non-elitist Evolutionary Multi-objective Optimizers Revisited. (pdf), [(code)](code/emoeas_coco_gecco2019.zip), [(ppdata)](expdata/gecco2019_ppdata.zip), (data)
 
 * 2019年2月6日: 我々の論文が論文誌[Soft Computing](https://link.springer.com/journal/500)に採択されました:
     * Ryoji Tanabe and Hisao Ishibuchi: Review and Analysis of Three Components of the Differential Evolution Mutation Operator in MOEA/D-DE. [(pdf)](pdf/ti-soco2019.pdf), [(supplemental-pdf)](pdf/ti-soco2019-supp.pdf)
