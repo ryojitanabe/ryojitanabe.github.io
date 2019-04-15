@@ -5,7 +5,9 @@ title: Ryoji Tanabe's Homepage
 
 ### 職歴
 
-* 2017年4月 ~
+* 2020年4月 ~
+  * 求職中
+* 2017年4月 ~ 2020年3月
   * Southern University of Science and Technology, Department of Computer Science and Engineering, 研究助教
 * 2016年4月 ~ 2017年3月
   * 宇宙航空研究開発機構 宇宙科学研究所 招聘研究員

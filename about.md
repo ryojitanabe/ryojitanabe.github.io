@@ -5,13 +5,15 @@ title: Ryoji Tanabe's Homepage
 
 ## Work experience
 
-* 2017 April ~
+* 2020 April-
+  * I am looking for a job
+* 2017 April - 2020 March
   * Research Assistant Professor
   * Department of Computer Science and Engineering, Southern University of Science and Technology
-* 2016 April ~ 2017 March
+* 2016 April - 2017 March
   * Postdoctoral researcher
   * Institute of Space and Astronautical Science, Japan Aerospace Exploration Agency (ISAS/JAXA)
-* 2014 April ~ 2016 March
+* 2014 April - 2016 March
   * Research Fellow
   * Japan Society for the Promotion of Science (DC2)
 
