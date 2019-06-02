@@ -11,7 +11,7 @@ Please also see [Google Scholar](https://scholar.google.co.jp/citations?user=xze
 
 ### 2019
 
-* Ryoji Tanabe and Hisao Ishibuchi: **A Niching Indicator-Based Multi-modal Many-objective Optimizer**, [Swarm and Evolutionary Computation](https://www.journals.elsevier.com/swarm-and-evolutionary-computation), pdf, supplemental-pdf, code
+* Ryoji Tanabe and Hisao Ishibuchi: **A Niching Indicator-Based Multi-modal Many-objective Optimizer**, [Swarm and Evolutionary Computation](https://www.journals.elsevier.com/swarm-and-evolutionary-computation), [pdf](pdf/ti-swevo2019.pdf), [supplemental-website](https://sites.google.com/view/nimmopt/), [code](https://drive.google.com/open?id=1Qs12RjqpNLbk0nr1gvnkiA7N-Yiq51YK)
 
 * Ryoji Tanabe and Hisao Ishibuchi: **A Review of Evolutionary Multi-modal Multi-objective Optimization**, [IEEE Transactions on Evolutionary Computation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235), [pdf](pdf/ti-emmo-tevc2019.pdf), [code](https://drive.google.com/file/d/19tK-_CEBn08U0_TDdD3tfQ_QvOqxaZ5A/view)
 
