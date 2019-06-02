@@ -6,6 +6,9 @@ title: Ryoji Tanabe's Homepage
 
 ### お知らせ
 
+* 2019年6月2日: 我々の論文が論文誌[Swarm and Evolutionary Computation](https://www.journals.elsevier.com/swarm-and-evolutionary-computation)に採択されました:
+    * Ryoji Tanabe and Hisao Ishibuchi: A Niching Indicator-Based Multi-modal Many-objective Optimizer. pdf, supplemental-pdf, code
+    
 * 2019年4月2日: 我々の論文が論文誌[IEEE Transactions on Evolutionary Computation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235)に採択されました:
     * Ryoji Tanabe and Hisao Ishibuchi: A Review of Evolutionary Multi-modal Multi-objective Optimization. [pdf](pdf/ti-emmo-tevc2019.pdf), [code](https://drive.google.com/file/d/19tK-_CEBn08U0_TDdD3tfQ_QvOqxaZ5A/view)
 
