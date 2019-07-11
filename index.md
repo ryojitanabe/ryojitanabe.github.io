@@ -6,6 +6,8 @@ title: Ryoji Tanabe's Homepage
 
 ## NEWS
 
+* 11 July 2019: I have been selected for the [Leading Initiative for Excellent Young Researchers (LEADER)](https://www.jsps.go.jp/english/index.html) by Japan Society for the Promotion of Science（JSPS）
+
 * 2 June 2019: Our paper has been accepted to [Swarm and Evolutionary Computation](https://www.journals.elsevier.com/swarm-and-evolutionary-computation):
     * Ryoji Tanabe and Hisao Ishibuchi: A Niching Indicator-Based Multi-modal Many-objective Optimizer. [pdf](pdf/ti-swevo2019.pdf), [supplemental-website](https://sites.google.com/view/nimmopt/), [code](https://drive.google.com/open?id=1Qs12RjqpNLbk0nr1gvnkiA7N-Yiq51YK)
 

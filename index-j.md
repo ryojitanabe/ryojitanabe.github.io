@@ -6,6 +6,8 @@ title: Ryoji Tanabe's Homepage
 
 ### お知らせ
 
+* 2019年7月11日: [2019年度卓越研究員候補者](http://www.mext.go.jp/a_menu/jinzai/takuetsu/index.htm)に採択されました.
+
 * 2019年6月2日: 我々の論文が論文誌[Swarm and Evolutionary Computation](https://www.journals.elsevier.com/swarm-and-evolutionary-computation)に採択されました:
     * Ryoji Tanabe and Hisao Ishibuchi: A Niching Indicator-Based Multi-modal Many-objective Optimizer. [pdf](pdf/ti-swevo2019.pdf), [supplemental-website](https://sites.google.com/view/nimmopt/), [code](https://drive.google.com/open?id=1Qs12RjqpNLbk0nr1gvnkiA7N-Yiq51YK)
     
