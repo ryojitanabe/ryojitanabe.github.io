@@ -6,6 +6,9 @@ title: Ryoji Tanabe's Homepage
 
 ## NEWS
 
+* 7 August 2019: Our paper has been conditionally accepted to [IEEE Transactions on Evolutionary Computation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235):
+    * Ryoji Tanabe and Hisao Ishibuchi: A Framework to Handle Multi-modal Multi-objective Optimization in Decomposition-based Evolutionary Algorithms. pdf, code
+
 * 15 July 2019: My slides for [ACM GECCO2019](https://gecco-2019.sigevo.org/) are available from [here](pdf/ti-gecco2019-slide.pdf).
 
 * 11 July 2019: I have been selected for the [Leading Initiative for Excellent Young Researchers (LEADER)](https://www.jsps.go.jp/english/e-le/index.html) by Japan Society for the Promotion of Science（JSPS）
