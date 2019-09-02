@@ -5,8 +5,6 @@ title: Ryoji Tanabe's Homepage
 
 ## Work experience
 
-* 2020 April-
-  * TBD
 * 2017 April - 2020 March
   * Research Assistant Professor
   * Department of Computer Science and Engineering, Southern University of Science and Technology

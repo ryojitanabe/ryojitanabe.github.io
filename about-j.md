@@ -5,8 +5,6 @@ title: Ryoji Tanabe's Homepage
 
 ### 職歴
 
-* 2020年4月 ~
-  * 求職中
 * 2017年4月 ~ 2020年3月
   * Southern University of Science and Technology, Department of Computer Science and Engineering, 研究助教
 * 2016年4月 ~ 2017年3月
@@ -17,11 +15,11 @@ title: Ryoji Tanabe's Homepage
 
 ### 学歴
 
-* 2016年3月 東京大学大学院総合文化研究科博士後期課程 修了
+* 2016年3月 東京大学大学院 総合文化研究科 広域科学専攻 博士後期課程 修了. 博士 (学術)
   * 指導教員: [福永Alex教授](http://metahack.org/index-j.html)
   * 博士論文: 関数最適化問題に対する適応型差分進化法の研究 [(pdf)](https://drive.google.com/open?id=0B5QxTedsd-SXQlRld2Vjd1ZwZU0)
-* 2013年3月 上智大学大学院理工学研究科博士前期課程 修了
-* 2011年3月 上智大学理工学部機械工学科 卒業
+* 2013年3月 上智大学大学院 理工学研究科 理工学専攻 博士前期課程 修了. 修士 (工学)
+* 2011年3月 上智大学 理工学部 機械工学科 卒業. 学士 (工学)
 
 
 ### 外部資金
