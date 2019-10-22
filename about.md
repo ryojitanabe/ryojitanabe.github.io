@@ -19,20 +19,20 @@ title: Ryoji Tanabe's Homepage
 
 * 2016 March: Ph.D. degree in Science from The University of Tokyo
   * Advisor: [Prof. Alex Fukunaga](http://metahack.org/index.html)
-  * Thesis: Studies of Adaptive Differential Evolution for Function Optimization Problems (in japanease)
+  * Thesis: Studies of Adaptive Differential Evolution for Function Optimization Problems (in Japanese)
 * 2013 March: M.S. degree in engineering from Sophia University
 * 2011 March: B.S. degree in engineering from Sophia University
 
 ## Grants
 
-* 2017 April ~ 2020 March: Grant-in-Aid for Young Scientists B
-  * Unfortunately, I refused this grant because I will not be in Japan for 2017 ~ 2020
-  * Title: Efficient Adaptive Differential Evolutoin for Multi-objective Optimization
-  * 3,800,000 YEN
+* 2017 April - 2020 March: Grant-in-Aid for Young Scientists B
+  * I could not accept this grant because I was not in Japan for 2017-2020
+  * Title: Efficient Adaptive Differential Evolution for Multi-objective Optimization
+  * 3,800,000 JPY
 
-* 2014 April ~ 2016 March: Grant-in-Aid for JSPS Research Fellow
+* 2014 April - 2016 March: Grant-in-Aid for JSPS Research Fellow
   * Title: Development of Novel, Efficient Parameter Setting Strategies for Evolutionary Algorithms and Its Application 
-  * 2,200,000 YEN
+  * 2,200,000 JPY
 
 ## Awards
 
