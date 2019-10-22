@@ -5,11 +5,11 @@ title: Ryoji Tanabe's Homepage
 
 ### 職歴
 
-* 2017年4月 ~ 2020年3月
-  * Southern University of Science and Technology, Department of Computer Science and Engineering, 研究助教
-* 2016年4月 ~ 2017年3月
+* 2017年4月-2020年3月
+  * 南方科技大学, Department of Computer Science and Engineering, 研究助教
+* 2016年4月-2017年3月
   * 宇宙航空研究開発機構 宇宙科学研究所 招聘研究員
-* 2014年4月 ~ 2016年3月
+* 2014年4月-2016年3月
   * 日本学術振興会 特別研究員 (DC2)
 
 
@@ -52,8 +52,10 @@ title: Ryoji Tanabe's Homepage
   * IEEE Transactions on Evolutionary Computation
   * IEEE Transactions on Cybernetics
   * IEEE Transactions on Fuzzy Systems
+  * IEEE Access
   * Swarm and Evolutionary Computation
   * Applied Soft Computing
+  * Swarm Intelligence
   * etc.
 
 * 所属学会

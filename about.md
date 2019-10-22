@@ -50,8 +50,9 @@ title: Ryoji Tanabe's Homepage
   * IEEE Transactions on Evolutionary Computation
   * IEEE Transactions on Cybernetics
   * IEEE Transactions on Fuzzy Systems
+  * IEEE Access
   * Swarm and Evolutionary Computation
   * Applied Soft Computing
+  * Swarm Intelligence
   * etc.
-
 
