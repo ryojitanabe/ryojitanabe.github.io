@@ -5,8 +5,8 @@ title: Ryoji Tanabe's Homepage
 
 ### 職歴
 
-* 2017年4月 - 2020年3月
-  * 南方科技大学, Department of Computer Science and Engineering, 研究助教
+* 2017年4月 - 2019年11月
+  * 南方科技大学, Department of Computer Science and Engineering, 研究助教 (ポスドク)
 * 2016年4月 - 2017年3月
   * 宇宙航空研究開発機構 宇宙科学研究所 招聘研究員
 * 2014年4月 - 2016年3月
