@@ -6,7 +6,7 @@ title: Ryoji Tanabe's Homepage
 
 ### お知らせ
 
-* 2019年12月2日 横浜国立大学にテニュアトラック助教として着任しました. また, 2019年度卓越研究員に採択されました.
+* 2019年12月2日 横浜国立大学にテニュアトラック助教として着任しました. 文科省卓越研究員制度での採用でした.
 
 * 2019年10月22日 我々の論文が論文誌[IEEE Transactions on Evolutionary Computation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235)に採択されました:
     * Ryoji Tanabe and Hisao Ishibuchi: A Framework to Handle Multi-modal Multi-objective Optimization in Decomposition-based Evolutionary Algorithms. [pdf](pdf/ti-ada-tevc2019.pdf), [(supplementary-pdf)](pdf/ti-ada-tevc2019-supp.pdf), [code](code/ada-1.1.zip)
