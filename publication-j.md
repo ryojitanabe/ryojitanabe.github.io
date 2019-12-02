@@ -35,6 +35,10 @@ title: Ryoji Tanabe's Homepage
 
 ### 国内研究発表 (査読無し)
 
+### 2019
+
+無し
+
 ### 2018
 
 * 田邊遼司, 石渕久生: **近似最適な目的ベクトル集合**, [進化計算シンポジウム2018](http://www.jpnsec.org/symposium201803.html), 福岡県福岡市, 12月

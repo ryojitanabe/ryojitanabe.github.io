@@ -6,17 +6,20 @@ title: Ryoji Tanabe's Homepage
 
 ## NEWS
 
-* 5 November 2019: I left SUSTech. I will start working at another university on this December. Now, I am enjoying my autumn vacation.
+* 2019.12.2 I joined [Yokohama National University](https://www.ynu.ac.jp/english/), Yokohama City, Kanagawa Prefecture, Japan, as a tenure-track Assistant Professor. I also won [the Leading Initiative for Excellent Young Researchers (LEADER) award](https://www.jsps.go.jp/english/e-le/index.html) from JSPS (9,000,000 JPY for my first year? TBC).
+    * [Yokohama City](https://en.wikipedia.org/wiki/Yokohama) is close to Tokyo. It takes only about 30 minutes from the center of Tokyo to Yokohama by train. It also takes only about 30 minutes from Tokyo International Airport to Yokohama by shuttle bus.  
 
-* 22 October 2019: Our paper has finally been accepted to [IEEE Transactions on Evolutionary Computation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235):
+* 2019.10.22 Our paper has finally been accepted to [IEEE Transactions on Evolutionary Computation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235):
     * Ryoji Tanabe and Hisao Ishibuchi: A Framework to Handle Multi-modal Multi-objective Optimization in Decomposition-based Evolutionary Algorithms. [pdf](pdf/ti-ada-tevc2019.pdf), [(supplementary-pdf)](pdf/ti-ada-tevc2019-supp.pdf), [code](code/ada-1.1.zip)
 
-* 15 July 2019: My slides for [ACM GECCO2019](https://gecco-2019.sigevo.org/) are available from [here](pdf/ti-gecco2019-slide.pdf).
+* 2019.7.15 My slides for [ACM GECCO2019](https://gecco-2019.sigevo.org/) are available from [here](pdf/ti-gecco2019-slide.pdf).
 
-* 2 June 2019: Our paper has been accepted to [Swarm and Evolutionary Computation](https://www.journals.elsevier.com/swarm-and-evolutionary-computation):
+* 2019.6.2 Our paper has been accepted to [Swarm and Evolutionary Computation](https://www.journals.elsevier.com/swarm-and-evolutionary-computation):
     * Ryoji Tanabe and Hisao Ishibuchi: A Niching Indicator-Based Multi-modal Many-objective Optimizer. [pdf](pdf/ti-swevo2019.pdf), [supplemental-website](https://sites.google.com/view/nimmopt/), [code](https://drive.google.com/open?id=1Qs12RjqpNLbk0nr1gvnkiA7N-Yiq51YK)
 
 {% comment %}
+
+* 2019.11.5: I left SUSTech. I will start working at another university on this December. Now, I am enjoying my autumn vacation.
 
 * 2 April 2019: Our paper has been accepted to [IEEE Transactions on Evolutionary Computation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235):
     * Ryoji Tanabe and Hisao Ishibuchi: A Review of Evolutionary Multi-modal Multi-objective Optimization. [pdf](pdf/ti-emmo-tevc2019.pdf), [code](https://drive.google.com/file/d/19tK-_CEBn08U0_TDdD3tfQ_QvOqxaZ5A/view)
@@ -65,15 +68,21 @@ title: Ryoji Tanabe's Homepage
 
 ## Ryoji Tanabe, Ph.D.
 
-* Position: TBA
-* Affiliation: TBA
-* Address: TBA
-* E-mail: rt.ryoji.tanabe [at] gmail.com
+* Position: Tenure-track Assistant Professor
+* Affiliation: [Graduate School of Environment and Information Sciences](http://www.eis.ynu.ac.jp/english/index.html), [Yokohama National University](https://www.ynu.ac.jp/english/)
+* Address: Room 702, Environment and Information Sciences 1
+* E-mail: rt.ryoji.tanabe [at] gmail.com or tanabe-ryoji-sn [at] ynu.ac.jp
 * [Google Scholar](https://scholar.google.co.jp/citations?user=xze7scoAAAAJ&hl=en), [DBLP](http://dblp.uni-trier.de/pers/hd/t/Tanabe:Ryoji)
 
 ## Short Biography
 
-I was a research assistant professor at Southern University of Science and Technology (SUSTech) with [Prof. Hisao Ishibuchi](http://www.cs.osakafu-u.ac.jp/~hisaoi/). Previously, during 2016 to 2017, I was a postdoctoral researcher at Japan Aerospace Exploration Agency (JAXA) with [Prof. Akira Oyama](http://ladse.eng.isas.jaxa.jp/). Before that, in 2016, I received the Ph.D. degree in Science from The University of Tokyo, under the supervision of [Prof. Alex Fukunaga](http://metahack.org/index.html). I also received the B.S. and M.S degree in Engineering from Sophia University. 
+I am currently a tenure-track Assistant Professor at Yokohama National University, Japan.
+Previously, I was a Research Assistant Professor at Southern University of Science and Technology with [Prof. Hisao Ishibuchi](http://www.cs.osakafu-u.ac.jp/~hisaoi/), China, from 2017 to 2019.
+I was a Post-Doctoral Researcher at JAXA with [Prof. Akira Oyama](http://ladse.eng.isas.jaxa.jp/), Japan, from 2016 to 2017.
+I received my Ph.D. in Science from The University of Tokyo, Japan, in 2016, under the supervision of [Prof. Alex Fukunaga](http://metahack.org/index.html).
+I received my M.S degree in Engineering from Sophia University, Japan, in 2013.
+I received my B.S degree in Engineering from Sophia University, Japan, in 2011.
+
 
 ## Research Interest
 

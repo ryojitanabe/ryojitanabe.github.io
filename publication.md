@@ -3,24 +3,30 @@ layout: default
 title: Ryoji Tanabe's Homepage
 ---
 
-Please also see [Google Scholar](https://scholar.google.co.jp/citations?user=xze7scoAAAAJ&hl=en) or [DBLP](http://dblp.uni-trier.de/pers/hd/t/Tanabe:Ryoji). All articles that can be downloaded from this page are accepted versions, not final published versions.
+[Google Scholar](https://scholar.google.co.jp/citations?user=xze7scoAAAAJ&hl=en), [DBLP](http://dblp.uni-trier.de/pers/hd/t/Tanabe:Ryoji)
+
+All pdf files on this page are author's versions, not final published versions.
 
 ---
 
 ## Refereed Journal Papers
 
-### 2019
+
+### In press
 
 * Ryoji Tanabe and Hisao Ishibuchi: **A Framework to Handle Multi-modal Multi-objective Optimization in Decomposition-based Evolutionary Algorithms**, [IEEE Transactions on Evolutionary Computation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235), [pdf](pdf/ti-ada-tevc2019.pdf), [(supplementary-pdf)](pdf/ti-ada-tevc2019-supp.pdf), [code](code/ada-1.1.zip)
    * This paper is an extended version of our PPSN2018 paper
 
-* Ryoji Tanabe and Hisao Ishibuchi: **A Niching Indicator-Based Multi-modal Many-objective Optimizer**, [Swarm and Evolutionary Computation](https://www.journals.elsevier.com/swarm-and-evolutionary-computation), [pdf](pdf/ti-swevo2019.pdf), [supplemental-website](https://sites.google.com/view/nimmopt/), [code](https://drive.google.com/open?id=1Qs12RjqpNLbk0nr1gvnkiA7N-Yiq51YK), [(link)](https://www.sciencedirect.com/science/article/pii/S221065021930118X)
-
 * Ryoji Tanabe and Hisao Ishibuchi: **A Review of Evolutionary Multi-modal Multi-objective Optimization**, [IEEE Transactions on Evolutionary Computation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235), [pdf](pdf/ti-emmo-tevc2019.pdf), [code](https://drive.google.com/file/d/19tK-_CEBn08U0_TDdD3tfQ_QvOqxaZ5A/view), [(link)](https://www.sciencedirect.com/science/article/pii/S221065021930118X)
 
-* Ryoji Tanabe and Hisao Ishibuchi: **Review and Analysis of Three Components of the Differential Evolution Mutation Operator in MOEA/D-DE**, [Soft Computing](https://link.springer.com/journal/500), [(link)](https://link.springer.com/article/10.1007%2Fs00500-019-03842-6), [(pdf)](pdf/ti-soco2019.pdf), [(supplemental-pdf)](pdf/ti-soco2019-supp.pdf)
-
 * Ryoji Tanabe and Alex Fukunaga: **Reviewing and Benchmarking Parameter Control Methods in Differential Evolution**, [IEEE Transactions on Cybernetics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036), [(link)](https://ieeexplore.ieee.org/document/8626758), [(pdf)](pdf/tf-tcyb2018.pdf), [(supplemental-pdf)](pdf/tf-tcyb2018-supp.pdf), [(supplemental-website)](https://sites.google.com/view/pcmde/)
+
+
+### 2019
+
+* Ryoji Tanabe and Hisao Ishibuchi: **A Niching Indicator-Based Multi-modal Many-objective Optimizer**, [Swarm and Evolutionary Computation](https://www.journals.elsevier.com/swarm-and-evolutionary-computation), [pdf](pdf/ti-swevo2019.pdf), [supplemental-website](https://sites.google.com/view/nimmopt/), [code](https://drive.google.com/open?id=1Qs12RjqpNLbk0nr1gvnkiA7N-Yiq51YK), [(link)](https://www.sciencedirect.com/science/article/pii/S221065021930118X)
+
+* Ryoji Tanabe and Hisao Ishibuchi: **Review and Analysis of Three Components of the Differential Evolution Mutation Operator in MOEA/D-DE**, [Soft Computing](https://link.springer.com/journal/500), [(link)](https://link.springer.com/article/10.1007%2Fs00500-019-03842-6), [(pdf)](pdf/ti-soco2019.pdf), [(supplemental-pdf)](pdf/ti-soco2019-supp.pdf)
 
 ### 2018
 

@@ -6,18 +6,19 @@ title: Ryoji Tanabe's Homepage
 
 ### お知らせ
 
-* 2019年11月5日: 南方科技大学を退職しました. 転職先は決まっています.
+* 2019年12月2日 横浜国立大学にテニュアトラック助教として着任しました. また, 2019年度卓越研究員に採択されました.
 
-* 2019年10月22日: 我々の論文が論文誌[IEEE Transactions on Evolutionary Computation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235)に採択されました:
+* 2019年10月22日 我々の論文が論文誌[IEEE Transactions on Evolutionary Computation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235)に採択されました:
     * Ryoji Tanabe and Hisao Ishibuchi: A Framework to Handle Multi-modal Multi-objective Optimization in Decomposition-based Evolutionary Algorithms. [pdf](pdf/ti-ada-tevc2019.pdf), [(supplementary-pdf)](pdf/ti-ada-tevc2019-supp.pdf), [code](code/ada-1.1.zip)
     
-* 2019年7月15日: [ACM GECCO2019](https://gecco-2019.sigevo.org/)での発表スライドをアップロードしました ([here](pdf/ti-gecco2019-slide.pdf)).
+* 2019年7月15日 [ACM GECCO2019](https://gecco-2019.sigevo.org/)での発表スライドをアップロードしました ([here](pdf/ti-gecco2019-slide.pdf)).
 
-* 2019年6月2日: 我々の論文が論文誌[Swarm and Evolutionary Computation](https://www.journals.elsevier.com/swarm-and-evolutionary-computation)に採択されました:
+* 2019年6月2日 我々の論文が論文誌[Swarm and Evolutionary Computation](https://www.journals.elsevier.com/swarm-and-evolutionary-computation)に採択されました:
     * Ryoji Tanabe and Hisao Ishibuchi: A Niching Indicator-Based Multi-modal Many-objective Optimizer. [pdf](pdf/ti-swevo2019.pdf), [supplemental-website](https://sites.google.com/view/nimmopt/), [code](https://drive.google.com/open?id=1Qs12RjqpNLbk0nr1gvnkiA7N-Yiq51YK)
 
 {% comment %}
 
+* 2019年11月5日: 南方科技大学を退職しました. 転職先は決まっています.
 
 * 2019年4月2日: 我々の論文が論文誌[IEEE Transactions on Evolutionary Computation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235)に採択されました:
     * Ryoji Tanabe and Hisao Ishibuchi: A Review of Evolutionary Multi-modal Multi-objective Optimization. [pdf](pdf/ti-emmo-tevc2019.pdf), [code](https://drive.google.com/file/d/19tK-_CEBn08U0_TDdD3tfQ_QvOqxaZ5A/view)
@@ -84,28 +85,26 @@ title: Ryoji Tanabe's Homepage
 
 ### 田邊遼司, 博士 (学術)
 
-* 身分: TBA
-* 所属: TBA
-* オフィス: TBA
-* E-mail: rt.ryoji.tanabe [at] gmail.com
-* [Google Scholar](https://scholar.google.co.jp/citations?user=xze7scoAAAAJ&hl=en), [DBLP](http://dblp.uni-trier.de/pers/hd/t/Tanabe:Ryoji), [ブログ](http://d.hatena.ne.jp/LCRTB/)
+* 身分: テニュアトラック助教
+* 所属: [横浜国立大学](https://www.ynu.ac.jp/) [大学院環境情報研究院](http://www.eis.ynu.ac.jp/index.html)
+* 教員室: 環境情報1号棟702室
+* E-mail: rt.ryoji.tanabe [at] gmail.com または tanabe-ryoji-sn [at] ynu.ac.jp
+* [Google Scholar](https://scholar.google.co.jp/citations?user=xze7scoAAAAJ&hl=en), [DBLP](http://dblp.uni-trier.de/pers/hd/t/Tanabe:Ryoji)
 
 ### 略歴
 
-2011年3月に上智大学を卒業, 2013年3月に上智大学大学院博士前期課程を修了しました.
+2019年12月から, 横浜国立大学にてテニュアトラック助教として勤務しています.
+2017年4月から2019年11月まで, 中国深セン市の南方科技大学にて研究助教 (ポスドク) として勤務していました.
+[石渕研究室](http://www.cs.osakafu-u.ac.jp/~hisaoi/)所属でした.
+2016年4月から2017年3月まで, JAXA/ISASにてポスドク研究員として勤務していました.
+[大山研究室](http://ladse.eng.isas.jaxa.jp/)所属でした.
 2016年3月に東京大学大学院博士後期課程を修了し,  博士 (学術) を取りました.
 指導教員は [福永Alex教授](http://metahack.org/index-j.html) でした.
-2016年4月から2017年3月までJAXA/ISASにてポスドク研究員として勤務していました.
-[大山研究室](http://ladse.eng.isas.jaxa.jp/)所属でした.
-2017年4月から2019年11月まで中国深セン市の南方科技大学にて研究助教 (ポスドク) として勤務していました.
-[石渕研究室](http://www.cs.osakafu-u.ac.jp/~hisaoi/)所属でした.
-
+2011年3月に上智大学を卒業, 2013年3月に上智大学大学院博士前期課程を修了しました.
 
 ### 研究の興味
 
 計算知能, 進化計算
-
-
 
 {% comment %}
 
