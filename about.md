@@ -28,8 +28,8 @@ title: Ryoji Tanabe's Homepage
 
 ## Grants
 
-* 2019.12 - 2024.3? Leading Initiative for Excellent Young Researchers from JSPS
-  * 9,000,000 JPY? (TBC)
+* 2019.12 - 2024.3 Leading Initiative for Excellent Young Researchers from JSPS
+  * 21,000,000 JPY
 
 * 2017.4 - 2020.3 Grant-in-Aid for Young Scientists B from JSPS
   * I could not accept this grant because I was not in Japan for 2017-2020
