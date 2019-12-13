@@ -69,8 +69,8 @@ title: Ryoji Tanabe's Homepage
 ## Ryoji Tanabe, Ph.D.
 
 * Position: Tenure-track Assistant Professor
-* Affiliation: [Graduate School of Environment and Information Sciences](http://www.eis.ynu.ac.jp/english/index.html), [Yokohama National University](https://www.ynu.ac.jp/english/)
-* Address: Room 702, Environment and Information Sciences 1
+* Affiliation: [Faculty of Environment and Information Sciences](http://www.eis.ynu.ac.jp/english/index.html), [Yokohama National University](https://www.ynu.ac.jp/english/)
+* Address: Room 702, Environment and Information Sciences Building 1
 * E-mail: rt.ryoji.tanabe [at] gmail.com or tanabe-ryoji-sn [at] ynu.ac.jp
 * [Google Scholar](https://scholar.google.co.jp/citations?user=xze7scoAAAAJ&hl=en), [DBLP](http://dblp.uni-trier.de/pers/hd/t/Tanabe:Ryoji)
 

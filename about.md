@@ -7,7 +7,7 @@ title: Ryoji Tanabe's Homepage
 
 * 2019.12 - 2024.3
   * Assistant Professor (tenure-track)
-  * Graduate School of Environment and Information Sciences, Yokohama National University
+  * Faculty of Environment and Information Sciences, Yokohama National University
 * 2017.4 - 2019.11
   * Research Assistant Professor
   * Department of Computer Science and Engineering, Southern University of Science and Technology

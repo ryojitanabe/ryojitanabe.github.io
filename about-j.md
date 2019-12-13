@@ -25,7 +25,7 @@ title: Ryoji Tanabe's Homepage
 ### 外部資金
 
 
-* 令和元年 - : 卓越研究員
+* 2019年12月 - 2024年3月: 卓越研究員補助金
 
 * [辞退] 平成29年 - 平成32年度: 若手研究（B）
   * 題目: [多目的最適化問題に対する実用的な適応型差分進化法の開発, その応用](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-17K12755/)
