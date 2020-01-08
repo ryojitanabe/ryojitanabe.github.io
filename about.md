@@ -51,7 +51,7 @@ title: Ryoji Tanabe's Homepage
 
 * Program Committee Member
   * GECCO: 2016, 2017, 2018, 2019, 2020
-  * CEC: 2014, 2016, 2017, 2018, 2019
+  * CEC: 2014, 2016, 2017, 2018, 2019, 2020
 * Reviewer
   * IEEE Transactions on Evolutionary Computation
   * IEEE Transactions on Cybernetics
@@ -59,6 +59,7 @@ title: Ryoji Tanabe's Homepage
   * IEEE Access
   * Swarm and Evolutionary Computation
   * Applied Soft Computing
+  * Information Sciences
   * Swarm Intelligence
   * etc.
 

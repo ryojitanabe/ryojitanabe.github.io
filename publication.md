@@ -14,12 +14,12 @@ All pdf files on this page are author's versions, not final published versions.
 
 ### In press
 
-* Ryoji Tanabe and Hisao Ishibuchi: **An Analysis of Quality Indicators Using Approximated Optimal Distributions in a Three-dimensional Objective Space. pdf, supplementary-pdf, [supplemental-website](https://sites.google.com/view/optmudist)**, [IEEE Transactions on Evolutionary Computation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235), pdf, supplementary-pdf, [supplemental-website](https://sites.google.com/view/optmudist)
+* Ryoji Tanabe and Hisao Ishibuchi: **An Analysis of Quality Indicators Using Approximated Optimal Distributions in a Three-dimensional Objective Space**, [IEEE Transactions on Evolutionary Computation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235), [pdf](pdf/ti-optmu-tevc2020.pdf), [(supplementary-pdf)](pdf/ti-optmu-tevc2020-supp.pdf), [supplemental-website](https://sites.google.com/view/optmudist)
 
 * Ryoji Tanabe and Hisao Ishibuchi: **A Framework to Handle Multi-modal Multi-objective Optimization in Decomposition-based Evolutionary Algorithms**, [IEEE Transactions on Evolutionary Computation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235), [pdf](pdf/ti-ada-tevc2019.pdf), [(supplementary-pdf)](pdf/ti-ada-tevc2019-supp.pdf), [code](code/ada-1.1.zip)
    * This paper is an extended version of our PPSN2018 paper
 
-* Ryoji Tanabe and Hisao Ishibuchi: **A Review of Evolutionary Multi-modal Multi-objective Optimization**, [IEEE Transactions on Evolutionary Computation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235), [pdf](pdf/ti-emmo-tevc2019.pdf), [code](https://drive.google.com/file/d/19tK-_CEBn08U0_TDdD3tfQ_QvOqxaZ5A/view), [(link)](https://www.sciencedirect.com/science/article/pii/S221065021930118X)
+* Ryoji Tanabe and Hisao Ishibuchi: **A Review of Evolutionary Multi-modal Multi-objective Optimization**, [IEEE Transactions on Evolutionary Computation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235), [pdf](pdf/ti-emmo-tevc2019.pdf), [code](https://drive.google.com/file/d/19tK-_CEBn08U0_TDdD3tfQ_QvOqxaZ5A/view), [(link)](https://ieeexplore.ieee.org/document/8684299)
 
 * Ryoji Tanabe and Alex Fukunaga: **Reviewing and Benchmarking Parameter Control Methods in Differential Evolution**, [IEEE Transactions on Cybernetics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036), [(link)](https://ieeexplore.ieee.org/document/8626758), [(pdf)](pdf/tf-tcyb2018.pdf), [(supplemental-pdf)](pdf/tf-tcyb2018-supp.pdf), [(supplemental-website)](https://sites.google.com/view/pcmde/)
 
