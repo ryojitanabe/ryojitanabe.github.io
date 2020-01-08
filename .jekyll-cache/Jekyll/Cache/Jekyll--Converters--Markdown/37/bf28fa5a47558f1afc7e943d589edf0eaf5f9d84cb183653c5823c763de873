@@ -1,7 +1,10 @@
-I"¡<h2 id="news">NEWS</h2>
+I"è<h2 id="news">NEWS</h2>
+
+<h5 id="202018-our-paper-has-been-accepted-to-ieee-transactions-on-evolutionary-computation">2020.1.8 Our paper has been accepted to <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235">IEEE Transactions on Evolutionary Computation</a>:</h5>
+<p>Ryoji Tanabe and Hisao Ishibuchi: An Analysis of Quality Indicators Using Approximated Optimal Distributions in a Three-dimensional Objective Space. pdf, supplementary-pdf, <a href="https://sites.google.com/view/optmudist">supplemental-website</a></p>
 
 <ul>
-  <li>2019.12.2 I joined <a href="https://www.ynu.ac.jp/english/">Yokohama National University</a>, Yokohama City, Kanagawa Prefecture, Japan, as a tenure-track Assistant Professor. I also won <a href="https://www.jsps.go.jp/english/e-le/index.html">the Leading Initiative for Excellent Young Researchers (LEADER) award</a> from JSPS (9,000,000 JPY for my first year? TBC).
+  <li>2019.12.2 I joined <a href="https://www.ynu.ac.jp/english/">Yokohama National University</a>, Yokohama City, Kanagawa Prefecture, Japan, as a tenure-track Assistant Professor. I also won <a href="https://www.jsps.go.jp/english/e-le/index.html">the Leading Initiative for Excellent Young Researchers (LEADER) award</a> from JSPS (21,000,000 JPY).
     <ul>
       <li><a href="https://en.wikipedia.org/wiki/Yokohama">Yokohama City</a> is close to Tokyo. It takes only about 30 minutes from the center of Tokyo to Yokohama by train. It also takes only about 30 minutes from Tokyo International Airport to Yokohama by shuttle bus.</li>
     </ul>
@@ -11,22 +14,14 @@
       <li>Ryoji Tanabe and Hisao Ishibuchi: A Framework to Handle Multi-modal Multi-objective Optimization in Decomposition-based Evolutionary Algorithms. <a href="pdf/ti-ada-tevc2019.pdf">pdf</a>, <a href="pdf/ti-ada-tevc2019-supp.pdf">(supplementary-pdf)</a>, <a href="code/ada-1.1.zip">code</a></li>
     </ul>
   </li>
-  <li>
-    <p>2019.7.15 My slides for <a href="https://gecco-2019.sigevo.org/">ACM GECCO2019</a> are available from <a href="pdf/ti-gecco2019-slide.pdf">here</a>.</p>
-  </li>
-  <li>2019.6.2 Our paper has been accepted to <a href="https://www.journals.elsevier.com/swarm-and-evolutionary-computation">Swarm and Evolutionary Computation</a>:
-    <ul>
-      <li>Ryoji Tanabe and Hisao Ishibuchi: A Niching Indicator-Based Multi-modal Many-objective Optimizer. <a href="pdf/ti-swevo2019.pdf">pdf</a>, <a href="https://sites.google.com/view/nimmopt/">supplemental-website</a>, <a href="https://drive.google.com/open?id=1Qs12RjqpNLbk0nr1gvnkiA7N-Yiq51YK">code</a></li>
-    </ul>
-  </li>
 </ul>
 
 <h2 id="ryoji-tanabe-phd">Ryoji Tanabe, Ph.D.</h2>
 
 <ul>
   <li>Position: Tenure-track Assistant Professor</li>
-  <li>Affiliation: <a href="http://www.eis.ynu.ac.jp/english/index.html">Graduate School of Environment and Information Sciences</a>, <a href="https://www.ynu.ac.jp/english/">Yokohama National University</a></li>
-  <li>Address: Room 702, Environment and Information Sciences 1</li>
+  <li>Affiliation: <a href="http://www.eis.ynu.ac.jp/english/index.html">Faculty of Environment and Information Sciences</a>, <a href="https://www.ynu.ac.jp/english/">Yokohama National University</a></li>
+  <li>Address: Room 702, Environment and Information Sciences Building 1</li>
   <li>E-mail: rt.ryoji.tanabe [at] gmail.com or tanabe-ryoji-sn [at] ynu.ac.jp</li>
   <li><a href="https://scholar.google.co.jp/citations?user=xze7scoAAAAJ&amp;hl=en">Google Scholar</a>, <a href="http://dblp.uni-trier.de/pers/hd/t/Tanabe:Ryoji">DBLP</a></li>
 </ul>

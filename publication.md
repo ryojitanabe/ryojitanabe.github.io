@@ -14,6 +14,8 @@ All pdf files on this page are author's versions, not final published versions.
 
 ### In press
 
+* Ryoji Tanabe and Hisao Ishibuchi: **An Analysis of Quality Indicators Using Approximated Optimal Distributions in a Three-dimensional Objective Space. pdf, supplementary-pdf, [supplemental-website](https://sites.google.com/view/optmudist)**, [IEEE Transactions on Evolutionary Computation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235), pdf, supplementary-pdf, [supplemental-website](https://sites.google.com/view/optmudist)
+
 * Ryoji Tanabe and Hisao Ishibuchi: **A Framework to Handle Multi-modal Multi-objective Optimization in Decomposition-based Evolutionary Algorithms**, [IEEE Transactions on Evolutionary Computation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235), [pdf](pdf/ti-ada-tevc2019.pdf), [(supplementary-pdf)](pdf/ti-ada-tevc2019-supp.pdf), [code](code/ada-1.1.zip)
    * This paper is an extended version of our PPSN2018 paper
 

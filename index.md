@@ -6,18 +6,24 @@ title: Ryoji Tanabe's Homepage
 
 ## NEWS
 
+* 2020.1.8 Our paper has been accepted to [IEEE Transactions on Evolutionary Computation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235):  
+    * Ryoji Tanabe and Hisao Ishibuchi: An Analysis of Quality Indicators Using Approximated Optimal Distributions in a Three-dimensional Objective Space. pdf, supplementary-pdf, [supplemental-website](https://sites.google.com/view/optmudist)
+
 * 2019.12.2 I joined [Yokohama National University](https://www.ynu.ac.jp/english/), Yokohama City, Kanagawa Prefecture, Japan, as a tenure-track Assistant Professor. I also won [the Leading Initiative for Excellent Young Researchers (LEADER) award](https://www.jsps.go.jp/english/e-le/index.html) from JSPS (21,000,000 JPY).
     * [Yokohama City](https://en.wikipedia.org/wiki/Yokohama) is close to Tokyo. It takes only about 30 minutes from the center of Tokyo to Yokohama by train. It also takes only about 30 minutes from Tokyo International Airport to Yokohama by shuttle bus.  
 
 * 2019.10.22 Our paper has finally been accepted to [IEEE Transactions on Evolutionary Computation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235):
-    * Ryoji Tanabe and Hisao Ishibuchi: A Framework to Handle Multi-modal Multi-objective Optimization in Decomposition-based Evolutionary Algorithms. [pdf](pdf/ti-ada-tevc2019.pdf), [(supplementary-pdf)](pdf/ti-ada-tevc2019-supp.pdf), [code](code/ada-1.1.zip)
+    * Ryoji Tanabe and Hisao Ishibuchi: A Framework to Handle Multi-modal Multi-objective Optimization in Decomposition-based Evolutionary Algorithms. [pdf](pdf/ti-ada-tevc2019.pdf), [(supplementary-pdf)](pdf/ti-ada-tevc2019-supp.pdf), [code](code/ada-1.1.zip)  
 
 * 2019.7.15 My slides for [ACM GECCO2019](https://gecco-2019.sigevo.org/) are available from [here](pdf/ti-gecco2019-slide.pdf).
+
+{% comment %}
+
+
 
 * 2019.6.2 Our paper has been accepted to [Swarm and Evolutionary Computation](https://www.journals.elsevier.com/swarm-and-evolutionary-computation):
     * Ryoji Tanabe and Hisao Ishibuchi: A Niching Indicator-Based Multi-modal Many-objective Optimizer. [pdf](pdf/ti-swevo2019.pdf), [supplemental-website](https://sites.google.com/view/nimmopt/), [code](https://drive.google.com/open?id=1Qs12RjqpNLbk0nr1gvnkiA7N-Yiq51YK)
 
-{% comment %}
 
 * 2019.11.5: I left SUSTech. I will start working at another university on this December. Now, I am enjoying my autumn vacation.
 

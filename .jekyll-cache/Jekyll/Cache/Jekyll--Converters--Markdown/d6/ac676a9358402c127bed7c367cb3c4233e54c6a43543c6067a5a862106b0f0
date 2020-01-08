@@ -1,0 +1,156 @@
+I"1<p><a href="https://scholar.google.co.jp/citations?user=xze7scoAAAAJ&amp;hl=en">Google Scholar</a>, <a href="http://dblp.uni-trier.de/pers/hd/t/Tanabe:Ryoji">DBLP</a></p>
+
+<p>All pdf files on this page are author’s versions, not final published versions.</p>
+
+<hr />
+
+<h2 id="refereed-journal-papers">Refereed Journal Papers</h2>
+
+<h3 id="in-press">In press</h3>
+
+<ul>
+  <li>
+    <p>Ryoji Tanabe and Hisao Ishibuchi: <strong>An Analysis of Quality Indicators Using Approximated Optimal Distributions in a Three-dimensional Objective Space. pdf, supplementary-pdf, <a href="https://sites.google.com/view/optmudist">supplemental-website</a></strong>, <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235">IEEE Transactions on Evolutionary Computation</a>, pdf, supplementary-pdf, <a href="https://sites.google.com/view/optmudist">supplemental-website</a></p>
+  </li>
+  <li>Ryoji Tanabe and Hisao Ishibuchi: <strong>A Framework to Handle Multi-modal Multi-objective Optimization in Decomposition-based Evolutionary Algorithms</strong>, <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235">IEEE Transactions on Evolutionary Computation</a>, <a href="pdf/ti-ada-tevc2019.pdf">pdf</a>, <a href="pdf/ti-ada-tevc2019-supp.pdf">(supplementary-pdf)</a>, <a href="code/ada-1.1.zip">code</a>
+    <ul>
+      <li>This paper is an extended version of our PPSN2018 paper</li>
+    </ul>
+  </li>
+  <li>
+    <p>Ryoji Tanabe and Hisao Ishibuchi: <strong>A Review of Evolutionary Multi-modal Multi-objective Optimization</strong>, <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235">IEEE Transactions on Evolutionary Computation</a>, <a href="pdf/ti-emmo-tevc2019.pdf">pdf</a>, <a href="https://drive.google.com/file/d/19tK-_CEBn08U0_TDdD3tfQ_QvOqxaZ5A/view">code</a>, <a href="https://www.sciencedirect.com/science/article/pii/S221065021930118X">(link)</a></p>
+  </li>
+  <li>Ryoji Tanabe and Alex Fukunaga: <strong>Reviewing and Benchmarking Parameter Control Methods in Differential Evolution</strong>, <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036">IEEE Transactions on Cybernetics</a>, <a href="https://ieeexplore.ieee.org/document/8626758">(link)</a>, <a href="pdf/tf-tcyb2018.pdf">(pdf)</a>, <a href="pdf/tf-tcyb2018-supp.pdf">(supplemental-pdf)</a>, <a href="https://sites.google.com/view/pcmde/">(supplemental-website)</a></li>
+</ul>
+
+<h3 id="2019">2019</h3>
+
+<ul>
+  <li>
+    <p>Ryoji Tanabe and Hisao Ishibuchi: <strong>A Niching Indicator-Based Multi-modal Many-objective Optimizer</strong>, <a href="https://www.journals.elsevier.com/swarm-and-evolutionary-computation">Swarm and Evolutionary Computation</a>, <a href="pdf/ti-swevo2019.pdf">pdf</a>, <a href="https://sites.google.com/view/nimmopt/">supplemental-website</a>, <a href="https://drive.google.com/open?id=1Qs12RjqpNLbk0nr1gvnkiA7N-Yiq51YK">code</a>, <a href="https://www.sciencedirect.com/science/article/pii/S221065021930118X">(link)</a></p>
+  </li>
+  <li>
+    <p>Ryoji Tanabe and Hisao Ishibuchi: <strong>Review and Analysis of Three Components of the Differential Evolution Mutation Operator in MOEA/D-DE</strong>, <a href="https://link.springer.com/journal/500">Soft Computing</a>, <a href="https://link.springer.com/article/10.1007%2Fs00500-019-03842-6">(link)</a>, <a href="pdf/ti-soco2019.pdf">(pdf)</a>, <a href="pdf/ti-soco2019-supp.pdf">(supplemental-pdf)</a></p>
+  </li>
+</ul>
+
+<h3 id="2018">2018</h3>
+
+<ul>
+  <li>Ryoji Tanabe and Hisao Ishibuchi: <strong>An Analysis of Control Parameters of MOEA/D Under Two Different Optimization Scenarios</strong>, <a href="https://www.journals.elsevier.com/applied-soft-computing/">Applied Soft Computing</a> <a href="https://www.sciencedirect.com/science/article/pii/S1568494618302771">(link)</a>, <a href="pdf/ti-moead-asoc18.pdf">(pdf)</a>, <a href="pdf/ti-moead-asoc18-supp.pdf">(supplemental-pdf)</a></li>
+</ul>
+
+<h3 id="2017">2017</h3>
+
+<ul>
+  <li>Ryoji Tanabe, Hisao Ishibuchi, and Akira Oyama: <strong>Benchmarking Multi- and Many-objective Evolutionary Algorithms under Two Optimization Scenarios</strong>, IEEE Access <a href="http://ieeexplore.ieee.org/document/8031325/">(link-to-pdf)</a>, <a href="https://sites.google.com/site/benchmarkingmoeas/">(supplemental-website)</a>
+    <ul>
+      <li>This paper is an extended version of our GECCO2017 paper</li>
+    </ul>
+  </li>
+</ul>
+
+<hr />
+
+<h2 id="refereed-conference-papers">Refereed Conference Papers</h2>
+
+<h3 id="2019-1">2019</h3>
+
+<ul>
+  <li>Ryoji Tanabe and Hisao Ishibuchi: <strong>Non-elitist Evolutionary Multi-objective Optimizers Revisited</strong>, Proc. ACM Genetic and Evolutionary Computation Conference <a href="http://gecco-2019.sigevo.org/">(GECCO2019)</a>, <a href="pdf/ti-gecco2019.pdf">pdf</a>, <a href="https://drive.google.com/open?id=1utAyXaOHJwtmhQIvdHMqtmlrrdgAlRno">code</a>, <a href="https://sites.google.com/view/nemorgecco2019/">supplemental-website</a>, <a href="pdf/ti-gecco2019-slide.pdf">slides</a></li>
+</ul>
+
+<h3 id="2018-1">2018</h3>
+
+<ul>
+  <li>Ryoji Tanabe and Hisao Ishibuchi: <strong>A Decomposition-based Evolutionary Algorithm for Multi-modal Multi-objective Optimization</strong>, Proc. Parallel Problem Solving from Nature <a href="http://ppsn2018.dei.uc.pt/">(PPSN2018)</a> <a href="pdf/ti-moeadad-ppsn18.pdf">(pdf)</a>, <a href="code/moeadad-1.0.tar.gz">(code)</a>
+    <ul>
+      <li><span style="color:#C31D1D;">Nominated for the best paper at <a href="http://ppsn2018.dei.uc.pt/">PPSN2018</a></span></li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="2017-1">2017</h3>
+
+<ul>
+  <li>Ryoji Tanabe and Alex Fukunaga: <strong>TPAM: A Simulation-Based Model for Quantitatively Analyzing Parameter Adaptation Methods</strong>, Proc. ACM Genetic and Evolutionary Computation Conference <a href="http://gecco-2017.sigevo.org/">(GECCO2017)</a>, <a href="pdf/tf-gecco2017.pdf">(pdf)</a>, <a href="pdf/tf-gecco2017-supp.pdf">(supplemental-pdf)</a>, <a href="pdf/tf-gecco2017-slide.pdf">(slide)</a>
+    <ul>
+      <li><span style="color:#C31D1D;">Nominated for the best paper at <a href="http://gecco-2017.sigevo.org/">GECCO2017</a></span></li>
+    </ul>
+  </li>
+  <li>Ryoji Tanabe and Akira Oyama: <strong>Benchmarking MOEAs for Multi- and Many-objective Optimization Using an Unbounded External Archive</strong>, Proc. ACM Genetic and Evolutionary Computation Conference <a href="http://gecco-2017.sigevo.org/">(GECCO2017)</a>, <a href="pdf/to-gecco2017.pdf">(pdf)</a>, <a href="pdf/to-gecco2017-supp.pdf">(supplemental-pdf)</a>, <a href="pdf/to-gecco2017-slide.pdf">(slide)</a>
+    <ul>
+      <li>Experimental data used in this paper can be downloaded from <a href="https://sites.google.com/site/benchmarkingmoeas/">here</a></li>
+    </ul>
+  </li>
+  <li>Ryoji Tanabe and Akira Oyama: <strong>A Note on Constrained Multi-Objective Optimization Benchmark Problems</strong>, Proc. IEEE Congress on Evolutionary Computation <a href="http://www.cec2017.org/">(CEC2017)</a>, <a href="pdf/to-cec2017.pdf">(pdf)</a>
+    <ul>
+      <li>The source code of seven (six) real-world problems can be downloaded from <a href="code/jmetal-rwlps.zip">here</a></li>
+    </ul>
+  </li>
+  <li>Ryoji Tanabe and Akira Oyama: <strong>The Impact of Population Size, Number of Children, and Number of Reference Points on The Performance of NSGA-III</strong>, Proc. Evolutionary Multi-Criterion Optimization <a href="http://www.emo2017.org/">(EMO2017)</a>, <a href="pdf/to-emo2017.pdf">(pdf)</a></li>
+</ul>
+
+<h3 id="2016">2016</h3>
+
+<ul>
+  <li>Ryoji Tanabe and Alex Fukunaga: <strong>How Far Are We From an Optimal, Adaptive DE?</strong>, Proc. Parallel Problem Solving from Nature <a href="http://www.ppsn2016.org/conference/">(PPSN2016)</a> <a href="pdf/tf-ppsn16.pdf">(pdf)</a>, <a href="pdf/tf-ppsn16-supp.pdf">(supplemental-pdf)</a></li>
+</ul>
+
+<h3 id="2015">2015</h3>
+
+<ul>
+  <li>
+    <p>Ryoji Tanabe: <strong>A Note on Multi-Funnel Functions for Expensive Optimization Scenario</strong>, Proc. ACM Genetic and Evolutionary Computation Conference <a href="http://www.sigevo.org/gecco-2015/index.html">(GECCO2015)</a>, two-page poster paper, <a href="pdf/t-gecco2015.pdf">(pdf)</a></p>
+  </li>
+  <li>
+    <p>Ryoji Tanabe and Alex Fukunaga: <strong>Tuning Differential Evolution for Cheap, Medium, and Expensive Computational Budgets</strong>, Proc. IEEE Congress on Evolutionary Computation <a href="http://sites.ieee.org/cec2015/">(CEC2015)</a>, <a href="pdf/tf-cec2015.pdf">(pdf)</a></p>
+  </li>
+  <li>
+    <p>Claus de Castro Aranha, Ryoji Tanabe, Romain Chassagne, Alex Fukunaga: <strong>Optimization of Oil Reservoir Models Using Tuned Evolutionary Algorithms and Adaptive Differential Evolution</strong>, Proc. IEEE Congress on Evolutionary Computation <a href="http://sites.ieee.org/cec2015/">(CEC2015)</a>, <a href="pdf/atcf-cec2015.pdf">(pdf)</a></p>
+  </li>
+</ul>
+
+<h3 id="2014">2014</h3>
+
+<ul>
+  <li>
+    <p>Ryoji Tanabe and Alex Fukunaga: <strong>Reevaluating Exponential Crossover in Differential Evolution</strong>, Proc. Parallel Problem Solving from Nature <a href="http://ppsn2014.ijs.si/">(PPSN2014)</a>, <a href="pdf/tf-ppsn2014.pdf">(pdf)</a>, <a href="pdf/tf-ppsn2014-supp.pdf">(supplemental pdf)</a></p>
+  </li>
+  <li>
+    <p>Ryoji Tanabe and Alex Fukunaga: <strong>On the Pathological Behavior of Adaptive Differential Evolution on Hybrid Objective Functions</strong>, Proc. ACM Genetic and Evolutionary Computation Conference <a href="http://www.sigevo.org/gecco-2014/">(GECCO2014)</a>, <a href="pdf/tf-gecco2014.pdf">(pdf)</a>, <a href="pdf/tf-gecco2014-supp.pdf">(supplemental pdf)</a></p>
+  </li>
+  <li>
+    <p>Ryoji Tanabe and Alex Fukunaga: <strong>Improving the Search Performance of SHADE Using Linear Population Size Reduction</strong>, Proc. IEEE Congress on Evolutionary Computation <a href="http://www.ieee-wcci2014.org/">(CEC2014)</a>, <a href="pdf/tf-cec2014.pdf">(pdf)</a></p>
+    <ul>
+      <li>L-SHADE was a first ranked algorithm at the CEC2014 Competition on Real-Parameter Single Objective Optimization <a href="http://www3.ntu.edu.sg/home/EPNSugan/index_files/CEC2014/CEC2014.htm">(link)</a>.</li>
+      <li>Experimental data used in this paper are <a href="expdata/Tanabe-CEC14-results.zip">here</a></li>
+      <li>Originally submitted source code of L-SHADE 1.0.0: <a href="code/LSHADE1.0.0_CEC2014.zip">(C++ code)</a></li>
+      <li>Please note that this C++ code (also available at the competition website) was submitted to the CEC2014 competition. However, this code had a bug in the archive update mechanism which resulted in a slight performance degradation, but all constraints were satisfied and all solutions found were valid. For better results, please use the corrected version below:
+        <ul>
+          <li>Fixed source code of L-SHADE 1.0.1: <a href="code/LSHADE1.0.1_CEC2014.zip">(C++ code)</a>, <a href="code/LSHADE1.0.1_CEC2014_Octave-Matlab.zip">(Matlab/Octave code)</a>, <a href="code/LSHADE1.0.1_CEC2014_Java.zip">(Java code)</a></li>
+          <li>Fixed source code of SHADE 1.1.1: <a href="code/SHADE1.1.1_CEC2014_c++.zip">(C++ code)</a>, <a href="code/SHADE1.1.1_CEC2014_Matlab_Octave.zip">(Matlab/Octave code)</a>, <a href="code/SHADE1.1.1_CEC2014_Java.zip">(Java code)</a></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="2013">2013</h3>
+
+<ul>
+  <li>
+    <p>Ryoji Tanabe and Alex Fukunaga: <strong>Evaluation of a Randomized Parameter Setting Strategy for Island-Model Evolutionary Algorithms</strong>, Proc. IEEE Congress on Evolutionary Computation <a href="http://www.cec2013.org/">(CEC2013)</a>, <a href="tf-cec2013-rhim.pdf">(pdf)</a></p>
+  </li>
+  <li>Ryoji Tanabe and Alex Fukunaga: <strong>Success-History Based Parameter Adaptation for Differential Evolution</strong>, Proc. IEEE Congress on Evolutionary Computation <a href="http://www.cec2013.org/">(CEC2013)</a>, <a href="tf-cec2013-shade.pdf">(pdf)</a>
+    <ul>
+      <li><a href="code/SHADE1.1.1_CEC2014_c++.zip">(C++ code)</a>, <a href="code/SHADE1.1.1_CEC2014_Matlab_Octave.zip">(Matlab/Octave code)</a>, <a href="code/SHADE1.1.1_CEC2014_Java.zip">(Java code)</a></li>
+    </ul>
+  </li>
+  <li>Ryoji Tanabe and Alex Fukunaga: <strong>Evaluating the performance of SHADE on CEC 2013 benchmark problems</strong>, Proc. IEEE Congress on Evolutionary Computation <a href="http://www.cec2013.org/">(CEC2013)</a>, <a href="pdf/tf-cec2013-compe.pdf">(pdf)</a>
+    <ul>
+      <li>SHADE 1.0 was a fourth ranked algorithm out of the 21 entries at the CEC2013 Competition on Real-Parameter Single Objective Optimization. (link)</li>
+    </ul>
+  </li>
+</ul>
+:ET
