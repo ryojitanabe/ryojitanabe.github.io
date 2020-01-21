@@ -14,9 +14,7 @@ All pdf files on this page are author's versions, not final published versions.
 
 ### In press
 
-* Ryoji Tanabe and Hisao Ishibuchi: **An Easy-to-use Real-world Multi-objective Optimization Problem Suite**, [Applied Soft Computing](https://www.journals.elsevier.com/applied-soft-computing/), [pdf](pdf/ti-reproblems-asoc2020.pdf), [supplementary-pdf](pdf/ti-reproblems-asoc2020-supp.pdf), [supplemental-website](https://ryojitanabe.github.io/reproblems/)
-
-* Ryoji Tanabe and Hisao Ishibuchi: **An Analysis of Quality Indicators Using Approximated Optimal Distributions in a Three-dimensional Objective Space**, [IEEE Transactions on Evolutionary Computation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235), [pdf](pdf/ti-optmu-tevc2020.pdf), [supplementary-pdf](pdf/ti-optmu-tevc2020-supp.pdf), [supplemental-website](https://sites.google.com/view/optmudist)
+* Ryoji Tanabe and Hisao Ishibuchi: **An Analysis of Quality Indicators Using Approximated Optimal Distributions in a Three-dimensional Objective Space**, [IEEE Transactions on Evolutionary Computation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235), [pdf](pdf/ti-optmu-tevc2020.pdf), [supplementary-pdf](pdf/ti-optmu-tevc2020-supp.pdf), [supplemental-website](https://sites.google.com/view/optmudist), (link)[https://ieeexplore.ieee.org/document/8957371]
 
 * Ryoji Tanabe and Hisao Ishibuchi: **A Framework to Handle Multi-modal Multi-objective Optimization in Decomposition-based Evolutionary Algorithms**, [IEEE Transactions on Evolutionary Computation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235), [pdf](pdf/ti-ada-tevc2019.pdf), [supplementary-pdf](pdf/ti-ada-tevc2019-supp.pdf), [code](code/ada-1.1.zip)
    * This paper is an extended version of our PPSN2018 paper
@@ -25,6 +23,10 @@ All pdf files on this page are author's versions, not final published versions.
 
 * Ryoji Tanabe and Alex Fukunaga: **Reviewing and Benchmarking Parameter Control Methods in Differential Evolution**, [IEEE Transactions on Cybernetics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036), [(link)](https://ieeexplore.ieee.org/document/8626758), [pdf](pdf/tf-tcyb2018.pdf), [supplemental-pdf](pdf/tf-tcyb2018-supp.pdf), [supplemental-website](https://sites.google.com/view/pcmde/)
 
+
+### 2020
+
+* Ryoji Tanabe and Hisao Ishibuchi: **An Easy-to-use Real-world Multi-objective Optimization Problem Suite**, [Applied Soft Computing](https://www.journals.elsevier.com/applied-soft-computing/), [pdf](pdf/ti-reproblems-asoc2020.pdf), [supplementary-pdf](pdf/ti-reproblems-asoc2020-supp.pdf), [supplemental-website](https://ryojitanabe.github.io/reproblems/), [link](https://www.sciencedirect.com/science/article/pii/S1568494620300181)
 
 ### 2019
 
