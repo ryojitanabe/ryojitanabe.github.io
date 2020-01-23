@@ -21,10 +21,10 @@ All pdf files on this page are author's versions, not final published versions.
 
 * Ryoji Tanabe and Hisao Ishibuchi: **A Review of Evolutionary Multi-modal Multi-objective Optimization**, [IEEE Transactions on Evolutionary Computation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235), [pdf](pdf/ti-emmo-tevc2019.pdf), [code](https://drive.google.com/file/d/19tK-_CEBn08U0_TDdD3tfQ_QvOqxaZ5A/view), [(link)](https://ieeexplore.ieee.org/document/8684299)
 
-* Ryoji Tanabe and Alex Fukunaga: **Reviewing and Benchmarking Parameter Control Methods in Differential Evolution**, [IEEE Transactions on Cybernetics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036), [(link)](https://ieeexplore.ieee.org/document/8626758), [pdf](pdf/tf-tcyb2018.pdf), [supplemental-pdf](pdf/tf-tcyb2018-supp.pdf), [supplemental-website](https://sites.google.com/view/pcmde/)
-
 
 ### 2020
+
+* Ryoji Tanabe and Alex Fukunaga: **Reviewing and Benchmarking Parameter Control Methods in Differential Evolution**, [IEEE Transactions on Cybernetics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036), [link](https://ieeexplore.ieee.org/document/8626758), [pdf](pdf/tf-tcyb2018.pdf), [supplemental-pdf](pdf/tf-tcyb2018-supp.pdf), [supplemental-website](https://sites.google.com/view/pcmde/)
 
 * Ryoji Tanabe and Hisao Ishibuchi: **An Easy-to-use Real-world Multi-objective Optimization Problem Suite**, [Applied Soft Computing](https://www.journals.elsevier.com/applied-soft-computing/), [pdf](pdf/ti-reproblems-asoc2020.pdf), [supplementary-pdf](pdf/ti-reproblems-asoc2020-supp.pdf), [supplemental-website](https://ryojitanabe.github.io/reproblems/), [link](https://www.sciencedirect.com/science/article/pii/S1568494620300181)
 
