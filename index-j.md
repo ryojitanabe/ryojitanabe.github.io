@@ -6,6 +6,9 @@ title: Ryoji Tanabe's Homepage
 
 ### お知らせ
 
+* 2020年3月21日: 我々の論文が国際会議[ACM GECCO2020](https://gecco-2020.sigevo.org/)に採択されました:
+    * Ryoji Tanabe: Analyzing Adaptive Parameter Landscapes in Parameter Adaptation Methods for Differential Evolution. pdf, supplemental-pdf, code
+
 * 2020年1月9日 我々の論文が論文誌[Applied Soft Computing](https://www.journals.elsevier.com/applied-soft-computing/)に採択されました:
     * Ryoji Tanabe and Hisao Ishibuchi: An Easy-to-use Real-world Multi-objective Optimization Problem Suite. [pdf](pdf/ti-reproblems-asoc2020.pdf), [supplementary-pdf](pdf/ti-reproblems-asoc2020-supp.pdf), [supplemental-website](https://ryojitanabe.github.io/reproblems/)
 
@@ -14,13 +17,13 @@ title: Ryoji Tanabe's Homepage
 
 * 2019年12月2日 横浜国立大学にテニュアトラック助教として着任しました. 文科省卓越研究員制度での採用でした.
 
+{% comment %}
+
 * 2019年10月22日 我々の論文が論文誌[IEEE Transactions on Evolutionary Computation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235)に採択されました:
     * Ryoji Tanabe and Hisao Ishibuchi: A Framework to Handle Multi-modal Multi-objective Optimization in Decomposition-based Evolutionary Algorithms. [pdf](pdf/ti-ada-tevc2019.pdf), [(supplementary-pdf)](pdf/ti-ada-tevc2019-supp.pdf), [code](code/ada-1.1.zip)
     
 * 2019年7月15日 [ACM GECCO2019](https://gecco-2019.sigevo.org/)での発表スライドをアップロードしました ([here](pdf/ti-gecco2019-slide.pdf)).
 
-
-{% comment %}
 
 * 2019年6月2日 我々の論文が論文誌[Swarm and Evolutionary Computation](https://www.journals.elsevier.com/swarm-and-evolutionary-computation)に採択されました:
     * Ryoji Tanabe and Hisao Ishibuchi: A Niching Indicator-Based Multi-modal Many-objective Optimizer. [pdf](pdf/ti-swevo2019.pdf), [supplemental-website](https://sites.google.com/view/nimmopt/), [code](https://drive.google.com/open?id=1Qs12RjqpNLbk0nr1gvnkiA7N-Yiq51YK)
