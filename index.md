@@ -6,7 +6,7 @@ title: Ryoji Tanabe's Homepage
 
 ## NEWS
 
-* 21 March 2020: Our paper has been accepted to [ACM GECCO2020](https://gecco-2020.sigevo.org/):
+* 2020.3.21: Our paper has been accepted to [ACM GECCO2020](https://gecco-2020.sigevo.org/):
     * Ryoji Tanabe: Analyzing Adaptive Parameter Landscapes in Parameter Adaptation Methods for Differential Evolution. pdf, supplemental-pdf, code
 
 * 2020.1.9 Our paper has also been accepted to [Applied Soft Computing](https://www.journals.elsevier.com/applied-soft-computing/):
@@ -15,10 +15,10 @@ title: Ryoji Tanabe's Homepage
 * 2020.1.8 Our paper has been accepted to [IEEE Transactions on Evolutionary Computation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235):  
     * Ryoji Tanabe and Hisao Ishibuchi: An Analysis of Quality Indicators Using Approximated Optimal Distributions in a Three-dimensional Objective Space. [pdf](pdf/ti-optmu-tevc2020.pdf), [supplementary-pdf](pdf/ti-optmu-tevc2020-supp.pdf), [supplemental-website](https://sites.google.com/view/optmudist)
 
+{% comment %}
+
 * 2019.12.2 I joined [Yokohama National University](https://www.ynu.ac.jp/english/), Yokohama City, Kanagawa Prefecture, Japan, as a tenure-track Assistant Professor. I also won [the Leading Initiative for Excellent Young Researchers (LEADER) award](https://www.jsps.go.jp/english/e-le/index.html) from JSPS (21,000,000 JPY).
     * [Yokohama City](https://en.wikipedia.org/wiki/Yokohama) is close to Tokyo. It takes only about 30 minutes from the center of Tokyo to Yokohama by train. It also takes only about 30 minutes from Tokyo International Airport to Yokohama by shuttle bus.  
-
-{% comment %}
 
 * 2019.10.22 Our paper has finally been accepted to [IEEE Transactions on Evolutionary Computation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235):
     * Ryoji Tanabe and Hisao Ishibuchi: A Framework to Handle Multi-modal Multi-objective Optimization in Decomposition-based Evolutionary Algorithms. [pdf](pdf/ti-ada-tevc2019.pdf), [(supplementary-pdf)](pdf/ti-ada-tevc2019-supp.pdf), [code](code/ada-1.1.zip)  

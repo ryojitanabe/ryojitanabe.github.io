@@ -15,9 +15,9 @@ title: Ryoji Tanabe's Homepage
 * 2020年1月8日 我々の論文が論文誌[IEEE Transactions on Evolutionary Computation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235)に採択されました:
     * Ryoji Tanabe and Hisao Ishibuchi: An Analysis of Quality Indicators Using Approximated Optimal Distributions in a Three-dimensional Objective Space. [pdf](pdf/ti-optmu-tevc2020.pdf), [supplementary-pdf](pdf/ti-optmu-tevc2020-supp.pdf), [supplemental-website](https://sites.google.com/view/optmudist)
 
-* 2019年12月2日 横浜国立大学にテニュアトラック助教として着任しました. 文科省卓越研究員制度での採用でした.
-
 {% comment %}
+
+* 2019年12月2日 横浜国立大学にテニュアトラック助教として着任しました. 文科省卓越研究員制度での採用でした.
 
 * 2019年10月22日 我々の論文が論文誌[IEEE Transactions on Evolutionary Computation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235)に採択されました:
     * Ryoji Tanabe and Hisao Ishibuchi: A Framework to Handle Multi-modal Multi-objective Optimization in Decomposition-based Evolutionary Algorithms. [pdf](pdf/ti-ada-tevc2019.pdf), [(supplementary-pdf)](pdf/ti-ada-tevc2019-supp.pdf), [code](code/ada-1.1.zip)
