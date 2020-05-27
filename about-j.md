@@ -6,9 +6,9 @@ title: Ryoji Tanabe's Homepage
 ### 職歴
 
 * 2019年12月 - 2024年3月
-  * 横浜国立大学, 大学院環境情報研究院, テニュアトラック助教
+  * 横浜国立大学 大学院環境情報研究院 テニュアトラック助教
 * 2017年4月 - 2019年11月
-  * 南方科技大学, Department of Computer Science and Engineering, 研究助教 (ポスドク)
+  * 南方科技大学 Department of Computer Science and Engineering 研究助教 (ポスドク)
 * 2016年4月 - 2017年3月
   * 宇宙航空研究開発機構 宇宙科学研究所 招聘研究員 (ポスドク)
 * 2014年4月 - 2016年3月
@@ -26,6 +26,7 @@ title: Ryoji Tanabe's Homepage
 
 
 * 2019年12月 - 2024年3月: 卓越研究員補助金
+  * 題目: 応用領域拡大を目的とした次世代型進化計算技術の設計
 
 * [辞退] 平成29年 - 平成32年度: 若手研究（B）
   * 題目: [多目的最適化問題に対する実用的な適応型差分進化法の開発, その応用](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-17K12755/)
@@ -54,7 +55,6 @@ title: Ryoji Tanabe's Homepage
 * Reviewer
   * IEEE Transactions on Evolutionary Computation
   * IEEE Transactions on Cybernetics
-  * IEEE Transactions on Fuzzy Systems
   * IEEE Access
   * Swarm and Evolutionary Computation
   * Applied Soft Computing

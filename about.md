@@ -28,7 +28,8 @@ title: Ryoji Tanabe's Homepage
 
 ## Grants
 
-* 2019.12 - 2024.3 Leading Initiative for Excellent Young Researchers from JSPS
+* 2019.12 - 2024.3 Leading Initiative for Excellent Young Researchers from MEXT
+  * Title: Towards a more general and practical evolutionary algorithm
   * 21,000,000 JPY (estimated)
 
 * 2017.4 - 2020.3 Grant-in-Aid for Young Scientists B from JSPS
@@ -55,7 +56,6 @@ title: Ryoji Tanabe's Homepage
 * Reviewer
   * IEEE Transactions on Evolutionary Computation
   * IEEE Transactions on Cybernetics
-  * IEEE Transactions on Fuzzy Systems
   * IEEE Access
   * Swarm and Evolutionary Computation
   * Applied Soft Computing
