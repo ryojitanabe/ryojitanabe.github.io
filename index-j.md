@@ -6,10 +6,10 @@ title: Ryoji Tanabe's Homepage
 
 ### お知らせ
 
-* 2020年5月27日: 我々の論文が国際会議[PPSN2020](https://ppsn2020.liacs.leidenuniv.nl/)に採択されました:
+* 2020年5月27日 我々の論文が国際会議[PPSN2020](https://ppsn2020.liacs.leidenuniv.nl/)に採択されました:
     * Ryoji Tanabe: Revisiting Population Models in Differential Evolution on a Limited Budget of Evaluations. pdf, code
 
-* 2020年3月21日: 我々の論文が国際会議[ACM GECCO2020](https://gecco-2020.sigevo.org/)に採択されました:
+* 2020年3月21日 我々の論文が国際会議[ACM GECCO2020](https://gecco-2020.sigevo.org/)に採択されました:
     * Ryoji Tanabe: Analyzing Adaptive Parameter Landscapes in Parameter Adaptation Methods for Differential Evolution. [pdf](pdf/t-gecco2020.pdf), [supplemental-pdf](pdf/t-gecco2020-supp.pdf), [code](https://github.com/ryojitanabe/APL)
 
 * 2020年1月9日 我々の論文が論文誌[Applied Soft Computing](https://www.journals.elsevier.com/applied-soft-computing/)に採択されました:

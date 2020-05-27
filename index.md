@@ -7,10 +7,10 @@ title: Ryoji Tanabe's Homepage
 ## NEWS
 
 
-* 2020.5.27: Our paper has been accepted to [PPSN2020](https://ppsn2020.liacs.leidenuniv.nl/):
+* 2020.5.27 Our paper has been accepted to [PPSN2020](https://ppsn2020.liacs.leidenuniv.nl/):
     * Ryoji Tanabe: Revisiting Population Models in Differential Evolution on a Limited Budget of Evaluations. pdf, code
 
-* 2020.3.21: Our paper has been accepted to [ACM GECCO2020](https://gecco-2020.sigevo.org/):
+* 2020.3.21 Our paper has been accepted to [ACM GECCO2020](https://gecco-2020.sigevo.org/):
     * Ryoji Tanabe: Analyzing Adaptive Parameter Landscapes in Parameter Adaptation Methods for Differential Evolution. [pdf](pdf/t-gecco2020.pdf), [supplemental-pdf](pdf/t-gecco2020-supp.pdf), [code](https://github.com/ryojitanabe/APL)
 
 * 2020.1.9 Our paper has been accepted to [Applied Soft Computing](https://www.journals.elsevier.com/applied-soft-computing/):
