@@ -6,6 +6,8 @@ title: Ryoji Tanabe's Homepage
 
 ### お知らせ
 
+* 2020年7月24日 主な進化計算系国際会議の採択率などをまとめたサイトを作りました. [これ](https://ryojitanabe.github.io/ecconf/) です.
+
 * 2020年5月27日 我々の論文が国際会議[PPSN2020](https://ppsn2020.liacs.leidenuniv.nl/)に採択されました:
     * Ryoji Tanabe: Revisiting Population Models in Differential Evolution on a Limited Budget of Evaluations. [pdf](pdf/t-ppsn2020.pdf), [code](https://github.com/ryojitanabe/de_expensiveopt), [data](https://drive.google.com/file/d/1p_DFnKPc5NWsWxG-3lFyI6sTmUBYwyZt/view?usp=sharing)
 
