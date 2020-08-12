@@ -15,7 +15,7 @@ title: Ryoji Tanabe's Homepage
     * Ryoji Tanabe: Analyzing Adaptive Parameter Landscapes in Parameter Adaptation Methods for Differential Evolution. [pdf](pdf/t-gecco2020.pdf), [supplemental-pdf](pdf/t-gecco2020-supp.pdf), [code](https://github.com/ryojitanabe/APL), [slide](pdf/t-gecco2020-slide.pdf)
 
 * 2020.1.9 Our paper has been accepted to [Applied Soft Computing](https://www.journals.elsevier.com/applied-soft-computing/):
-    * Ryoji Tanabe and Hisao Ishibuchi: An Easy-to-use Real-world Multi-objective Optimization Problem Suite. [pdf](pdf/ti-reproblems-asoc2020.pdf), [supplementary-pdf](pdf/ti-reproblems-asoc2020-supp.pdf), [supplemental-website](https://ryojitanabe.github.io/reproblems/)
+    * Ryoji Tanabe and Hisao Ishibuchi: An Easy-to-use Real-world Multi-objective Optimization Problem Suite. [pdf](pdf/ti-reproblems-asoc2020.pdf), [supplementary-pdf](pdf/ti-reproblems-asoc2020-supp.pdf), [code](https://github.com/ryojitanabe/reproblems)
 
 * 2020.1.8 Our paper has been accepted to [IEEE Transactions on Evolutionary Computation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235):  
     * Ryoji Tanabe and Hisao Ishibuchi: An Analysis of Quality Indicators Using Approximated Optimal Distributions in a Three-dimensional Objective Space. [pdf](pdf/ti-optmu-tevc2020.pdf), [supplementary-pdf](pdf/ti-optmu-tevc2020-supp.pdf), [supplemental-website](https://sites.google.com/view/optmudist)

@@ -11,22 +11,20 @@ All pdf files on this page are author's versions, not final published versions.
 
 ## Refereed Journal Papers
 
-
 ### In press
 
 * Ryoji Tanabe and Hisao Ishibuchi: **An Analysis of Quality Indicators Using Approximated Optimal Distributions in a Three-dimensional Objective Space**, [IEEE Transactions on Evolutionary Computation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235), [pdf](pdf/ti-optmu-tevc2020.pdf), [supplementary-pdf](pdf/ti-optmu-tevc2020-supp.pdf), [supplemental-website](https://sites.google.com/view/optmudist), [link](https://ieeexplore.ieee.org/document/8957371)
 
-* Ryoji Tanabe and Hisao Ishibuchi: **A Framework to Handle Multi-modal Multi-objective Optimization in Decomposition-based Evolutionary Algorithms**, [IEEE Transactions on Evolutionary Computation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235), [pdf](pdf/ti-ada-tevc2019.pdf), [supplementary-pdf](pdf/ti-ada-tevc2019-supp.pdf), [code](code/ada-1.1.zip), [link](https://ieeexplore.ieee.org/document/8884131)
-   * This paper is an extended version of our PPSN2018 paper
-
-
 ### 2020
 
+* Ryoji Tanabe and Hisao Ishibuchi: **A Framework to Handle Multi-modal Multi-objective Optimization in Decomposition-based Evolutionary Algorithms**, [IEEE Transactions on Evolutionary Computation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235), [pdf](pdf/ti-ada-tevc2019.pdf), [supplementary-pdf](pdf/ti-ada-tevc2019-supp.pdf), [code](code/ada-1.1.zip), [link](https://ieeexplore.ieee.org/document/8884131)
+   * This paper is an extended version of our PPSN2018 paper
+   
 * Ryoji Tanabe and Hisao Ishibuchi: **A Review of Evolutionary Multi-modal Multi-objective Optimization**, [IEEE Transactions on Evolutionary Computation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235), [pdf](pdf/ti-emmo-tevc2019_with_metadata.pdf), [code](https://drive.google.com/file/d/19tK-_CEBn08U0_TDdD3tfQ_QvOqxaZ5A/view), [link](https://ieeexplore.ieee.org/document/8684299)
 
 * Ryoji Tanabe and Alex Fukunaga: **Reviewing and Benchmarking Parameter Control Methods in Differential Evolution**, [IEEE Transactions on Cybernetics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036), [link](https://ieeexplore.ieee.org/document/8626758), [pdf](pdf/tf-tcyb2018.pdf), [supplemental-pdf](pdf/tf-tcyb2018-supp.pdf), [supplemental-website](https://sites.google.com/view/pcmde/)
 
-* Ryoji Tanabe and Hisao Ishibuchi: **An Easy-to-use Real-world Multi-objective Optimization Problem Suite**, [Applied Soft Computing](https://www.journals.elsevier.com/applied-soft-computing/), [pdf](pdf/ti-reproblems-asoc2020.pdf), [supplementary-pdf](pdf/ti-reproblems-asoc2020-supp.pdf), [supplemental-website](https://ryojitanabe.github.io/reproblems/), [link](https://www.sciencedirect.com/science/article/pii/S1568494620300181)
+* Ryoji Tanabe and Hisao Ishibuchi: **An Easy-to-use Real-world Multi-objective Optimization Problem Suite**, [Applied Soft Computing](https://www.journals.elsevier.com/applied-soft-computing/), [pdf](pdf/ti-reproblems-asoc2020.pdf), [supplementary-pdf](pdf/ti-reproblems-asoc2020-supp.pdf), [code](https://github.com/ryojitanabe/reproblems), [link](https://www.sciencedirect.com/science/article/pii/S1568494620300181)
 
 ### 2019
 
