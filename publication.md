@@ -14,6 +14,7 @@ All pdf files on this page are author's versions, not final published versions.
 ### In press
 
 * Ryoji Tanabe and Hisao Ishibuchi: **An Analysis of Quality Indicators Using Approximated Optimal Distributions in a Three-dimensional Objective Space**, [IEEE Transactions on Evolutionary Computation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235), [pdf](pdf/ti-optmu-tevc2020.pdf), [supplementary-pdf](pdf/ti-optmu-tevc2020-supp.pdf), [supplemental-website](https://sites.google.com/view/optmudist), [link](https://ieeexplore.ieee.org/document/8957371)
+   * Typos: The explanation of the new R2 indicator (NR2) in Section II-B-6 (page 3) is incorrect. In equation (7), ``min`` should be replaced with ``max``. In contrast, in equation (8), ``max`` should be replaced with ``min``. 
 
 ### 2020
 
