@@ -6,6 +6,8 @@ title: Ryoji Tanabe's Homepage
 
 ## NEWS
 
+* 2020.10.12 I joined [Riken/AIP](https://www.riken.jp/en/research/labs/aip/index.html), Wako City, Saitama Prefecture, Japan, as a visiting researcher.
+
 * 2020.7.24 I launched [a web site](https://ryojitanabe.github.io/ecconf/) that summarizes statistics of acceptance rates of the main evolutionary computation conferences for my own interest.
 
 * 2020.5.27 Our paper has been accepted to [PPSN2020](https://ppsn2020.liacs.leidenuniv.nl/):

@@ -6,6 +6,8 @@ title: Ryoji Tanabe's Homepage
 
 ### お知らせ
 
+* 2020年10月12日 [理化学研究所 革新知能統合研究センター](https://www.riken.jp/research/labs/aip/)の客員研究員になりました.
+
 * 2020年7月24日 主な進化計算系国際会議の採択率などをまとめたサイトを作りました. [これ](https://ryojitanabe.github.io/ecconf/) です.
 
 * 2020年5月27日 我々の論文が国際会議[PPSN2020](https://ppsn2020.liacs.leidenuniv.nl/)に採択されました:
@@ -74,7 +76,6 @@ title: Ryoji Tanabe's Homepage
 
 * 2017年11月9日: [進化計算シンポジウム2017](http://www.jpnsec.org/symposium201703.html)で発表します:
     * 田邊遼司, 石渕久生: 多峰性多数目的最適化問題に対するニッチングを用いたIndicator-Based Evolutionary Algorithm
-
 
 
 * 2017年9月14日: [SSI2017](http://www.sice.or.jp/org/SSI2017/)で発表します:
