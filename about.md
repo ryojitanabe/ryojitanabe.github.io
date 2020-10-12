@@ -5,7 +5,7 @@ title: Ryoji Tanabe's Homepage
 
 ## Work experience
 
-   2020.10 -
+* 2020.10 -
   * Visiting Researcher
   * Center for Advanced Intelligence Project (AIP), Riken
 * 2019.12 - 2024.3
