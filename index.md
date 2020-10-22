@@ -6,6 +6,8 @@ title: Ryoji Tanabe's Homepage
 
 ## NEWS
 
+* 2020.10.22 We are running [the Evolutionary Computation Competition 2020 (EC-Comp 2020)](https://ec-comp.jpnsec.org/competitions/eccomp2020) held as an event in a domestic workshop. EC-Comp 2020 provides a suite of random number generator design problems for entertainment games. For details, please see [the website](https://ec-comp.jpnsec.org/competitions/eccomp2020).
+
 * 2020.10.12 I joined [Riken/AIP](https://www.riken.jp/en/research/labs/aip/index.html), Wako City, Saitama Prefecture, Japan, as a visiting researcher.
 
 * 2020.7.24 I launched [a web site](https://ryojitanabe.github.io/ecconf/) that summarizes statistics of acceptance rates of the main evolutionary computation conferences for my own interest.
