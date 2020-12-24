@@ -35,6 +35,10 @@ title: Ryoji Tanabe's Homepage
 
 ### 国内研究発表 (査読無し)
 
+### 2020
+
+無し
+
 ### 2019
 
 無し

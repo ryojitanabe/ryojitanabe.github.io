@@ -5,12 +5,12 @@ title: Ryoji Tanabe's Homepage
 
 ## Work experience
 
-* 2020.10 -
-  * Visiting Researcher
-  * Center for Advanced Intelligence Project (AIP), Riken
 * 2019.12 - 2024.3
   * Assistant Professor (tenure-track)
   * Faculty of Environment and Information Sciences, Yokohama National University
+* 2020.10 -
+  * Visiting Researcher
+  * Center for Advanced Intelligence Project (AIP), Riken
 * 2017.4 - 2019.11
   * Research Assistant Professor
   * Department of Computer Science and Engineering, Southern University of Science and Technology
@@ -54,7 +54,7 @@ title: Ryoji Tanabe's Homepage
 ## Professional Activities/Service
 
 * Program Committee Member
-  * GECCO: 2016, 2017, 2018, 2019, 2020
+  * GECCO: 2016, 2017, 2018, 2019, 2020, 2021
   * CEC: 2014, 2016, 2017, 2018, 2019, 2020
 * Reviewer
   * IEEE Transactions on Evolutionary Computation

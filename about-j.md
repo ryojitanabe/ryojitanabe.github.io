@@ -5,10 +5,10 @@ title: Ryoji Tanabe's Homepage
 
 ### 職歴
 
-* 2020年10月 -
-  * 理化学研究所 革新知能統合研究センター 客員研究員
 * 2019年12月 - 2024年3月
   * 横浜国立大学 大学院環境情報研究院 テニュアトラック助教
+* 2020年10月 -
+  * 理化学研究所 革新知能統合研究センター 客員研究員
 * 2017年4月 - 2019年11月
   * 南方科技大学 Department of Computer Science and Engineering 研究助教 (ポスドク)
 * 2016年4月 - 2017年3月
@@ -52,7 +52,7 @@ title: Ryoji Tanabe's Homepage
 ### 学会活動歴
 
 * Program Committee Member
-  * GECCO: 2016, 2017, 2018, 2019, 2020
+  * GECCO: 2016, 2017, 2018, 2019, 2020, 2021
   * CEC: 2014, 2016, 2017, 2018, 2019, 2020
 * Reviewer
   * IEEE Transactions on Evolutionary Computation

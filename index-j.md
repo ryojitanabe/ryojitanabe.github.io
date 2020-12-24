@@ -6,7 +6,7 @@ title: Ryoji Tanabe's Homepage
 
 ### お知らせ
 
-* 2020年10月22日 [進化計算学会コンペティション2020](https://ec-comp.jpnsec.org/ja/competitions/eccomp2020) に携わっています. ぜひご参加をご検討ください.
+* 2020年10月22日 ~~[進化計算学会コンペティション2020](https://ec-comp.jpnsec.org/ja/competitions/eccomp2020) に携わっています. ぜひご参加をご検討ください.~~ 終わりました.
 
 * 2020年10月12日 [理化学研究所 革新知能統合研究センター](https://www.riken.jp/research/labs/aip/)の客員研究員になりました.
 
