@@ -6,6 +6,11 @@ title: Ryoji Tanabe's Homepage
 
 ## NEWS
 
+* 2021.3.26 Our paper has been *conditionally* accepted to [ACM GECCO2021](https://gecco-2021.sigevo.org/HomePage):
+    * Ryoji Tanabe: Towards Exploratory Landscape Analysis for Large-scale Optimization: A Dimensionality Reduction Framework. pdf, code, slide
+
+{% comment %}
+
 * 2020.10.22 ~~We are running [the Evolutionary Computation Competition 2020 (EC-Comp 2020)](https://ec-comp.jpnsec.org/competitions/eccomp2020) held as an event in a domestic workshop. EC-Comp 2020 provides a suite of random number generator design problems for entertainment games. For details, please see [the website](https://ec-comp.jpnsec.org/competitions/eccomp2020).~~ The competition has been closed.
 
 * 2020.10.12 I joined [Riken/AIP](https://www.riken.jp/en/research/labs/aip/index.html), Wako City, Saitama Prefecture, Japan, as a visiting researcher.
@@ -23,8 +28,6 @@ title: Ryoji Tanabe's Homepage
 
 * 2020.1.8 Our paper has been accepted to [IEEE Transactions on Evolutionary Computation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235):  
     * Ryoji Tanabe and Hisao Ishibuchi: An Analysis of Quality Indicators Using Approximated Optimal Distributions in a Three-dimensional Objective Space. [pdf](pdf/ti-optmu-tevc2020.pdf), [supplementary-pdf](pdf/ti-optmu-tevc2020-supp.pdf), [supplemental-website](https://sites.google.com/view/optmudist)
-
-{% comment %}
 
 * 2019.12.2 I joined [Yokohama National University](https://www.ynu.ac.jp/english/), Yokohama City, Kanagawa Prefecture, Japan, as a tenure-track Assistant Professor. I also won [the Leading Initiative for Excellent Young Researchers (LEADER) award](https://www.jsps.go.jp/english/e-le/index.html) from JSPS (21,000,000 JPY).
     * [Yokohama City](https://en.wikipedia.org/wiki/Yokohama) is close to Tokyo. It takes only about 30 minutes from the center of Tokyo to Yokohama by train. It also takes only about 30 minutes from Tokyo International Airport to Yokohama by shuttle bus.  
@@ -109,7 +112,7 @@ I received my B.S degree in Engineering from Sophia University, Japan, in 2011.
 
 ## Research Interest
 
-Computational Intelligence, Evolutionary Computation 
+Evolutionary Computation 
 
 
 {% comment %}

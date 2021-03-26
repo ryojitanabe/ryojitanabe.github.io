@@ -6,6 +6,11 @@ title: Ryoji Tanabe's Homepage
 
 ### お知らせ
 
+* 2021年3月26日 我々の論文が国際会議[ACM GECCO2021](https://gecco-2021.sigevo.org/HomePage)に**条件付き**採択されました:
+    * Ryoji Tanabe: Towards Exploratory Landscape Analysis for Large-scale Optimization: A Dimensionality Reduction Framework. pdf, code, slide
+
+{% comment %}
+
 * 2020年10月22日 ~~[進化計算学会コンペティション2020](https://ec-comp.jpnsec.org/ja/competitions/eccomp2020) に携わっています. ぜひご参加をご検討ください.~~ 終わりました.
 
 * 2020年10月12日 [理化学研究所 革新知能統合研究センター](https://www.riken.jp/research/labs/aip/)の客員研究員になりました.
@@ -23,8 +28,6 @@ title: Ryoji Tanabe's Homepage
 
 * 2020年1月8日 我々の論文が論文誌[IEEE Transactions on Evolutionary Computation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235)に採択されました:
     * Ryoji Tanabe and Hisao Ishibuchi: An Analysis of Quality Indicators Using Approximated Optimal Distributions in a Three-dimensional Objective Space. [pdf](pdf/ti-optmu-tevc2020.pdf), [supplementary-pdf](pdf/ti-optmu-tevc2020-supp.pdf), [supplemental-website](https://sites.google.com/view/optmudist)
-
-{% comment %}
 
 * 2019年12月2日 横浜国立大学にテニュアトラック助教として着任しました. 文科省卓越研究員制度での採用でした.
 
@@ -123,7 +126,7 @@ title: Ryoji Tanabe's Homepage
 
 ### 研究の興味
 
-計算知能, 進化計算
+進化計算
 
 {% comment %}
 

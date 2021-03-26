@@ -47,6 +47,10 @@ All pdf files on this page are author's versions, not final published versions.
 
 ## Refereed Conference Papers
 
+### 2021
+
+*  Ryoji Tanabe: **Towards Exploratory Landscape Analysis for Large-scale Optimization: A Dimensionality Reduction Framework**, Proc. ACM Genetic and Evolutionary Computation Conference [(GECCO2021)](https://gecco-2021.sigevo.org/HomePage), pdf, code, slide
+
 ### 2020
 
 *  Ryoji Tanabe: **Revisiting Population Models in Differential Evolution on a Limited Budget of Evaluations**, Proc. Parallel Problem Solving from Nature [(PPSN2020)](https://ppsn2020.liacs.leidenuniv.nl/), [pdf](pdf/t-ppsn2020.pdf), [code](https://github.com/ryojitanabe/de_expensiveopt), [data](https://drive.google.com/file/d/1p_DFnKPc5NWsWxG-3lFyI6sTmUBYwyZt/view?usp=sharing), [poster](pdf/t-ppsn2020-poster.pdf)
