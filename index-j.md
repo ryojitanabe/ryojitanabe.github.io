@@ -6,6 +6,9 @@ title: Ryoji Tanabe's Homepage
 
 ### お知らせ
 
+* 2021年4月1日 我々の申請が科研費若手研究に採択されました:
+    * 田邊遼司, 選好に基づく多目的進化型アルゴリズムを自動生成する枠組みの開発とその応用
+
 * 2021年3月26日 我々の論文が国際会議[ACM GECCO2021](https://gecco-2021.sigevo.org/HomePage)に**条件付き**採択されました:
     * Ryoji Tanabe: Towards Exploratory Landscape Analysis for Large-scale Optimization: A Dimensionality Reduction Framework. pdf, code, slide
 

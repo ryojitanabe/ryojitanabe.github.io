@@ -6,6 +6,9 @@ title: Ryoji Tanabe's Homepage
 
 ## NEWS
 
+* 2021.4.1 Our proposal has been accepted by the JSPS Grant-in-Aid for Young Scientists (approx. 4,550,000 JPY for 2021-2023)
+    * Ryoji Tanabe (PI): Automatic Configuration of Preference-based Evolutionary Multi-objective Optimization Algorithms
+
 * 2021.3.26 Our paper has been *conditionally* accepted to [ACM GECCO2021](https://gecco-2021.sigevo.org/HomePage):
     * Ryoji Tanabe: Towards Exploratory Landscape Analysis for Large-scale Optimization: A Dimensionality Reduction Framework. pdf, code, slide
 
@@ -36,9 +39,6 @@ title: Ryoji Tanabe's Homepage
     * Ryoji Tanabe and Hisao Ishibuchi: A Framework to Handle Multi-modal Multi-objective Optimization in Decomposition-based Evolutionary Algorithms. [pdf](pdf/ti-ada-tevc2019.pdf), [(supplementary-pdf)](pdf/ti-ada-tevc2019-supp.pdf), [code](code/ada-1.1.zip)  
 
 * 2019.7.15 My slides for [ACM GECCO2019](https://gecco-2019.sigevo.org/) are available from [here](pdf/ti-gecco2019-slide.pdf).
-
-
-
 
 
 * 2019.6.2 Our paper has been accepted to [Swarm and Evolutionary Computation](https://www.journals.elsevier.com/swarm-and-evolutionary-computation):

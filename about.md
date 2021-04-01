@@ -31,6 +31,10 @@ title: Ryoji Tanabe's Homepage
 
 ## Grants
 
+* 2021.4 - 2024.3 Grant-in-Aid for Young Scientists from JSPS
+  * Title: Automatic Configuration of Preference-based Evolutionary Multi-objective Optimization Algorithms
+  * 4,550,000 JPY (estimated)
+
 * 2019.12 - 2024.3 Leading Initiative for Excellent Young Researchers from MEXT
   * Title: Towards a more general and practical evolutionary algorithm
   * 21,000,000 JPY (estimated)
