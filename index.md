@@ -7,10 +7,10 @@ title: Ryoji Tanabe's Homepage
 ## NEWS
 
 * 2021.4.1 Our proposal has been accepted by the JSPS Grant-in-Aid for Young Scientists (approx. 4,550,000 JPY for 2021-2023)
-    * Ryoji Tanabe (PI): Designing a Practical Preference-based Evolutionary Multi-objective Optimization Algorithms
+    * Ryoji Tanabe (PI): Automatic Configuration of Preference-based Evolutionary Multi-objective Optimization Algorithms
 
 * 2021.3.26 Our paper has been *conditionally* accepted to [ACM GECCO2021](https://gecco-2021.sigevo.org/HomePage):
-    * Ryoji Tanabe: Towards Exploratory Landscape Analysis for Large-scale Optimization: A Dimensionality Reduction Framework. pdf, code, slide
+    * Ryoji Tanabe: Towards Exploratory Landscape Analysis for Large-scale Optimization: A Dimensionality Reduction Framework. pdf, supplement, [code](https://github.com/ryojitanabe/ela_drframework), slides
 
 {% comment %}
 

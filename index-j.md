@@ -10,7 +10,7 @@ title: Ryoji Tanabe's Homepage
     * 田邊遼司, 選好に基づく多目的進化型アルゴリズムを自動生成する枠組みの開発とその応用
 
 * 2021年3月26日 我々の論文が国際会議[ACM GECCO2021](https://gecco-2021.sigevo.org/HomePage)に**条件付き**採択されました:
-    * Ryoji Tanabe: Towards Exploratory Landscape Analysis for Large-scale Optimization: A Dimensionality Reduction Framework. pdf, code, slide
+    * Ryoji Tanabe: Towards Exploratory Landscape Analysis for Large-scale Optimization: A Dimensionality Reduction Framework. pdf, supplement, [code](https://github.com/ryojitanabe/ela_drframework), slides
 
 {% comment %}
 
