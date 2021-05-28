@@ -63,10 +63,8 @@ title: Ryoji Tanabe's Homepage
 * Reviewer
   * IEEE Transactions on Evolutionary Computation
   * IEEE Transactions on Cybernetics
-  * IEEE Access
   * Swarm and Evolutionary Computation
   * Applied Soft Computing
   * Information Sciences
-  * Swarm Intelligence
   * etc.
 

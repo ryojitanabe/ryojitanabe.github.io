@@ -28,7 +28,7 @@ None.
 
 * Ryoji Tanabe and Alex Fukunaga: **Reviewing and Benchmarking Parameter Control Methods in Differential Evolution**, [IEEE Transactions on Cybernetics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036), [link](https://ieeexplore.ieee.org/document/8626758), [pdf](pdf/tf-tcyb2018.pdf), [supplemental-pdf](pdf/tf-tcyb2018-supp.pdf), [supplemental-website](https://sites.google.com/view/pcmde/)
 
-* Ryoji Tanabe and Hisao Ishibuchi: **An Easy-to-use Real-world Multi-objective Optimization Problem Suite**, [Applied Soft Computing](https://www.journals.elsevier.com/applied-soft-computing/), [pdf](pdf/ti-reproblems-asoc2020.pdf), [supplementary-pdf](pdf/ti-reproblems-asoc2020-supp.pdf), [code](https://github.com/ryojitanabe/reproblems), [link](https://www.sciencedirect.com/science/article/pii/S1568494620300181)
+* Ryoji Tanabe and Hisao Ishibuchi: **An Easy-to-use Real-world Multi-objective Optimization Problem Suite**, [Applied Soft Computing](https://www.journals.elsevier.com/applied-soft-computing/), [pdf](https://arxiv.org/abs/2009.12867), [supplementary-pdf](https://github.com/ryojitanabe/reproblems/blob/master/doc/re-supplementary_file.pdf), [code](https://github.com/ryojitanabe/reproblems), [link](https://www.sciencedirect.com/science/article/pii/S1568494620300181)
 
 ### 2019
 
