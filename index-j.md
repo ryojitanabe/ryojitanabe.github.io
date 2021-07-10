@@ -6,7 +6,7 @@ title: Ryoji Tanabe's Homepage
 
 ### お知らせ
 
-* 2021年7月10日 スタンフォード大学調べの2020年度の世界科学者ランキング (?) の上位2%に入りました. [link](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000918), [link](https://data.mendeley.com/datasets/btchxktzyw/2)
+* 2021年7月10日 スタンフォード大学調べの2020年度の世界科学者上位2%リスト (?) に入りました. [link](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000918), [link](https://data.mendeley.com/datasets/btchxktzyw/2)
 
 * 2021年4月1日 我々の申請が科研費若手研究に採択されました:
     * 田邊遼司, 選好に基づく多目的進化型アルゴリズムを自動生成する枠組みの開発とその応用
