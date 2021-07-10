@@ -6,6 +6,8 @@ title: Ryoji Tanabe's Homepage
 
 ## NEWS
 
+* 2021.7.10 I have been ranked as the top 2% of the world's scientists in a list released by Stanford University. [link](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000918), [link](https://data.mendeley.com/datasets/btchxktzyw/2)
+
 * 2021.4.1 Our proposal has been accepted by the JSPS Grant-in-Aid for Young Scientists (approx. 4,550,000 JPY for 2021-2023)
     * Ryoji Tanabe (PI): Automatic Configuration of Preference-based Evolutionary Multi-objective Optimization Algorithms
 
