@@ -6,6 +6,9 @@ title: Ryoji Tanabe's Homepage
 
 ### お知らせ
 
+* 2021年9月20日 arXivに次のプレプリントをアップロードしました:
+    * Ryoji Tanabe: Benchmarking Feature-based Algorithm Selection Systems for Black-box Numerical Optimization. [pdf](https://arxiv.org/abs/2109.08377), [code](https://github.com/ryojitanabe/as_bbo)
+
 * 2021年7月10日 スタンフォード大学調べの2020年度の世界科学者上位2%リスト (?) に入りました. [link](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000918), [link](https://data.mendeley.com/datasets/btchxktzyw/2)
 
 * 2021年4月1日 我々の申請が科研費若手研究に採択されました:
