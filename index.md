@@ -15,7 +15,7 @@ title: Ryoji Tanabe's Homepage
     * Ryoji Tanabe (PI): Automatic Configuration of Preference-based Evolutionary Multi-objective Optimization Algorithms
 
 * 2021.3.26 Our paper has been ~~conditionally~~ accepted to [ACM GECCO2021](https://gecco-2021.sigevo.org/HomePage):
-    * Ryoji Tanabe: Towards Exploratory Landscape Analysis for Large-scale Optimization: A Dimensionality Reduction Framework. [pdf](https://arxiv.org/abs/2104.10301), [supplement](pdf/gecco21-supp.pdf), [code](https://github.com/ryojitanabe/ela_drframework), [feature data](https://drive.google.com/drive/folders/1MRiiirvi-bJmaO56h3xlZrGITR4oERIP), [slides](pdf/t-gecco2021-slides.pdf)
+    * Ryoji Tanabe: Towards Exploratory Landscape Analysis for Large-scale Optimization: A Dimensionality Reduction Framework. [pdf](https://arxiv.org/abs/2104.10301), [supplement](pdf/gecco21-supp.pdf), [code](https://github.com/ryojitanabe/ela_drframework), [feature data](https://drive.google.com/drive/folders/1MRiiirvi-bJmaO56h3xlZrGITR4oERIP), [slides](pdf/t-gecco2021-slides.pdf), [YouTube](https://www.youtube.com/watch?v=QlVjhVAJs6Y)
 
 {% comment %}
 

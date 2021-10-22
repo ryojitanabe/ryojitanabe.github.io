@@ -6,6 +6,8 @@ title: Ryoji Tanabe's Homepage
 
 ### お知らせ
 
+* 2021年10月22日 [進化計算学会コンペティション2021](https://ec-comp.jpnsec.org/ja/competitions/eccomp2021) に携わっています. ご参加をご検討していただけますと幸いです.
+
 * 2021年9月20日 arXivに次のプレプリントをアップロードしました:
     * Ryoji Tanabe: Benchmarking Feature-based Algorithm Selection Systems for Black-box Numerical Optimization. [pdf](https://arxiv.org/abs/2109.08377), [code](https://github.com/ryojitanabe/as_bbo)
 
@@ -15,7 +17,7 @@ title: Ryoji Tanabe's Homepage
     * 田邊遼司, 選好に基づく多目的進化型アルゴリズムを自動生成する枠組みの開発とその応用
 
 * 2021年3月26日 我々の論文が国際会議[ACM GECCO2021](https://gecco-2021.sigevo.org/HomePage)に~~条件付き~~採択されました:
-    * Ryoji Tanabe: Towards Exploratory Landscape Analysis for Large-scale Optimization: A Dimensionality Reduction Framework. [pdf](https://arxiv.org/abs/2104.10301), [supplement](pdf/gecco21-supp.pdf), [code](https://github.com/ryojitanabe/ela_drframework), [feature data](https://drive.google.com/drive/folders/1MRiiirvi-bJmaO56h3xlZrGITR4oERIP), [slides](pdf/t-gecco2021-slides.pdf)
+    * Ryoji Tanabe: Towards Exploratory Landscape Analysis for Large-scale Optimization: A Dimensionality Reduction Framework. [pdf](https://arxiv.org/abs/2104.10301), [supplement](pdf/gecco21-supp.pdf), [code](https://github.com/ryojitanabe/ela_drframework), [feature data](https://drive.google.com/drive/folders/1MRiiirvi-bJmaO56h3xlZrGITR4oERIP), [slides](pdf/t-gecco2021-slides.pdf), [YouTube](https://www.youtube.com/watch?v=QlVjhVAJs6Y)
 
 {% comment %}
 
