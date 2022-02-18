@@ -13,6 +13,9 @@ title: Ryoji Tanabe's Homepage
 * 2021.9.20 A preprint is available on arXiv: 
     * Ryoji Tanabe: Benchmarking Feature-based Algorithm Selection Systems for Black-box Numerical Optimization. [pdf](https://arxiv.org/abs/2109.08377), [code](https://github.com/ryojitanabe/as_bbo)
 
+{% comment %}
+
+
 * 2021.7.10 I have been ranked as the top 2% of the world's scientists in a list released by Stanford University. [link](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000918), [link](https://data.mendeley.com/datasets/btchxktzyw/2)
 
 * 2021.4.1 Our proposal has been accepted by the JSPS Grant-in-Aid for Young Scientists (approx. 4,550,000 JPY for 2021-2023)
@@ -21,7 +24,6 @@ title: Ryoji Tanabe's Homepage
 * 2021.3.26 Our paper has been ~~conditionally~~ accepted to [ACM GECCO2021](https://gecco-2021.sigevo.org/HomePage):
     * Ryoji Tanabe: Towards Exploratory Landscape Analysis for Large-scale Optimization: A Dimensionality Reduction Framework. [pdf](https://arxiv.org/abs/2104.10301), [supplement](pdf/gecco21-supp.pdf), [code](https://github.com/ryojitanabe/ela_drframework), [feature data](https://drive.google.com/drive/folders/1MRiiirvi-bJmaO56h3xlZrGITR4oERIP), [slides](pdf/t-gecco2021-slides.pdf), [YouTube](https://www.youtube.com/watch?v=QlVjhVAJs6Y)
 
-{% comment %}
 
 * 2020.10.22 ~~We are running [the Evolutionary Computation Competition 2020 (EC-Comp 2020)](https://ec-comp.jpnsec.org/competitions/eccomp2020) held as an event in a domestic workshop. EC-Comp 2020 provides a suite of random number generator design problems for entertainment games. For details, please see [the website](https://ec-comp.jpnsec.org/competitions/eccomp2020).~~ The competition has been closed.
 
