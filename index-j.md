@@ -6,7 +6,9 @@ title: Ryoji Tanabe's Homepage
 
 ### お知らせ
 
-* 2021年10月22日 [進化計算学会コンペティション2021](https://ec-comp.jpnsec.org/ja/competitions/eccomp2021) に携わっています. ご参加をご検討していただけますと幸いです.
+* 2022年2月18日 スタンフォード大学調べの2021年度の世界科学者上位2%リスト (?) に入りました. [link](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/3), [link](https://data.mendeley.com/public-files/datasets/btchxktzyw/files/b3e31af2-054c-4b3a-b9c5-6fd9bf10557a/file_downloaded)
+
+* 2021年10月22日 [進化計算学会コンペティション2021](https://ec-comp.jpnsec.org/ja/competitions/eccomp2021) に携わっています. ~~ご参加をご検討していただけますと幸いです.~~ 終了しました.
 
 * 2021年9月20日 arXivに次のプレプリントをアップロードしました:
     * Ryoji Tanabe: Benchmarking Feature-based Algorithm Selection Systems for Black-box Numerical Optimization. [pdf](https://arxiv.org/abs/2109.08377), [code](https://github.com/ryojitanabe/as_bbo)

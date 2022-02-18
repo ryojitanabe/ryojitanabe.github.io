@@ -55,8 +55,8 @@ title: Ryoji Tanabe's Homepage
 ### 学会活動歴
 
 * Program Committee Member
-  * GECCO: 2016, 2017, 2018, 2019, 2020, 2021
-  * CEC: 2014, 2016, 2017, 2018, 2019, 2020, 2021
+  * GECCO: 2016, 2017, 2018, 2019, 2020, 2021, 2022
+  * CEC: 2014, 2016, 2017, 2018, 2019, 2020, 2021, 2022
 * Reviewer
   * IEEE Transactions on Evolutionary Computation
   * IEEE Transactions on Cybernetics

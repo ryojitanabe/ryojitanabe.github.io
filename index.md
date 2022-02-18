@@ -6,6 +6,8 @@ title: Ryoji Tanabe's Homepage
 
 ## NEWS
 
+* 2022.2.18 I have been ranked as the top 2% of the world's scientists in 2021 in a list released by Stanford University. [link](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/3), [link](https://data.mendeley.com/public-files/datasets/btchxktzyw/files/b3e31af2-054c-4b3a-b9c5-6fd9bf10557a/file_downloaded)
+
 * 2021.11.15 We are running [the Evolutionary Computation Competition 2021 (EC-Comp 2021)](https://ec-comp.jpnsec.org/competitions/eccomp2021) held as an event in a domestic workshop. EC-Comp 2021 provides a suite of economic support policy design problems.
 
 * 2021.9.20 A preprint is available on arXiv: 
