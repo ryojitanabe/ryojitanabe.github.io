@@ -3,8 +3,9 @@ layout: default
 title: Ryoji Tanabe's Homepage
 ---
 
-
 ## NEWS
+
+* 2022.3.21 I will start [my lab](https://aopt-lab.github.io/index-en) this April. The website will introduce achievements by lab members but me.
 
 * 2022.2.18 I have been ranked as the top 2% of the world's scientists in 2021 in a list released by Stanford University. [link](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/3), [link](https://data.mendeley.com/public-files/datasets/btchxktzyw/files/b3e31af2-054c-4b3a-b9c5-6fd9bf10557a/file_downloaded)
 
