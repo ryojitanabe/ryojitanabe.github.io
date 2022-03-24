@@ -1,13 +1,19 @@
 ---
 layout: default
-title: Ryoji Tanabe's Homepage
+title: Ryoji Tanabe
 ---
 
 ## NEWS
 
+* 2021.3.25 Our paper has been accepted to [ACM GECCO2022](https://gecco-2022.sigevo.org/):
+    * Ryoji Tanabe, Youhei Akimoto, Ken Kobayashi, Hiroshi Umeki, Shinichi Shirakawa, Naoki Hamada: A Two-phase Framework with a Bezier Simplex-based Interpolation Method for Computationally Expensive Multi-objective Optimization. pdf, supplement, code, slides, YouTube
+	
 * 2022.3.21 I will start [my lab](https://aopt-lab.github.io/index-en) this April. The website will introduce achievements by lab members but me.
 
 * 2022.2.18 I have been ranked as the top 2% of the world's scientists in 2021 in a list released by Stanford University. [link](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/3), [link](https://data.mendeley.com/public-files/datasets/btchxktzyw/files/b3e31af2-054c-4b3a-b9c5-6fd9bf10557a/file_downloaded)
+
+{% comment %}
+
 
 * 2021.11.15 We are running [the Evolutionary Computation Competition 2021 (EC-Comp 2021)](https://ec-comp.jpnsec.org/competitions/eccomp2021) held as an event in a domestic workshop. EC-Comp 2021 provides a suite of economic support policy design problems.
 
@@ -23,9 +29,6 @@ title: Ryoji Tanabe's Homepage
 
 * 2021.3.26 Our paper has been ~~conditionally~~ accepted to [ACM GECCO2021](https://gecco-2021.sigevo.org/HomePage):
     * Ryoji Tanabe: Towards Exploratory Landscape Analysis for Large-scale Optimization: A Dimensionality Reduction Framework. [pdf](https://arxiv.org/abs/2104.10301), [supplement](pdf/gecco21-supp.pdf), [code](https://github.com/ryojitanabe/ela_drframework), [feature data](https://drive.google.com/drive/folders/1MRiiirvi-bJmaO56h3xlZrGITR4oERIP), [slides](pdf/t-gecco2021-slides.pdf), [YouTube](https://www.youtube.com/watch?v=QlVjhVAJs6Y)
-
-{% comment %}
-
 
 * 2020.10.22 ~~We are running [the Evolutionary Computation Competition 2020 (EC-Comp 2020)](https://ec-comp.jpnsec.org/competitions/eccomp2020) held as an event in a domestic workshop. EC-Comp 2020 provides a suite of random number generator design problems for entertainment games. For details, please see [the website](https://ec-comp.jpnsec.org/competitions/eccomp2020).~~ The competition has been closed.
 

@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Ryoji Tanabe's Homepage
+title: Ryoji Tanabe
 ---
 
 ### 職歴
 
 * 2019年12月 - 2024年3月
   * 横浜国立大学 大学院環境情報研究院 テニュアトラック助教
-* 2020年10月 -
+* 2020年10月 - 2022年3月
   * 理化学研究所 革新知能統合研究センター 客員研究員
 * 2017年4月 - 2019年11月
   * 南方科技大学 Department of Computer Science and Engineering 研究助教 (ポスドク)

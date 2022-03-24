@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ryoji Tanabe's Homepage
+title: Ryoji Tanabe
 ---
 
 ## Work experience
@@ -8,7 +8,7 @@ title: Ryoji Tanabe's Homepage
 * 2019.12 - 2024.3
   * Assistant Professor (tenure-track)
   * Faculty of Environment and Information Sciences, Yokohama National University
-* 2020.10 -
+* 2020.10 - 2022.3
   * Visiting Researcher
   * Center for Advanced Intelligence Project (AIP), Riken
 * 2017.4 - 2019.11

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ryoji Tanabe's Homepage
+title: Ryoji Tanabe
 ---
 
 英文論文は[Publication](/publication)で紹介しています. または [Google Scholar](https://scholar.google.co.jp/citations?user=xze7scoAAAAJ&hl=en) や [DBLP](http://dblp.uni-trier.de/pers/hd/t/Tanabe:Ryoji) をご覧ください.

@@ -1,13 +1,19 @@
 ---
 layout: default
-title: Ryoji Tanabe's Homepage
+title: Ryoji Tanabe
 ---
 
 ### お知らせ
 
+* 2021.3.25 我々の論文が国際会議[ACM GECCO2022](https://gecco-2022.sigevo.org/)に採択されました:
+    * Ryoji Tanabe, Youhei Akimoto, Ken Kobayashi, Hiroshi Umeki, Shinichi Shirakawa, Naoki Hamada: A Two-phase Framework with a Bezier Simplex-based Interpolation Method for Computationally Expensive Multi-objective Optimization. pdf, supplement, code, slides, YouTube
+	
+
 * 2022年3月21日 [田邊研究室のウェブサイト](https://aopt-lab.github.io/)を作りました. 研究室メンバーの業績を紹介していく予定です.
 
 * 2022年2月18日 スタンフォード大学調べの2021年度の世界科学者上位2%リスト (?) に入りました. [link](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/3), [link](https://data.mendeley.com/public-files/datasets/btchxktzyw/files/b3e31af2-054c-4b3a-b9c5-6fd9bf10557a/file_downloaded)
+
+{% comment %}
 
 * 2021年10月22日 [進化計算学会コンペティション2021](https://ec-comp.jpnsec.org/ja/competitions/eccomp2021) に携わっています. ~~ご参加をご検討していただけますと幸いです.~~ 終了しました.
 
@@ -22,8 +28,6 @@ title: Ryoji Tanabe's Homepage
 
 * 2021年3月26日 我々の論文が国際会議[ACM GECCO2021](https://gecco-2021.sigevo.org/HomePage)に~~条件付き~~採択されました:
     * Ryoji Tanabe: Towards Exploratory Landscape Analysis for Large-scale Optimization: A Dimensionality Reduction Framework. [pdf](https://arxiv.org/abs/2104.10301), [supplement](pdf/gecco21-supp.pdf), [code](https://github.com/ryojitanabe/ela_drframework), [feature data](https://drive.google.com/drive/folders/1MRiiirvi-bJmaO56h3xlZrGITR4oERIP), [slides](pdf/t-gecco2021-slides.pdf), [YouTube](https://www.youtube.com/watch?v=QlVjhVAJs6Y)
-
-{% comment %}
 
 * 2020年10月22日 ~~[進化計算学会コンペティション2020](https://ec-comp.jpnsec.org/ja/competitions/eccomp2020) に携わっています. ぜひご参加をご検討ください.~~ 終わりました.
 

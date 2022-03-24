@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ryoji Tanabe's Homepage
+title: Ryoji Tanabe
 ---
 
 [Google Scholar](https://scholar.google.co.jp/citations?user=xze7scoAAAAJ&hl=en), [DBLP](http://dblp.uni-trier.de/pers/hd/t/Tanabe:Ryoji)
@@ -51,6 +51,10 @@ None.
 ---
 
 ## Refereed Conference Papers
+
+### 2022
+
+*  Ryoji Tanabe, Youhei Akimoto, Ken Kobayashi, Hiroshi Umeki, Shinichi Shirakawa, Naoki Hamada: **A Two-phase Framework with a Bezier Simplex-based Interpolation Method for Computationally Expensive Multi-objective Optimization**, Proc. ACM Genetic and Evolutionary Computation Conference [(GECCO2022)](https://gecco-2022.sigevo.org), pdf, supplement, code, slides, YouTube
 
 ### 2021
 
