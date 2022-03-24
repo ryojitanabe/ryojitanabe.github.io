@@ -5,7 +5,7 @@ title: Ryoji Tanabe
 
 ## NEWS
 
-* 2021.3.25 Our paper has been accepted to [ACM GECCO2022](https://gecco-2022.sigevo.org/):
+* 2022.3.25 Our paper has been accepted to [ACM GECCO2022](https://gecco-2022.sigevo.org/):
     * Ryoji Tanabe, Youhei Akimoto, Ken Kobayashi, Hiroshi Umeki, Shinichi Shirakawa, Naoki Hamada: A Two-phase Framework with a Bezier Simplex-based Interpolation Method for Computationally Expensive Multi-objective Optimization. pdf, supplement, code, slides, YouTube
 	
 * 2022.3.21 I will start [my lab](https://aopt-lab.github.io/index-en) this April. The website will introduce achievements by lab members but me.

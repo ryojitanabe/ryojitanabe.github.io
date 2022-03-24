@@ -5,7 +5,7 @@ title: Ryoji Tanabe
 
 ### お知らせ
 
-* 2021.3.25 我々の論文が国際会議[ACM GECCO2022](https://gecco-2022.sigevo.org/)に採択されました:
+* 2022.3.25 我々の論文が国際会議[ACM GECCO2022](https://gecco-2022.sigevo.org/)に採択されました:
     * Ryoji Tanabe, Youhei Akimoto, Ken Kobayashi, Hiroshi Umeki, Shinichi Shirakawa, Naoki Hamada: A Two-phase Framework with a Bezier Simplex-based Interpolation Method for Computationally Expensive Multi-objective Optimization. pdf, supplement, code, slides, YouTube
 	
 
