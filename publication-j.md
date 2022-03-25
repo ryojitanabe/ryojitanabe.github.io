@@ -37,7 +37,7 @@ title: Ryoji Tanabe
 
 ### 2021
 
-無し
+* 興呂木啓祐, 田邊遼司: Indicator-based Subset Selection Problem に対する局所探索の候補リスト戦略による高速化, [第21回進化計算学会研究会](http://www.jpnsec.org/symposium202201.html), オンライン, 3月
 
 ### 2020
 
