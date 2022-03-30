@@ -6,7 +6,7 @@ title: Ryoji Tanabe
 ### お知らせ
 
 * 2022年3月25日 我々の論文が国際会議[ACM GECCO2022](https://gecco-2022.sigevo.org/)に採択されました:
-    * Ryoji Tanabe, Youhei Akimoto, Ken Kobayashi, Hiroshi Umeki, Shinichi Shirakawa, Naoki Hamada: A Two-phase Framework with a Bezier Simplex-based Interpolation Method for Computationally Expensive Multi-objective Optimization. pdf, supplement, code, slides, YouTube
+    * Ryoji Tanabe, Youhei Akimoto, Ken Kobayashi, Hiroshi Umeki, Shinichi Shirakawa, Naoki Hamada: A Two-phase Framework with a Bezier Simplex-based Interpolation Method for Computationally Expensive Multi-objective Optimization. [pdf](https://arxiv.org/abs/2203.15292), [supplement](https://drive.google.com/file/d/1ElXm_9x7SWHfdkYcZOu4eGcppvuxLh2C/view?usp=sharing), [code](https://github.com/ryojitanabe/tpb), slides, YouTube
 	
 * 2022年3月21日 [田邊研究室のウェブサイト](https://aopt-lab.github.io/)を作りました. 研究室メンバーの業績を紹介していく予定です.
 
