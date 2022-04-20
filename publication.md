@@ -13,9 +13,13 @@ All pdf files on this page are author's versions, not final published versions.
 
 ### Preprints
 
-* Ryoji Tanabe: **Benchmarking Feature-based Algorithm Selection Systems for Black-box Numerical Optimization**, [pdf](https://arxiv.org/abs/2109.08377), [code](https://github.com/ryojitanabe/as_bbo)
+None.
 
-### In press
+### 2022
+
+* Ryoji Tanabe: **Benchmarking Feature-based Algorithm Selection Systems for Black-box Numerical Optimization**, [IEEE Transactions on Evolutionary Computation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235), pdf, [code](https://github.com/ryojitanabe/as_bbo)
+
+### 2021
 
 None.
 
