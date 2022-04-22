@@ -6,7 +6,7 @@ title: Ryoji Tanabe
 ### お知らせ
 
 * 2022年4月20日 我々の論文が論文誌[IEEE Transactions on Evolutionary Computation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235)に採択されました:
-    * Ryoji Tanabe: Benchmarking Feature-based Algorithm Selection Systems for Black-box Numerical Optimization. pdf, supplement, [code](https://github.com/ryojitanabe/as_bbo)
+    * Ryoji Tanabe: Benchmarking Feature-based Algorithm Selection Systems for Black-box Numerical Optimization. [pdf](https://arxiv.org/abs/2109.08377), [code](https://github.com/ryojitanabe/as_bbo)
 
 * 2022年3月25日 我々の論文が国際会議[ACM GECCO2022](https://gecco-2022.sigevo.org/)に採択されました:
     * Ryoji Tanabe, Youhei Akimoto, Ken Kobayashi, Hiroshi Umeki, Shinichi Shirakawa, Naoki Hamada: A Two-phase Framework with a Bezier Simplex-based Interpolation Method for Computationally Expensive Multi-objective Optimization. [pdf](https://arxiv.org/abs/2203.15292), [supplement](https://drive.google.com/file/d/1ElXm_9x7SWHfdkYcZOu4eGcppvuxLh2C/view?usp=sharing), [code](https://github.com/ryojitanabe/tpb), slides, YouTube
@@ -128,6 +128,7 @@ title: Ryoji Tanabe
 ### 田邊遼司, 博士 (学術)
 
 * 身分: テニュアトラック助教
+    * [田邊研究室](https://aopt-lab.github.io/index-en)主宰者
 * 所属: [横浜国立大学](https://www.ynu.ac.jp/) [大学院環境情報研究院](http://www.eis.ynu.ac.jp/index.html)
 * 教員室: 環境情報1号棟702室
 * E-mail: rt.ryoji.tanabe [at] gmail.com または tanabe-ryoji-sn [at] ynu.ac.jp
