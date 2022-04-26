@@ -17,7 +17,7 @@ None.
 
 ### 2022
 
-* Ryoji Tanabe: **Benchmarking Feature-based Algorithm Selection Systems for Black-box Numerical Optimization**, [IEEE Transactions on Evolutionary Computation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235), pdf, [code](https://github.com/ryojitanabe/as_bbo)
+* Ryoji Tanabe: **Benchmarking Feature-based Algorithm Selection Systems for Black-box Numerical Optimization**, [IEEE Transactions on Evolutionary Computation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235), [pdf](https://arxiv.org/abs/2109.08377), [link](https://ieeexplore.ieee.org/document/9762332), [code](https://github.com/ryojitanabe/as_bbo)
 
 ### 2021
 
@@ -129,3 +129,13 @@ None.
 
 * Ryoji Tanabe and Alex Fukunaga: **Evaluating the performance of SHADE on CEC 2013 benchmark problems**, Proc. IEEE Congress on Evolutionary Computation [(CEC2013)](http://www.cec2013.org/), [(pdf)](pdf/tf-cec2013-compe.pdf)
   * SHADE 1.0 was a fourth ranked algorithm out of the 21 entries at the CEC2013 Competition on Real-Parameter Single Objective Optimization. (link)
+
+
+
+---
+
+## Refereed Workshop Papers
+
+### 2022
+
+*  Ryoji Tanabe: **Benchmarking the Hooke-Jeeves Method, MTS-LS1, and BSrr on the Large-scale BBOB Function Set**,  GECCO Workshop on Black-Box Optimization Benchmarking (BBOB 2022), pdf, [code](https://github.com/ryojitanabe/largebbob2022), slides, YouTube

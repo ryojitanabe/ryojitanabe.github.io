@@ -5,8 +5,11 @@ title: Ryoji Tanabe
 
 ## NEWS
 
+* 2022.4.26 Our paper has been accepted to [the workshop on Black-Box Optimization Benchmarking (BBOB 2022)](https://numbbo.github.io/workshops/BBOB-2022/index.html) to be held in GECCO2022:
+    * Ryoji Tanabe: Benchmarking the Hooke-Jeeves Method, MTS-LS1, and BSrr on the Large-scale BBOB Function Set. pdf, [code](https://github.com/ryojitanabe/largebbob2022), slides, YouTube
+
 * 2022.4.20 Our paper has been accepted to [IEEE Transactions on Evolutionary Computation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235):  
-    * Ryoji Tanabe: Benchmarking Feature-based Algorithm Selection Systems for Black-box Numerical Optimization. [pdf](https://arxiv.org/abs/2109.08377), [code](https://github.com/ryojitanabe/as_bbo)
+    * Ryoji Tanabe: Benchmarking Feature-based Algorithm Selection Systems for Black-box Numerical Optimization. [pdf](https://arxiv.org/abs/2109.08377), [link](https://ieeexplore.ieee.org/document/9762332), [code](https://github.com/ryojitanabe/as_bbo)
 
 * 2022.3.25 Our paper has been accepted to [ACM GECCO2022](https://gecco-2022.sigevo.org/):
     * Ryoji Tanabe, Youhei Akimoto, Ken Kobayashi, Hiroshi Umeki, Shinichi Shirakawa, Naoki Hamada: A Two-phase Framework with a Bezier Simplex-based Interpolation Method for Computationally Expensive Multi-objective Optimization. [pdf](https://arxiv.org/abs/2203.15292), [supplement](https://drive.google.com/file/d/1ElXm_9x7SWHfdkYcZOu4eGcppvuxLh2C/view?usp=sharing), [code](https://github.com/ryojitanabe/tpb), slides, YouTube
