@@ -5,8 +5,8 @@ title: Ryoji Tanabe
 
 ## NEWS
 
-* 2022.4.26 Our paper has been accepted to [the workshop on Black-Box Optimization Benchmarking (BBOB 2022)](https://numbbo.github.io/workshops/BBOB-2022/index.html) to be held in GECCO2022:
-    * Ryoji Tanabe: Benchmarking the Hooke-Jeeves Method, MTS-LS1, and BSrr on the Large-scale BBOB Function Set. pdf, [code](https://github.com/ryojitanabe/largebbob2022), slides, YouTube
+* 2022.4.26 Our paper has been accepted to [the Workshop on Black-Box Optimization Benchmarking (BBOB 2022)](https://numbbo.github.io/workshops/BBOB-2022/index.html) to be held in GECCO2022:
+    * Ryoji Tanabe: Benchmarking the Hooke-Jeeves Method, MTS-LS1, and BSrr on the Large-scale BBOB Function Set. [pdf](https://arxiv.org/abs/2204.13284), [code](https://github.com/ryojitanabe/largebbob2022), slides, YouTube
 
 * 2022.4.20 Our paper has been accepted to [IEEE Transactions on Evolutionary Computation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235):  
     * Ryoji Tanabe: Benchmarking Feature-based Algorithm Selection Systems for Black-box Numerical Optimization. [pdf](https://arxiv.org/abs/2109.08377), [link](https://ieeexplore.ieee.org/document/9762332), [code](https://github.com/ryojitanabe/as_bbo)
