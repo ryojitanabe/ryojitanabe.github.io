@@ -58,13 +58,11 @@ None.
 
 ### 2022
 
-*  Ryoji Tanabe, Youhei Akimoto, Ken Kobayashi, Hiroshi Umeki, Shinichi Shirakawa, Naoki Hamada: **A Two-phase Framework with a Bezier Simplex-based Interpolation Method for Computationally Expensive Multi-objective Optimization**, Proc. ACM Genetic and Evolutionary Computation Conference [(GECCO2022)](https://gecco-2022.sigevo.org), [pdf](https://arxiv.org/abs/2203.15292), [supplement](https://drive.google.com/file/d/1ElXm_9x7SWHfdkYcZOu4eGcppvuxLh2C/view?usp=sharing), [code](https://github.com/ryojitanabe/tpb), slides, YouTube
-
-    * Ryoji Tanabe, Youhei Akimoto, Ken Kobayashi, Hiroshi Umeki, Shinichi Shirakawa, Naoki Hamada: . pdf, supplement, code, slides, YouTube
+*  Ryoji Tanabe, Youhei Akimoto, Ken Kobayashi, Hiroshi Umeki, Shinichi Shirakawa, Naoki Hamada: **A Two-phase Framework with a Bezier Simplex-based Interpolation Method for Computationally Expensive Multi-objective Optimization**, Proc. ACM Genetic and Evolutionary Computation Conference [(GECCO2022)](https://gecco-2022.sigevo.org), [pdf](https://arxiv.org/abs/2203.15292), [supplement](https://drive.google.com/file/d/1ElXm_9x7SWHfdkYcZOu4eGcppvuxLh2C/view?usp=sharing), [code](https://github.com/ryojitanabe/tpb), [slides](pdf/takush-gecco22-slides.pdf), YouTube
 
 ### 2021
 
-*  Ryoji Tanabe: **Towards Exploratory Landscape Analysis for Large-scale Optimization: A Dimensionality Reduction Framework**, Proc. ACM Genetic and Evolutionary Computation Conference [(GECCO2021)](https://gecco-2021.sigevo.org/HomePage), [pdf](https://arxiv.org/abs/2104.10301), [supplement](pdf/gecco21-supp.pdf), [code](https://github.com/ryojitanabe/ela_drframework), [feature data](https://drive.google.com/drive/folders/1MRiiirvi-bJmaO56h3xlZrGITR4oERIP), [slides](pdf/t-gecco2021-slides.pdf)
+*  Ryoji Tanabe: **Towards Exploratory Landscape Analysis for Large-scale Optimization: A Dimensionality Reduction Framework**, Proc. ACM Genetic and Evolutionary Computation Conference [(GECCO2021)](https://gecco-2021.sigevo.org/HomePage), [pdf](https://arxiv.org/abs/2104.10301), [supplement](pdf/gecco21-supp.pdf), [code](https://github.com/ryojitanabe/ela_drframework), [feature data](https://drive.google.com/drive/folders/1MRiiirvi-bJmaO56h3xlZrGITR4oERIP), [slides](pdf/t-gecco2021-slides.pdf), [YouTube](https://www.youtube.com/watch?v=QlVjhVAJs6Y)
 
 ### 2020
 
@@ -138,4 +136,4 @@ None.
 
 ### 2022
 
-*  Ryoji Tanabe: **Benchmarking the Hooke-Jeeves Method, MTS-LS1, and BSrr on the Large-scale BBOB Function Set**,  GECCO Workshop on Black-Box Optimization Benchmarking (BBOB 2022), [pdf](https://arxiv.org/abs/2204.13284), [code](https://github.com/ryojitanabe/largebbob2022), slides, YouTube
+*  Ryoji Tanabe: **Benchmarking the Hooke-Jeeves Method, MTS-LS1, and BSrr on the Large-scale BBOB Function Set**,  GECCO Workshop on Black-Box Optimization Benchmarking (BBOB 2022), [pdf](https://arxiv.org/abs/2204.13284), [code](https://github.com/ryojitanabe/largebbob2022), [slides](pdf/t-bbob22-slides.pdf), YouTube

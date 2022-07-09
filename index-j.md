@@ -6,13 +6,13 @@ title: Ryoji Tanabe
 ### お知らせ
 
 * 2022年4月26日 我々の論文がGECCO2022にて開催されるワークショップ[Black-Box Optimization Benchmarking (BBOB 2022)](https://numbbo.github.io/workshops/BBOB-2022/index.html)に採択されました:
-    * Ryoji Tanabe: Benchmarking the Hooke-Jeeves Method, MTS-LS1, and BSrr on the Large-scale BBOB Function Set. [pdf](https://arxiv.org/abs/2204.13284), [code](https://github.com/ryojitanabe/largebbob2022), slides, YouTube
+    * Ryoji Tanabe: Benchmarking the Hooke-Jeeves Method, MTS-LS1, and BSrr on the Large-scale BBOB Function Set. [pdf](https://arxiv.org/abs/2204.13284), [code](https://github.com/ryojitanabe/largebbob2022), [slides](pdf/t-bbob22-slides.pdf), YouTube
 
 * 2022年4月20日 我々の論文が論文誌[IEEE Transactions on Evolutionary Computation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235)に採択されました:
     * Ryoji Tanabe: Benchmarking Feature-based Algorithm Selection Systems for Black-box Numerical Optimization. [pdf](https://arxiv.org/abs/2109.08377), [link](https://ieeexplore.ieee.org/document/9762332), [code](https://github.com/ryojitanabe/as_bbo)
 
 * 2022年3月25日 我々の論文が国際会議[ACM GECCO2022](https://gecco-2022.sigevo.org/)に採択されました:
-    * Ryoji Tanabe, Youhei Akimoto, Ken Kobayashi, Hiroshi Umeki, Shinichi Shirakawa, Naoki Hamada: A Two-phase Framework with a Bezier Simplex-based Interpolation Method for Computationally Expensive Multi-objective Optimization. [pdf](https://arxiv.org/abs/2203.15292), [supplement](https://drive.google.com/file/d/1ElXm_9x7SWHfdkYcZOu4eGcppvuxLh2C/view?usp=sharing), [code](https://github.com/ryojitanabe/tpb), slides, YouTube
+    * Ryoji Tanabe, Youhei Akimoto, Ken Kobayashi, Hiroshi Umeki, Shinichi Shirakawa, Naoki Hamada: A Two-phase Framework with a Bezier Simplex-based Interpolation Method for Computationally Expensive Multi-objective Optimization. [pdf](https://arxiv.org/abs/2203.15292), [supplement](https://drive.google.com/file/d/1ElXm_9x7SWHfdkYcZOu4eGcppvuxLh2C/view?usp=sharing), [code](https://github.com/ryojitanabe/tpb), [slides](pdf/takush-gecco22-slides.pdf), YouTube
 	
 * 2022年3月21日 [田邊研究室のウェブサイト](https://aopt-lab.github.io/)を作りました. 研究室メンバーの業績を紹介していく予定です.
 
