@@ -9,7 +9,7 @@ title: Ryoji Tanabe
 
 ### 博士論文
 
-* 関数最適化問題に対する適応型差分進化法の研究 [(pdf)](https://drive.google.com/open?id=0B5QxTedsd-SXQlRld2Vjd1ZwZU0)
+* 関数最適化問題に対する適応型差分進化法の研究 [(pdf)](https://drive.google.com/file/d/0B5QxTedsd-SXQlRld2Vjd1ZwZU0/view?usp=sharing&resourcekey=0-a_lJoiqZkXmI3NjAJah2QA)
 
 ---
 
