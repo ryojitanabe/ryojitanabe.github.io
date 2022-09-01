@@ -28,8 +28,9 @@ title: Ryoji Tanabe
 
 ### インタビュー記事
 
-* 田邊遼司, 小野淳平: 大林茂先生インタビュー「境界領域の研究に目を向けよう」, 人工知能 (学生フォーラム), vol. 30, no. 3, pp. 398 - 401, 2015 [link](https://jsai.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&page_id=13&block_id=23&item_id=1906&item_no=1)
-* 田邊遼司, 林 侑輝:  伊庭斉志先生インタビュー「進化からの知能の実現」, 人工知能 (学生フォーラム), vol. 29, no. 5, pp. 570 - 572, 2014 [link](https://jsai.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=1708&item_no=1&page_id=13&block_id=23)
+* 田邊遼司, 小野淳平: 大林茂先生インタビュー「境界領域の研究に目を向けよう」, 人工知能 (学生フォーラム), vol. 30, no. 3, pp. 398 - 401, 2015 [link](https://www.jstage.jst.go.jp/article/jjsai/30/3/30_398/_article/-char/ja/)
+* 田邊遼司, 林侑輝:  伊庭斉志先生インタビュー「進化からの知能の実現」, 人工知能 (学生フォーラム), vol. 29, no. 5, pp. 570 - 572, 2014 [link](https://www.jstage.jst.go.jp/article/jjsai/29/5/29_570/_article/-char/ja/)
+* 田邊遼司, 玉川奨, 四倉晋平:  保木邦仁先生インタビュー「広い視野をもとう」, 人工知能 (学生フォーラム), vol. 29, no. 1, pp. 106 - 108, 2014 [link](https://www.jstage.jst.go.jp/article/jjsai/29/1/29_106/_article/-char/ja/)
 
 ---
 
