@@ -33,7 +33,7 @@ None.
    
 * Ryoji Tanabe and Hisao Ishibuchi: **A Review of Evolutionary Multi-modal Multi-objective Optimization**, [IEEE Transactions on Evolutionary Computation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235), [pdf](pdf/ti-emmo-tevc2019_with_metadata.pdf), [code](https://drive.google.com/file/d/19tK-_CEBn08U0_TDdD3tfQ_QvOqxaZ5A/view), [link](https://ieeexplore.ieee.org/document/8684299)
 
-* Ryoji Tanabe and Alex Fukunaga: **Reviewing and Benchmarking Parameter Control Methods in Differential Evolution**, [IEEE Transactions on Cybernetics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036), [link](https://ieeexplore.ieee.org/document/8626758), [pdf](pdf/tf-tcyb2018.pdf), [supplemental-pdf](pdf/tf-tcyb2018-supp.pdf), [supplemental-website](https://sites.google.com/view/pcmde/)
+* Ryoji Tanabe and Alex Fukunaga: **Reviewing and Benchmarking Parameter Control Methods in Differential Evolution**, [IEEE Transactions on Cybernetics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036), [link](https://ieeexplore.ieee.org/document/8626758), [pdf](https://arxiv.org/abs/2010.01035), [supplemental-pdf](pdf/tf-tcyb2018-supp.pdf), [supplemental-website](https://sites.google.com/view/pcmde/)
 
 * Ryoji Tanabe and Hisao Ishibuchi: **An Easy-to-use Real-world Multi-objective Optimization Problem Suite**, [Applied Soft Computing](https://www.journals.elsevier.com/applied-soft-computing/), [pdf](https://arxiv.org/abs/2009.12867), [supplementary-pdf](https://github.com/ryojitanabe/reproblems/blob/master/doc/re-supplementary_file.pdf), [code](https://github.com/ryojitanabe/reproblems), [link](https://www.sciencedirect.com/science/article/pii/S1568494620300181)
 
@@ -81,7 +81,7 @@ None.
 
 ### 2017 
 
-*  Ryoji Tanabe and Alex Fukunaga: **TPAM: A Simulation-Based Model for Quantitatively Analyzing Parameter Adaptation Methods**, Proc. ACM Genetic and Evolutionary Computation Conference [(GECCO2017)](http://gecco-2017.sigevo.org/), [(pdf)](pdf/tf-gecco2017.pdf), [(supplemental-pdf)](pdf/tf-gecco2017-supp.pdf), [(slide)](pdf/tf-gecco2017-slide.pdf)
+*  Ryoji Tanabe and Alex Fukunaga: **TPAM: A Simulation-Based Model for Quantitatively Analyzing Parameter Adaptation Methods**, Proc. ACM Genetic and Evolutionary Computation Conference [(GECCO2017)](http://gecco-2017.sigevo.org/), [(pdf)](https://arxiv.org/abs/2010.01877), [(supplemental-pdf)](pdf/tf-gecco2017-supp.pdf), [(slide)](pdf/tf-gecco2017-slide.pdf)
    * <span style="color:#C31D1D;">Nominated for the best paper at [GECCO2017](http://gecco-2017.sigevo.org/)</span> 
 
 * Ryoji Tanabe and Akira Oyama: **Benchmarking MOEAs for Multi- and Many-objective Optimization Using an Unbounded External Archive**, Proc. ACM Genetic and Evolutionary Computation Conference [(GECCO2017)](http://gecco-2017.sigevo.org/), [(pdf)](pdf/to-gecco2017.pdf), [(supplemental-pdf)](pdf/to-gecco2017-supp.pdf), [(slide)](pdf/to-gecco2017-slide.pdf)
