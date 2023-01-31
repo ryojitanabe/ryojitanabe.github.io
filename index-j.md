@@ -5,6 +5,9 @@ title: Ryoji Tanabe
 
 ### お知らせ
 
+* 2023年1月31日 arXivに次のプレプリントをアップロードしました:
+    * Ryoji Tanabe, Ke Li: Quality Indicators for Preference-based Evolutionary Multi-objective Optimization Using a Reference Point: A Review and Analysis. [pdf](https://arxiv.org/abs/2301.12148), [code](https://github.com/ryojitanabe/prefqi)
+
 * 2022年9月2日 [進化計算シンポジウム2022](http://www.jpnsec.org/symposium202203.html)の実行委員をします. ぜひご参加をご検討ください.
 
 * 2022年4月26日 我々の論文がGECCO2022にて開催されるワークショップ[Black-Box Optimization Benchmarking (BBOB 2022)](https://numbbo.github.io/workshops/BBOB-2022/index.html)に採択されました:

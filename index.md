@@ -5,6 +5,9 @@ title: Ryoji Tanabe
 
 ## NEWS
 
+* 2023.1.31 A preprint is available on arXiv: 
+    * Ryoji Tanabe, Ke Li: Quality Indicators for Preference-based Evolutionary Multi-objective Optimization Using a Reference Point: A Review and Analysis. [pdf](https://arxiv.org/abs/2301.12148), [code](https://github.com/ryojitanabe/prefqi)
+
 * 2022.4.26 Our paper has been accepted to [the Workshop on Black-Box Optimization Benchmarking (BBOB 2022)](https://numbbo.github.io/workshops/BBOB-2022/index.html) to be held in GECCO2022:
     * Ryoji Tanabe: Benchmarking the Hooke-Jeeves Method, MTS-LS1, and BSrr on the Large-scale BBOB Function Set. [pdf](https://arxiv.org/abs/2204.13284), [code](https://github.com/ryojitanabe/largebbob2022), [slides](pdf/t-bbob22-slides.pdf), YouTube
 

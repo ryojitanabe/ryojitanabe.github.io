@@ -9,11 +9,11 @@ All pdf files on this page are author's versions, not final published versions.
 
 ---
 
+## Preprints
+
+* Ryoji Tanabe, Ke Li: **Quality Indicators for Preference-based Evolutionary Multi-objective Optimization Using a Reference Point: A Review and Analysis**, [pdf](https://arxiv.org/abs/2301.12148), [code](https://github.com/ryojitanabe/prefqi)
+
 ## Refereed Journal Papers
-
-### Preprints
-
-None.
 
 ### 2022
 
