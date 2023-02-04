@@ -5,8 +5,11 @@ title: Ryoji Tanabe
 
 ### お知らせ
 
+* 2023年2月4日 スタンフォード大学調べの2022年度の世界科学者上位2%リストにランクインしました. [link](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/4?fbclid=IwAR0u4xhKMuKGIsi_prZLxOIOaMPzV-LNCmoIlDYua90eybIVIyE6Sl70vyc)
 * 2023年1月31日 arXivに次のプレプリントをアップロードしました:
     * Ryoji Tanabe, Ke Li: Quality Indicators for Preference-based Evolutionary Multi-objective Optimization Using a Reference Point: A Review and Analysis. [pdf](https://arxiv.org/abs/2301.12148), [code](https://github.com/ryojitanabe/prefqi)
+
+{% comment %}
 
 * 2022年9月2日 [進化計算シンポジウム2022](http://www.jpnsec.org/symposium202203.html)の実行委員をします. ぜひご参加をご検討ください.
 
@@ -23,7 +26,6 @@ title: Ryoji Tanabe
 
 * 2022年2月18日 スタンフォード大学調べの2021年度の世界科学者上位2%リスト (?) に入りました. [link](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/3), [link](https://data.mendeley.com/public-files/datasets/btchxktzyw/files/b3e31af2-054c-4b3a-b9c5-6fd9bf10557a/file_downloaded)
 
-{% comment %}
 
 * 2021年10月22日 [進化計算学会コンペティション2021](https://ec-comp.jpnsec.org/ja/competitions/eccomp2021) に携わっています. ~~ご参加をご検討していただけますと幸いです.~~ 終了しました.
 

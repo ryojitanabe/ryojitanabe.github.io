@@ -5,8 +5,12 @@ title: Ryoji Tanabe
 
 ## NEWS
 
+* 2023.2.4 I have been ranked as the top 2% of the world's scientists in 2022 in a list released by Stanford University. [link](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/4?fbclid=IwAR0u4xhKMuKGIsi_prZLxOIOaMPzV-LNCmoIlDYua90eybIVIyE6Sl70vyc). 
 * 2023.1.31 A preprint is available on arXiv: 
     * Ryoji Tanabe, Ke Li: Quality Indicators for Preference-based Evolutionary Multi-objective Optimization Using a Reference Point: A Review and Analysis. [pdf](https://arxiv.org/abs/2301.12148), [code](https://github.com/ryojitanabe/prefqi)
+
+{% comment %}
+
 
 * 2022.4.26 Our paper has been accepted to [the Workshop on Black-Box Optimization Benchmarking (BBOB 2022)](https://numbbo.github.io/workshops/BBOB-2022/index.html) to be held in GECCO2022:
     * Ryoji Tanabe: Benchmarking the Hooke-Jeeves Method, MTS-LS1, and BSrr on the Large-scale BBOB Function Set. [pdf](https://arxiv.org/abs/2204.13284), [code](https://github.com/ryojitanabe/largebbob2022), [slides](pdf/t-bbob22-slides.pdf), YouTube
@@ -20,9 +24,6 @@ title: Ryoji Tanabe
 * 2022.3.21 I will start [my lab](https://aopt-lab.github.io/index-en) this April. The website will introduce achievements by lab members but me.
 
 * 2022.2.18 I have been ranked as the top 2% of the world's scientists in 2021 in a list released by Stanford University. [link](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/3), [link](https://data.mendeley.com/public-files/datasets/btchxktzyw/files/b3e31af2-054c-4b3a-b9c5-6fd9bf10557a/file_downloaded)
-
-{% comment %}
-
 
 * 2021.11.15 We are running [the Evolutionary Computation Competition 2021 (EC-Comp 2021)](https://ec-comp.jpnsec.org/competitions/eccomp2021) held as an event in a domestic workshop. EC-Comp 2021 provides a suite of economic support policy design problems.
 
