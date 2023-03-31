@@ -34,16 +34,13 @@ title: Ryoji Tanabe
 * 2021.4 - 2024.3 Grant-in-Aid for Young Scientists from JSPS
   * Title: Automatic Configuration of Preference-based Evolutionary Multi-objective Optimization Algorithms
   * 4,550,000 JPY (estimated)
-
 * 2019.12 - 2024.3 Leading Initiative for Excellent Young Researchers from MEXT
   * Title: Towards a more general and practical evolutionary algorithm
   * 21,000,000 JPY (estimated)
-
 * 2017.4 - 2020.3 Grant-in-Aid for Young Scientists B from JSPS
   * I could not accept this grant because I was not in Japan for 2017-2020
   * Title: Efficient Adaptive Differential Evolution for Multi-objective Optimization
   * 3,800,000 JPY
-
 * 2014.4 - 2016.3: Grant-in-Aid for JSPS Research Fellow from JSPS
   * Title: Development of Novel, Efficient Parameter Setting Strategies for Evolutionary Algorithms and Its Application 
   * 2,200,000 JPY
@@ -58,13 +55,11 @@ title: Ryoji Tanabe
 ## Professional Activities/Service
 
 * Program Committee Member
-  * GECCO: 2016, 2017, 2018, 2019, 2020, 2021, 2022
-  * CEC: 2014, 2016, 2017, 2018, 2019, 2020, 2021, 2022
+  * GECCO: 2016-2023
+  * CEC: 2014, 2016-2023
 * Reviewer
   * IEEE Transactions on Evolutionary Computation
   * IEEE Transactions on Cybernetics
   * Swarm and Evolutionary Computation
   * Applied Soft Computing
-  * Information Sciences
   * etc.
-

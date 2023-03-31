@@ -5,6 +5,8 @@ title: Ryoji Tanabe
 
 ## NEWS
 
+* 2023.3.31 Our paper has been accepted to [ACM GECCO2023](https://gecco-2023.sigevo.org/):
+    * Ryoji Tanabe: On the Unbounded External Archive and Population Size in Preference-based Evolutionary Multi-objective Optimization Using a Reference Point. pdf, supplement, code, slides
 * 2023.2.4 I have been ranked as the top 2% of the world's scientists in 2022 in a list released by Stanford University. [link](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/4?fbclid=IwAR0u4xhKMuKGIsi_prZLxOIOaMPzV-LNCmoIlDYua90eybIVIyE6Sl70vyc). 
 * 2023.1.31 A preprint is available on arXiv: 
     * Ryoji Tanabe, Ke Li: Quality Indicators for Preference-based Evolutionary Multi-objective Optimization Using a Reference Point: A Review and Analysis. [pdf](https://arxiv.org/abs/2301.12148), [code](https://github.com/ryojitanabe/prefqi)

@@ -27,20 +27,15 @@ None.
 
 * Ryoji Tanabe and Hisao Ishibuchi: **An Analysis of Quality Indicators Using Approximated Optimal Distributions in a Three-dimensional Objective Space**, [IEEE Transactions on Evolutionary Computation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235), [pdf](pdf/ti-optmu-tevc2020.pdf), [supplementary-pdf](pdf/ti-optmu-tevc2020-supp.pdf), [supplemental-website](https://sites.google.com/view/optmudist), [link](https://ieeexplore.ieee.org/document/8957371)
    * Typos: The explanation of the new R2 indicator (NR2) in Section II-B-6 (page 3) is incorrect. In equation (7), ``min`` should be replaced with ``max``. In contrast, in equation (8), ``max`` should be replaced with ``min``. 
-
 * Ryoji Tanabe and Hisao Ishibuchi: **A Framework to Handle Multi-modal Multi-objective Optimization in Decomposition-based Evolutionary Algorithms**, [IEEE Transactions on Evolutionary Computation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235), [pdf](pdf/ti-ada-tevc2019.pdf), [supplementary-pdf](pdf/ti-ada-tevc2019-supp.pdf), [code](code/ada-1.1.zip), [link](https://ieeexplore.ieee.org/document/8884131)
-   * This paper is an extended version of our PPSN2018 paper
-   
+   * This paper is an extended version of our PPSN2018 paper   
 * Ryoji Tanabe and Hisao Ishibuchi: **A Review of Evolutionary Multi-modal Multi-objective Optimization**, [IEEE Transactions on Evolutionary Computation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235), [pdf](pdf/ti-emmo-tevc2019_with_metadata.pdf), [code](https://drive.google.com/file/d/19tK-_CEBn08U0_TDdD3tfQ_QvOqxaZ5A/view), [link](https://ieeexplore.ieee.org/document/8684299)
-
 * Ryoji Tanabe and Alex Fukunaga: **Reviewing and Benchmarking Parameter Control Methods in Differential Evolution**, [IEEE Transactions on Cybernetics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036), [link](https://ieeexplore.ieee.org/document/8626758), [pdf](https://arxiv.org/abs/2010.01035), [supplemental-pdf](pdf/tf-tcyb2018-supp.pdf), [supplemental-website](https://sites.google.com/view/pcmde/)
-
 * Ryoji Tanabe and Hisao Ishibuchi: **An Easy-to-use Real-world Multi-objective Optimization Problem Suite**, [Applied Soft Computing](https://www.journals.elsevier.com/applied-soft-computing/), [pdf](https://arxiv.org/abs/2009.12867), [supplementary-pdf](https://github.com/ryojitanabe/reproblems/blob/master/doc/re-supplementary_file.pdf), [code](https://github.com/ryojitanabe/reproblems), [link](https://www.sciencedirect.com/science/article/pii/S1568494620300181)
 
 ### 2019
 
 * Ryoji Tanabe and Hisao Ishibuchi: **A Niching Indicator-Based Multi-modal Many-objective Optimizer**, [Swarm and Evolutionary Computation](https://www.journals.elsevier.com/swarm-and-evolutionary-computation), [pdf](pdf/ti-swevo2019.pdf), [supplemental-website](https://sites.google.com/view/nimmopt/), [code](https://drive.google.com/open?id=1Qs12RjqpNLbk0nr1gvnkiA7N-Yiq51YK), [(link)](https://www.sciencedirect.com/science/article/pii/S221065021930118X)
-
 * Ryoji Tanabe and Hisao Ishibuchi: **Review and Analysis of Three Components of the Differential Evolution Mutation Operator in MOEA/D-DE**, [Soft Computing](https://link.springer.com/journal/500), [(link)](https://link.springer.com/article/10.1007%2Fs00500-019-03842-6), [(pdf)](pdf/ti-soco2019.pdf), [(supplemental-pdf)](pdf/ti-soco2019-supp.pdf)
 
 ### 2018
@@ -55,6 +50,10 @@ None.
 ---
 
 ## Refereed Conference Papers
+
+### 2023
+
+*  Ryoji Tanabe: **On the Unbounded External Archive and Population Size in Preference-based Evolutionary Multi-objective Optimization Using a Reference Point**, Proc. ACM Genetic and Evolutionary Computation Conference [(GECCO2023)](https://gecco-2023.sigevo.org), pdf, supplement, code, slides
 
 ### 2022
 

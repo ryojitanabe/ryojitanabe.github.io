@@ -26,17 +26,13 @@ title: Ryoji Tanabe
 
 ### 外部資金
 
-
 * 2021年4月 - 2024年3月: 若手研究
   * 題目: 選好に基づく多目的進化型アルゴリズムを自動生成する枠組みの開発とその応用
-
 * 2019年12月 - 2024年3月: 卓越研究員補助金
   * 題目: 応用領域拡大を目的とした次世代型進化計算技術の設計
-
 * [辞退] 平成29年 - 平成32年度: 若手研究（B）
   * 題目: [多目的最適化問題に対する実用的な適応型差分進化法の開発, その応用](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-17K12755/)
   * 平成29年度は国外機関に在籍のため, 交付辞退
-
 * 平成26年 - 27年度: 特別研究員奨励費
   * 題目: [進化計算における制御パラメタの効率的な設定方法の開発と応用](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-14J09528/)
 
@@ -55,21 +51,18 @@ title: Ryoji Tanabe
 ### 学会活動歴
 
 * Program Committee Member
-  * GECCO: 2016, 2017, 2018, 2019, 2020, 2021, 2022
-  * CEC: 2014, 2016, 2017, 2018, 2019, 2020, 2021, 2022
+  * GECCO: 2016-2023
+  * CEC: 2014, 2016-2023
 * Reviewer
   * IEEE Transactions on Evolutionary Computation
   * IEEE Transactions on Cybernetics
   * Swarm and Evolutionary Computation
   * Applied Soft Computing
-  * Information Sciences
   * etc.
-
 * 所属学会
   * 進化計算学会
   * ACM SIGEVO 
   * IEEE CIS
-
 * その他
   * 人工知能学会全国大会 学生プログラム委員 (2014年度, 2015年度)
   * 人工知能学会 学生編集委員 (2013年7月 - 2015年3月)
