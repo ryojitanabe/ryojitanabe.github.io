@@ -5,6 +5,7 @@ title: Ryoji Tanabe
 
 ## NEWS
 
+* 2023.5.22 Our paper has been nominated for the best paper award at the EMO track in [ACM GECCO2023](https://gecco-2023.sigevo.org/).
 * 2023.3.31 Our paper has been accepted to [ACM GECCO2023](https://gecco-2023.sigevo.org/):
     * Ryoji Tanabe: On the Unbounded External Archive and Population Size in Preference-based Evolutionary Multi-objective Optimization Using a Reference Point. [pdf](https://arxiv.org/abs/2304.03566), [code](https://github.com/ryojitanabe/prefpp), slides
 * 2023.2.4 I have been ranked as the top 2% of the world's scientists in 2022 in a list released by Stanford University. [link](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/4?fbclid=IwAR0u4xhKMuKGIsi_prZLxOIOaMPzV-LNCmoIlDYua90eybIVIyE6Sl70vyc). 

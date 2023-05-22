@@ -5,6 +5,7 @@ title: Ryoji Tanabe
 
 ### お知らせ
 
+* 2023年5月22日 我々の論文が国際会議[ACM GECCO2023](https://gecco-2023.sigevo.org/)のEMOトラックにてベストペーパーにノミネートされました.
 * 2023年3月31日 我々の論文が国際会議[ACM GECCO2023](https://gecco-2023.sigevo.org/)に採択されました:
     * Ryoji Tanabe: On the Unbounded External Archive and Population Size in Preference-based Evolutionary Multi-objective Optimization Using a Reference Point. [pdf](https://arxiv.org/abs/2304.03566), [code](https://github.com/ryojitanabe/prefpp), slides
 * 2023年2月4日 スタンフォード大学調べの2022年度の世界科学者上位2%リストにランクインしました. [link](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/4?fbclid=IwAR0u4xhKMuKGIsi_prZLxOIOaMPzV-LNCmoIlDYua90eybIVIyE6Sl70vyc)

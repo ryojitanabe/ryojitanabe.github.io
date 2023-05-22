@@ -54,6 +54,7 @@ None.
 ### 2023
 
 *  Ryoji Tanabe: **On the Unbounded External Archive and Population Size in Preference-based Evolutionary Multi-objective Optimization Using a Reference Point**, Proc. ACM Genetic and Evolutionary Computation Conference [(GECCO2023)](https://gecco-2023.sigevo.org), [pdf](https://arxiv.org/abs/2304.03566), [code](https://github.com/ryojitanabe/prefpp), slides
+   * <span style="color:#C31D1D;">Nominated for the best paper at the EMO track in [GECCO2023](https://gecco-2023.sigevo.org/)</span> 
 
 ### 2022
 
