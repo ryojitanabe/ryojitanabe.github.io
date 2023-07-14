@@ -47,8 +47,9 @@ title: Ryoji Tanabe
 
 ## Awards
 
+* 2023: Nomination for the best paper at the EMO track in [ACM GECCO2023](https://gecco-2023.sigevo.org/) 
 * 2018: Nomination for the best paper at [PPSN2018](http://ppsn2018.dei.uc.pt/)
-* 2017: Nomination for the best paper at [ACM GECCO2017](http://gecco-2017.sigevo.org/) 
+* 2017: Nomination for the best paper at the ENUM track in [ACM GECCO2017](http://gecco-2017.sigevo.org/) 
 * 2014: Winner of [the IEEE CEC2014 Competition on Real-Parameter Single Objective Optimization](http://www3.ntu.edu.sg/home/EPNSugan/index_files/CEC2014/CEC2014.htm)
 * 2013: IEEE CIS Outstanding Student-Paper Travel Grant Award
 

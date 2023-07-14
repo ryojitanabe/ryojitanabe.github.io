@@ -38,10 +38,11 @@ title: Ryoji Tanabe
 
 ### 受賞
 
+* 2023年: [ACM GECCO2023](http://gecco-2023.sigevo.org/) ベストペーパーノミネーション (EMO track)
 * 2018年: [PPSN2018](http://ppsn2018.dei.uc.pt/) ベストペーパーノミネーション
 * 2017年: [進化計算シンポジウム2017](http://www.jpnsec.org/symposium201703.html) IEEE CIS Japan Chapter Young Researcher Award
 * 2017年: [進化計算シンポジウム2017](http://www.jpnsec.org/symposium201703.html) ベストポスター発表賞
-* 2017年: [ACM GECCO2017](http://gecco-2017.sigevo.org/) ベストペーパーノミネーション
+* 2017年: [ACM GECCO2017](http://gecco-2017.sigevo.org/) ベストペーパーノミネーション (ENUM track)
 * 2015年: [進化計算学会2015年度研究会 最優秀論文賞](http://www.jpnsec.org/prize.html)
 * 2014年: [IEEE CEC2014 Competition on Real-Parameter Single Objective Optimization](http://www3.ntu.edu.sg/home/EPNSugan/index_files/CEC2014/CEC2014.htm) 優勝
 * 2013年: IEEE CIS Outstanding Student-Paper Travel Grant Award

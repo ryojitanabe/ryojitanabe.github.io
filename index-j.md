@@ -5,6 +5,8 @@ title: Ryoji Tanabe
 
 ### お知らせ
 
+* 2023年7月14日 arXivに次のプレプリントをアップロードしました:
+    * Ryoji Tanabe: Investigating Normalization in Preference-based Evolutionary Multi-objective Optimization Using a Reference Point. [pdf](https://arxiv.org/abs/2307.06562)	
 * 2023年5月22日 我々の論文が国際会議[ACM GECCO2023](https://gecco-2023.sigevo.org/)のEMOトラックにてベストペーパーにノミネートされました.
 * 2023年3月31日 我々の論文が国際会議[ACM GECCO2023](https://gecco-2023.sigevo.org/)に採択されました:
     * Ryoji Tanabe: On the Unbounded External Archive and Population Size in Preference-based Evolutionary Multi-objective Optimization Using a Reference Point. [pdf](https://arxiv.org/abs/2304.03566), [code](https://github.com/ryojitanabe/prefpp), slides
