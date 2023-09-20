@@ -5,6 +5,8 @@ title: Ryoji Tanabe
 
 ### お知らせ
 
+* 2023年9月20日 我々の論文が論文誌[IEEE Transactions on Evolutionary Computation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235)に採択されました. Ke Li先生 (University of Exeter) との共同研究成果です.
+    * Ryoji Tanabe, Ke Li: Quality Indicators for Preference-based Evolutionary Multi-objective Optimization Using a Reference Point: A Review and Analysis. [pdf](https://arxiv.org/abs/2301.12148), [code](https://github.com/ryojitanabe/prefqi), link
 * 2023年7月14日 arXivに次のプレプリントをアップロードしました:
     * Ryoji Tanabe: Investigating Normalization in Preference-based Evolutionary Multi-objective Optimization Using a Reference Point. [pdf](https://arxiv.org/abs/2307.06562)	
 * 2023年5月22日 我々の論文が国際会議[ACM GECCO2023](https://gecco-2023.sigevo.org/)のEMOトラックにてベストペーパーにノミネートされました.

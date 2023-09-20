@@ -5,6 +5,8 @@ title: Ryoji Tanabe
 
 ## NEWS
 
+* 2023.9.20 Our paper has been accepted to [IEEE Transactions on Evolutionary Computation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235). This is collaborative research with Prof. Ke Li at University of Exeter.
+    * Ryoji Tanabe, Ke Li: Quality Indicators for Preference-based Evolutionary Multi-objective Optimization Using a Reference Point: A Review and Analysis. [pdf](https://arxiv.org/abs/2301.12148), [code](https://github.com/ryojitanabe/prefqi), link
 * 2023.7.14 A preprint is available on arXiv: 
     * Ryoji Tanabe: Investigating Normalization in Preference-based Evolutionary Multi-objective Optimization Using a Reference Point. [pdf](https://arxiv.org/abs/2307.06562)
 * 2023.5.22 Our paper has been nominated for the best paper award at the EMO track in [ACM GECCO2023](https://gecco-2023.sigevo.org/).
