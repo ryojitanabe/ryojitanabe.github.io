@@ -55,6 +55,10 @@ None.
 
 ## Refereed Conference Papers
 
+### 2024
+
+*  Ryoji Tanabe: **Benchmarking Parameter Control Methods in Differential Evolution for Mixed-Integer Black-Box Optimization**, Proc. ACM Genetic and Evolutionary Computation Conference [(GECCO2024)](https://gecco-2024.sigevo.org), pdf, code, slides
+
 ### 2023
 
 *  Ryoji Tanabe: **On the Unbounded External Archive and Population Size in Preference-based Evolutionary Multi-objective Optimization Using a Reference Point**, Proc. ACM Genetic and Evolutionary Computation Conference [(GECCO2023)](https://gecco-2023.sigevo.org), [pdf](https://arxiv.org/abs/2304.03566), [code](https://github.com/ryojitanabe/prefpp), [slides](pdf/t-gecco2023_slides.pdf)
