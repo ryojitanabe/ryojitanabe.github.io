@@ -4,6 +4,8 @@ title: Ryoji Tanabe
 ---
 
 ### お知らせ
+* 2024年3月22日 次の我々のTEVC論文を国際会議[IEEE CEC2024](https://2024.ieeewcci.org/)のJournal to Conference track (J2C) で紹介する予定です:
+    * Ryoji Tanabe, Ke Li: Quality Indicators for Preference-based Evolutionary Multi-objective Optimization Using a Reference Point: A Review and Analysis. [pdf](https://arxiv.org/abs/2301.12148), [code](https://github.com/ryojitanabe/prefqi), [link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10268021)
 * 2024年3月22日 我々の論文が国際会議[ACM GECCO2024](https://gecco-2024.sigevo.org/)に採択されました:
     * Ryoji Tanabe: Benchmarking Parameter Control Methods in Differential Evolution for Mixed-Integer Black-Box Optimization.pdf, code, slides
 * 2024年2月9日 Lorentz Center workshop "[BeMCO: Benchmarking in Multi-Criteria Optimisation](https://www.lorentzcenter.nl/site/index.php?pntHandler=WorkshopTemplatePage&pntType=ConPagina&id=1930)"に参加します.
