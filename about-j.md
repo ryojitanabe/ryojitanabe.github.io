@@ -52,8 +52,8 @@ title: Ryoji Tanabe
 ### 学会活動歴
 
 * Program Committee Member
-  * GECCO: 2016-2023
-  * CEC: 2014, 2016-2023
+  * GECCO: 2016-2024
+  * CEC: 2014, 2016-2024
 * Reviewer
   * IEEE Transactions on Evolutionary Computation
   * IEEE Transactions on Cybernetics
@@ -65,5 +65,8 @@ title: Ryoji Tanabe
   * ACM SIGEVO 
   * IEEE CIS
 * その他
+  * [進化計算シンポジウム2024](http://www.jpnsec.org/symposium202403.html) 実行委員長
+  * [進化計算シンポジウム2023](http://www.jpnsec.org/symposium202303.html) 副実行委員長
+  * [進化計算シンポジウム2022](http://www.jpnsec.org/symposium202203.html) プログラム委員長
   * 人工知能学会全国大会 学生プログラム委員 (2014年度, 2015年度)
   * 人工知能学会 学生編集委員 (2013年7月 - 2015年3月)
