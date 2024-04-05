@@ -57,7 +57,7 @@ None.
 
 ### 2024
 
-*  Ryoji Tanabe: **Benchmarking Parameter Control Methods in Differential Evolution for Mixed-Integer Black-Box Optimization**, Proc. ACM Genetic and Evolutionary Computation Conference [(GECCO2024)](https://gecco-2024.sigevo.org), pdf, code, slides
+*  Ryoji Tanabe: **Benchmarking Parameter Control Methods in Differential Evolution for Mixed-Integer Black-Box Optimization**, Proc. ACM Genetic and Evolutionary Computation Conference [(GECCO2024)](https://gecco-2024.sigevo.org), [pdf](https://arxiv.org/abs/2404.03303), [code](https://github.com/ryojitanabe/de_bbobmixint), [data](https://zenodo.org/doi/10.5281/zenodo.10608500), slides
 
 ### 2023
 

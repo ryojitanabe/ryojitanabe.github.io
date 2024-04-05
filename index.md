@@ -7,7 +7,7 @@ title: Ryoji Tanabe
 * 2024.3.22 I will present our following TEVC paper at the Journal to Conference track (J2C) in [IEEE CEC2024](https://2024.ieeewcci.org/):
     * Ryoji Tanabe, Ke Li: Quality Indicators for Preference-based Evolutionary Multi-objective Optimization Using a Reference Point: A Review and Analysis. [pdf](https://arxiv.org/abs/2301.12148), [code](https://github.com/ryojitanabe/prefqi), [link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10268021)
 * 2024.3.22 Our paper has been accepted to [ACM GECCO2024](https://gecco-2024.sigevo.org/):
-    * Ryoji Tanabe: Benchmarking Parameter Control Methods in Differential Evolution for Mixed-Integer Black-Box Optimization.pdf, code, slides
+    * Ryoji Tanabe: Benchmarking Parameter Control Methods in Differential Evolution for Mixed-Integer Black-Box Optimization. [pdf](https://arxiv.org/abs/2404.03303), [code](https://github.com/ryojitanabe/de_bbobmixint), [data](https://zenodo.org/doi/10.5281/zenodo.10608500), slides
 * 2024.02.09 I will participate in a Lorentz Center workshop "[BeMCO: Benchmarking in Multi-Criteria Optimisation](https://www.lorentzcenter.nl/site/index.php?pntHandler=WorkshopTemplatePage&pntType=ConPagina&id=1930)".
 * 2023.10.13 I have been ranked as the top 2% of the world's scientists in 2022 in a list released by Stanford University. [link](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/6), [link](https://elsevier.digitalcommonsdata.com/public-files/datasets/btchxktzyw/files/7bad01c2-63e8-4ed2-94f2-4af4b3b0a4fe/file_downloaded). 
 * 2023.9.20 Our paper has been accepted to [IEEE Transactions on Evolutionary Computation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235). This is collaborative research with Prof. Ke Li at University of Exeter.
@@ -132,7 +132,7 @@ title: Ryoji Tanabe
 
 ## Ryoji Tanabe, Ph.D.
 
-* Position: Tenure-track Assistant Professor
+* Position: Associate Professor
     * PI of [the Tanabe lab](https://aopt-lab.github.io/index-en)
 * Affiliation: [Faculty of Environment and Information Sciences](http://www.eis.ynu.ac.jp/english/index.html), [Yokohama National University](https://www.ynu.ac.jp/english/)
 * Address: Room 702, Environment and Information Sciences Building 1
@@ -141,7 +141,7 @@ title: Ryoji Tanabe
 
 ## Short Biography
 
-I am currently a tenure-track Assistant Professor at Yokohama National University, Japan.
+I am currently an Associate Professor at Yokohama National University, Japan.
 Previously, I was a Research Assistant Professor at Southern University of Science and Technology with [Prof. Hisao Ishibuchi](http://www.cs.osakafu-u.ac.jp/~hisaoi/), China, from 2017 to 2019.
 I was a Post-Doctoral Researcher at JAXA with [Prof. Akira Oyama](http://ladse.eng.isas.jaxa.jp/), Japan, from 2016 to 2017.
 I received my Ph.D. in Science from The University of Tokyo, Japan, in 2016, under the supervision of [Prof. Alex Fukunaga](http://metahack.org/index.html).

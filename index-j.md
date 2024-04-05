@@ -7,7 +7,7 @@ title: Ryoji Tanabe
 * 2024年3月22日 次の我々のTEVC論文を国際会議[IEEE CEC2024](https://2024.ieeewcci.org/)のJournal to Conference track (J2C) で紹介する予定です:
     * Ryoji Tanabe, Ke Li: Quality Indicators for Preference-based Evolutionary Multi-objective Optimization Using a Reference Point: A Review and Analysis. [pdf](https://arxiv.org/abs/2301.12148), [code](https://github.com/ryojitanabe/prefqi), [link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10268021)
 * 2024年3月22日 我々の論文が国際会議[ACM GECCO2024](https://gecco-2024.sigevo.org/)に採択されました:
-    * Ryoji Tanabe: Benchmarking Parameter Control Methods in Differential Evolution for Mixed-Integer Black-Box Optimization.pdf, code, slides
+    * Ryoji Tanabe: Benchmarking Parameter Control Methods in Differential Evolution for Mixed-Integer Black-Box Optimization. [pdf](https://arxiv.org/abs/2404.03303), [code](https://github.com/ryojitanabe/de_bbobmixint), [data](https://zenodo.org/doi/10.5281/zenodo.10608500), slides
 * 2024年2月9日 Lorentz Center workshop "[BeMCO: Benchmarking in Multi-Criteria Optimisation](https://www.lorentzcenter.nl/site/index.php?pntHandler=WorkshopTemplatePage&pntType=ConPagina&id=1930)"に参加します.
 * 2023年10月13日 スタンフォード大学調べの2022年度の世界科学者上位2%リストにランクインしました. 2020年度から3年連続でのランクインです. [link](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/6), [link](https://elsevier.digitalcommonsdata.com/public-files/datasets/btchxktzyw/files/7bad01c2-63e8-4ed2-94f2-4af4b3b0a4fe/file_downloaded). 
 * 2023年9月20日 我々の論文が論文誌[IEEE Transactions on Evolutionary Computation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235)に採択されました. Ke Li先生 (University of Exeter) との共同研究成果です.
@@ -149,7 +149,7 @@ title: Ryoji Tanabe
 
 ### 田邊遼司, 博士 (学術)
 
-* 身分: テニュアトラック助教
+* 身分: 准教授
     * [田邊研究室](https://aopt-lab.github.io/index-en)主宰者
 * 所属: [横浜国立大学](https://www.ynu.ac.jp/) [大学院環境情報研究院](http://www.eis.ynu.ac.jp/index.html)
 * 教員室: 環境情報1号棟702室
@@ -158,7 +158,8 @@ title: Ryoji Tanabe
 
 ### 略歴
 
-2019年12月から, 横浜国立大学にてテニュアトラック助教として勤務しています.
+2024年4月から, 横浜国立大学にて准教授として勤務しています.
+2019年12月から2024年3月まで, 横浜国立大学にてテニュアトラック助教として勤務していました.
 2017年4月から2019年11月まで, 中国深セン市の南方科技大学にて研究助教 (ポスドク) として勤務していました.
 [石渕研究室](http://www.cs.osakafu-u.ac.jp/~hisaoi/)所属でした.
 2016年4月から2017年3月まで, JAXA/ISASにてポスドク研究員として勤務していました.

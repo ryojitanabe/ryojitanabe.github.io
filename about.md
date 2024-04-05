@@ -5,6 +5,9 @@ title: Ryoji Tanabe
 
 ## Work experience
 
+* 2024.4-
+  * Associate Professor
+  * Faculty of Environment and Information Sciences, Yokohama National University
 * 2019.12 - 2024.3
   * Assistant Professor (tenure-track)
   * Faculty of Environment and Information Sciences, Yokohama National University
