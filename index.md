@@ -9,6 +9,9 @@ title: Ryoji Tanabe
 * 2024.3.22 Our paper has been accepted to [ACM GECCO2024](https://gecco-2024.sigevo.org/):
     * Ryoji Tanabe: Benchmarking Parameter Control Methods in Differential Evolution for Mixed-Integer Black-Box Optimization. [pdf](https://arxiv.org/abs/2404.03303), [code](https://github.com/ryojitanabe/de_bbobmixint), [data](https://zenodo.org/doi/10.5281/zenodo.10608500), slides
 * 2024.02.09 I will participate in a Lorentz Center workshop "[BeMCO: Benchmarking in Multi-Criteria Optimisation](https://www.lorentzcenter.nl/site/index.php?pntHandler=WorkshopTemplatePage&pntType=ConPagina&id=1930)".
+
+{% comment %}
+
 * 2023.10.13 I have been ranked as the top 2% of the world's scientists in 2022 in a list released by Stanford University. [link](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/6), [link](https://elsevier.digitalcommonsdata.com/public-files/datasets/btchxktzyw/files/7bad01c2-63e8-4ed2-94f2-4af4b3b0a4fe/file_downloaded). 
 * 2023.9.20 Our paper has been accepted to [IEEE Transactions on Evolutionary Computation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235). This is collaborative research with Prof. Ke Li at University of Exeter.
     * Ryoji Tanabe, Ke Li: Quality Indicators for Preference-based Evolutionary Multi-objective Optimization Using a Reference Point: A Review and Analysis. [pdf](https://arxiv.org/abs/2301.12148), [code](https://github.com/ryojitanabe/prefqi), link
@@ -21,7 +24,6 @@ title: Ryoji Tanabe
 * 2023.1.31 A preprint is available on arXiv: 
     * Ryoji Tanabe, Ke Li: Quality Indicators for Preference-based Evolutionary Multi-objective Optimization Using a Reference Point: A Review and Analysis. [pdf](https://arxiv.org/abs/2301.12148), [code](https://github.com/ryojitanabe/prefqi)
 
-{% comment %}
 
 
 * 2022.4.26 Our paper has been accepted to [the Workshop on Black-Box Optimization Benchmarking (BBOB 2022)](https://numbbo.github.io/workshops/BBOB-2022/index.html) to be held in GECCO2022:
