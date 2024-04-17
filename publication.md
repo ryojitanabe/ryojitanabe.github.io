@@ -11,9 +11,13 @@ All pdf files on this page are author's versions, not final published versions.
 
 ## Preprints
 
-* Ryoji Tanabe: **Investigating Normalization in Preference-based Evolutionary Multi-objective Optimization Using a Reference Point**, [pdf](https://arxiv.org/abs/2307.06562)	
+None.
 
 ## Refereed Journal Papers
+
+### 2024
+
+* Ryoji Tanabe: **Investigating Normalization in Preference-based Evolutionary Multi-objective Optimization Using a Reference Point**, [Applied Soft Computing](https://www.sciencedirect.com/journal/applied-soft-computing), [pdf](https://arxiv.org/abs/2307.06562), link
 
 ### 2023
 

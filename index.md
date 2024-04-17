@@ -4,7 +4,11 @@ title: Ryoji Tanabe
 ---
 
 ## NEWS
-* 2024.3.22 I will present our following TEVC paper at the Journal to Conference track (J2C) in [IEEE CEC2024](https://2024.ieeewcci.org/):
+
+
+* 2024.4.17 Our paper has been accepted to [Applied Soft Computing](https://www.sciencedirect.com/journal/applied-soft-computing).
+    * Ryoji Tanabe: Investigating Normalization in Preference-based Evolutionary Multi-objective Optimization Using a Reference Point. [pdf](https://arxiv.org/abs/2307.06562), link
+* 2024.3.22 Prof. Ke Li will present our following TEVC paper at the Journal to Conference track (J2C) in [IEEE CEC2024](https://2024.ieeewcci.org/):
     * Ryoji Tanabe, Ke Li: Quality Indicators for Preference-based Evolutionary Multi-objective Optimization Using a Reference Point: A Review and Analysis. [pdf](https://arxiv.org/abs/2301.12148), [code](https://github.com/ryojitanabe/prefqi), [link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10268021)
 * 2024.3.22 Our paper has been accepted to [ACM GECCO2024](https://gecco-2024.sigevo.org/):
     * Ryoji Tanabe: Benchmarking Parameter Control Methods in Differential Evolution for Mixed-Integer Black-Box Optimization. [pdf](https://arxiv.org/abs/2404.03303), [code](https://github.com/ryojitanabe/de_bbobmixint), [data](https://zenodo.org/doi/10.5281/zenodo.10608500), slides
