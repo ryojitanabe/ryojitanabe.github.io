@@ -146,6 +146,10 @@ None.
 
 ## Refereed Workshop Papers
 
+### 2024
+
+* Takushi Yoshikawa, Ryoji Tanabe: **On Constructing Algorithm Portfolios in Algorithm Selection for Computationally Expensive Black-box Optimization in the Fixed-budget Setting**, [GECCO Workshop Industrial Applications of Metaheuristics](https://sites.google.com/view/iam-workshop/home), pdf, slides
+
 ### 2022
 
 *  Ryoji Tanabe: **Benchmarking the Hooke-Jeeves Method, MTS-LS1, and BSrr on the Large-scale BBOB Function Set**,  GECCO Workshop on Black-Box Optimization Benchmarking (BBOB 2022), [pdf](https://arxiv.org/abs/2204.13284), [code](https://github.com/ryojitanabe/largebbob2022), [slides](pdf/t-bbob22-slides.pdf), YouTube

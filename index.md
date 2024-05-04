@@ -5,7 +5,8 @@ title: Ryoji Tanabe
 
 ## NEWS
 
-
+* 2024.5.4 Our paper has been accepted to the [GECCO 2024 Workshop Industrial Applications of Metaheuristics](https://sites.google.com/view/iam-workshop/home). Congratulations to Takushi!
+    * Takushi Yoshikawa, Ryoji Tanabe: On Constructing Algorithm Portfolios in Algorithm Selection for Computationally Expensive Black-box Optimization in the Fixed-budget Setting. pdf, slides
 * 2024.4.17 Our paper has been accepted to [Applied Soft Computing](https://www.sciencedirect.com/journal/applied-soft-computing).
     * Ryoji Tanabe: Investigating Normalization in Preference-based Evolutionary Multi-objective Optimization Using a Reference Point. [pdf](https://arxiv.org/abs/2307.06562), link
 * 2024.3.22 Prof. Ke Li will present our following TEVC paper at the Journal to Conference track (J2C) in [IEEE CEC2024](https://2024.ieeewcci.org/):
