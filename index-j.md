@@ -5,7 +5,9 @@ title: Ryoji Tanabe
 
 ### お知らせ
 
-* 2024年5月4日 私達の論文が[ACM GECCO2024](https://gecco-2024.sigevo.org/)のワークショップ[Workshop Industrial Applications of Metaheuristics](https://sites.google.com/view/iam-workshop/home)に採択されました:
+* 2024年6月1日 私達の論文が国際会議[PPSN2024](https://ppsn2024.fh-ooe.at/)に採択されました. Arnaud Liefooghe先生とSébastien Verel先生 (University of Littoral)との共同研究の成果です.
+    * Arnaud Liefooghe, Ryoji Tanabe, and Sébastien Verel: Contrasting the Landscapes of Feature Selection under Different Machine Learning Models. pdf, slides	
+* 2024年5月4日 私達の論文が[ACM GECCO2024](https://gecco-2024.sigevo.org/)のワークショップ[Workshop Industrial Applications of Metaheuristics](https://sites.google.com/view/iam-workshop/home)に採択されました. 𠮷川さんは田邊研のM2です.
     * Takushi Yoshikawa, Ryoji Tanabe: On Constructing Algorithm Portfolios in Algorithm Selection for Computationally Expensive Black-box Optimization in the Fixed-budget Setting. [pdf](https://arxiv.org/abs/2405.10976), slides
 * 2024年4月17日 私達の論文が論文誌[Applied Soft Computing](https://www.sciencedirect.com/journal/applied-soft-computing)に採択されました.
     * Ryoji Tanabe: Investigating Normalization in Preference-based Evolutionary Multi-objective Optimization Using a Reference Point. [pdf](https://arxiv.org/abs/2307.06562), link
