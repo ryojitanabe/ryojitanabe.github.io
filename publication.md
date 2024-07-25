@@ -62,7 +62,7 @@ None.
 ### 2024
 
 *  Arnaud Liefooghe, Ryoji Tanabe, and Sébastien Verel: **Contrasting the Landscapes of Feature Selection under Different Machine Learning Models**, Proc. Parallel Problem Solving from Nature [(PPSN2024)](https://ppsn2024.fh-ooe.at/), pdf, slides	
-*  Ryoji Tanabe: **Benchmarking Parameter Control Methods in Differential Evolution for Mixed-Integer Black-Box Optimization**, Proc. ACM Genetic and Evolutionary Computation Conference [(GECCO2024)](https://gecco-2024.sigevo.org), [pdf](https://arxiv.org/abs/2404.03303), [code](https://github.com/ryojitanabe/de_bbobmixint), [data](https://zenodo.org/doi/10.5281/zenodo.10608500), slides
+*  Ryoji Tanabe: **Benchmarking Parameter Control Methods in Differential Evolution for Mixed-Integer Black-Box Optimization**, Proc. ACM Genetic and Evolutionary Computation Conference [(GECCO2024)](https://gecco-2024.sigevo.org), [pdf](https://arxiv.org/abs/2404.03303), [code](https://github.com/ryojitanabe/de_bbobmixint), [ppdata](https://zenodo.org/doi/10.5281/zenodo.10608500), [exdata](https://numbbo.github.io/data-archive/bbob-mixint/), [slides](pdf/t-gecco2024-slides.pdf)
 
 ### 2023
 
@@ -149,7 +149,7 @@ None.
 
 ### 2024
 
-* Takushi Yoshikawa, Ryoji Tanabe: **On Constructing Algorithm Portfolios in Algorithm Selection for Computationally Expensive Black-box Optimization in the Fixed-budget Setting**, [GECCO Workshop Industrial Applications of Metaheuristics](https://sites.google.com/view/iam-workshop/home), [pdf](https://arxiv.org/abs/2405.10976), slides
+* Takushi Yoshikawa, Ryoji Tanabe: **On Constructing Algorithm Portfolios in Algorithm Selection for Computationally Expensive Black-box Optimization in the Fixed-budget Setting**, [GECCO Workshop Industrial Applications of Metaheuristics](https://sites.google.com/view/iam-workshop/home), [pdf](https://arxiv.org/abs/2405.10976), [slides](pdf/yt-iam2024-slides.pdf)
 
 ### 2022
 

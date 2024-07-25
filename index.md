@@ -8,13 +8,11 @@ title: Ryoji Tanabe
 * 2024.6.1 Our paper has been accepted to [PPSN2024](https://ppsn2024.fh-ooe.at/). Congratulations to Arnaud and Sébastien!
     * Arnaud Liefooghe, Ryoji Tanabe, and Sébastien Verel: Contrasting the Landscapes of Feature Selection under Different Machine Learning Models. pdf, slides	
 * 2024.5.4 Our paper has been accepted to the [GECCO 2024 Workshop Industrial Applications of Metaheuristics](https://sites.google.com/view/iam-workshop/home). Congratulations to Yoshikawa-san!
-    * Takushi Yoshikawa and Ryoji Tanabe: On Constructing Algorithm Portfolios in Algorithm Selection for Computationally Expensive Black-box Optimization in the Fixed-budget Setting. [pdf](https://arxiv.org/abs/2405.10976), slides
+    * Takushi Yoshikawa and Ryoji Tanabe: On Constructing Algorithm Portfolios in Algorithm Selection for Computationally Expensive Black-box Optimization in the Fixed-budget Setting. [pdf](https://arxiv.org/abs/2405.10976), [slides](pdf/yt-iam2024-slides.pdf)
 * 2024.4.17 Our paper has been accepted to [Applied Soft Computing](https://www.sciencedirect.com/journal/applied-soft-computing).
     * Ryoji Tanabe: Investigating Normalization in Preference-based Evolutionary Multi-objective Optimization Using a Reference Point. [pdf](https://arxiv.org/abs/2307.06562), link
-* 2024.3.22 Prof. Ke Li will present our following TEVC paper at the Journal to Conference track (J2C) in [IEEE CEC2024](https://2024.ieeewcci.org/):
-    * Ryoji Tanabe, Ke Li: Quality Indicators for Preference-based Evolutionary Multi-objective Optimization Using a Reference Point: A Review and Analysis. [pdf](https://arxiv.org/abs/2301.12148), [code](https://github.com/ryojitanabe/prefqi), [link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10268021)
 * 2024.3.22 Our paper has been accepted to [ACM GECCO2024](https://gecco-2024.sigevo.org/):
-    * Ryoji Tanabe: Benchmarking Parameter Control Methods in Differential Evolution for Mixed-Integer Black-Box Optimization. [pdf](https://arxiv.org/abs/2404.03303), [code](https://github.com/ryojitanabe/de_bbobmixint), [data](https://zenodo.org/doi/10.5281/zenodo.10608500), slides
+    * Ryoji Tanabe: Benchmarking Parameter Control Methods in Differential Evolution for Mixed-Integer Black-Box Optimization. [pdf](https://arxiv.org/abs/2404.03303), [code](https://github.com/ryojitanabe/de_bbobmixint), [data](https://zenodo.org/doi/10.5281/zenodo.10608500), [slides](pdf/t-gecco2024-slides.pdf)
 * 2024.02.09 I will participate in a Lorentz Center workshop "[BeMCO: Benchmarking in Multi-Criteria Optimisation](https://www.lorentzcenter.nl/site/index.php?pntHandler=WorkshopTemplatePage&pntType=ConPagina&id=1930)".
 
 {% comment %}
