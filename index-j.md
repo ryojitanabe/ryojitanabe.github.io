@@ -5,6 +5,8 @@ title: Ryoji Tanabe
 
 ### お知らせ
 
+* 2024年8月1日 私達が作成しました横浜国立大学 理工学部 模擬講義動画がYouTubeにて公開されました.
+    * [進化計算アルゴリズムの改良研究　～アリコロニー最適化を例に～](https://www.youtube.com/watch?v=CWLc14GOPpg), [slide](pdf/t-ynu-oa_slides.pdf)
 * 2024年6月1日 私達の論文が国際会議[PPSN2024](https://ppsn2024.fh-ooe.at/)に採択されました. Arnaud Liefooghe先生とSébastien Verel先生 (University of Littoral)との共同研究の成果です.
     * Arnaud Liefooghe, Ryoji Tanabe, and Sébastien Verel: Contrasting the Landscapes of Feature Selection under Different Machine Learning Models. pdf, slides	
 * 2024年5月4日 私達の論文が[ACM GECCO2024](https://gecco-2024.sigevo.org/)のワークショップ[Workshop Industrial Applications of Metaheuristics](https://sites.google.com/view/iam-workshop/home)に採択されました. 𠮷川さんは田邊研のM2です.
