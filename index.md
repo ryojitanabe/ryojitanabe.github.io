@@ -6,7 +6,7 @@ title: Ryoji Tanabe
 ## NEWS
 
 * 2024.6.1 Our paper has been accepted to [PPSN2024](https://ppsn2024.fh-ooe.at/). Congratulations to Arnaud and Sébastien!
-    * Arnaud Liefooghe, Ryoji Tanabe, and Sébastien Verel: Contrasting the Landscapes of Feature Selection under Different Machine Learning Models. pdf, slides	
+    * Arnaud Liefooghe, Ryoji Tanabe, and Sébastien Verel: Contrasting the Landscapes of Feature Selection under Different Machine Learning Models. pdf, [poster](pdf/ltv-ppsn2024-slide.pdf)
 * 2024.5.4 Our paper has been accepted to the [GECCO 2024 Workshop Industrial Applications of Metaheuristics](https://sites.google.com/view/iam-workshop/home). Congratulations to Yoshikawa-san!
     * Takushi Yoshikawa and Ryoji Tanabe: On Constructing Algorithm Portfolios in Algorithm Selection for Computationally Expensive Black-box Optimization in the Fixed-budget Setting. [pdf](https://arxiv.org/abs/2405.10976), [slides](pdf/yt-iam2024-slides.pdf)
 * 2024.4.17 Our paper has been accepted to [Applied Soft Computing](https://www.sciencedirect.com/journal/applied-soft-computing).
