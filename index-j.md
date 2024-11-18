@@ -5,6 +5,7 @@ title: Ryoji Tanabe
 
 ### お知らせ
 
+* 2024年11月18日 スタンフォード大学調べの2023年度の世界科学者上位2%リストにランクインしました. 2020年度から4年連続でのランクインです. [link](https://elsevier.digitalcommonsdata.com/public-files/datasets/btchxktzyw/files/5c0c334e-53d9-421b-b344-3ced6fc8d857/file_downloaded). 
 * 2024年9月24日 [進化計算シンポジウム2024](http://www.jpnsec.org/symposium202403.html)の実行委員長を務めております. ぜひご参加をご検討ください.
 * 2024年8月1日 私達が作成しました横浜国立大学 理工学部 模擬講義動画がYouTubeにて公開されました.
     * [進化計算アルゴリズムの改良研究　～アリコロニー最適化を例に～](https://www.youtube.com/watch?v=CWLc14GOPpg), [slide](pdf/t-ynu-oa_slides.pdf)

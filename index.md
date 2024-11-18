@@ -5,6 +5,7 @@ title: Ryoji Tanabe
 
 ## NEWS
 
+* 2024.11.18 I have been ranked as the top 2% of the world's scientists in 2023 in a list released by Stanford University. [link](https://elsevier.digitalcommonsdata.com/public-files/datasets/btchxktzyw/files/5c0c334e-53d9-421b-b344-3ced6fc8d857/file_downloaded). 
 * 2024.6.1 Our paper has been accepted to [PPSN2024](https://ppsn2024.fh-ooe.at/). Congratulations to Arnaud and Sébastien!
     * Arnaud Liefooghe, Ryoji Tanabe, and Sébastien Verel: Contrasting the Landscapes of Feature Selection under Different Machine Learning Models. [pdf](https://ulco.hal.science/hal-04692860/file/liefooghe-ppsn2024.pdf), [poster](pdf/ltv-ppsn2024-slide.pdf)
 * 2024.5.4 Our paper has been accepted to the [GECCO 2024 Workshop Industrial Applications of Metaheuristics](https://sites.google.com/view/iam-workshop/home). Congratulations to Yoshikawa-san!
