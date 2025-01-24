@@ -11,9 +11,13 @@ All pdf files on this page are author's versions, not final published versions.
 
 ## Preprints
 
-None.
+
 
 ## Refereed Journal Papers
+
+### 2025
+
+* Keisuke Korogi, Ryoji Tanabe: **Speeding up Local Search for the Indicator-based Subset Selection Problem by a Candidate List Strategy**, [IEEE Transactions on Evolutionary Computation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235), pdf, code, link
 
 ### 2024
 
