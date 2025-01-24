@@ -7,8 +7,6 @@ title: Ryoji Tanabe
 
 * 2025.01.25 Our paper has been accepted to [IEEE Transactions on Evolutionary Computation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235). The first author is a second year graduate student in my lab. Congratulations to Korogi-san!
     * Keisuke Korogi, Ryoji Tanabe: Speeding up Local Search for the Indicator-based Subset Selection Problem by a Candidate List Strategy, pdf, code, link
-* 2025.01.25 Our paper has been accepted to [IEEE Transactions on Evolutionary Computation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235). The first author (Korogi-san) is a second year graduate student in my lab.
-    * Keisuke Korogi, Ryoji Tanabe: Speeding up Local Search for the Indicator-based Subset Selection Problem by a Candidate List Strategy, pdf, code, link
 * 2024.11.18 I have been ranked as the top 2% of the world's scientists in 2023 in a list released by Stanford University. [link](https://elsevier.digitalcommonsdata.com/public-files/datasets/btchxktzyw/files/5c0c334e-53d9-421b-b344-3ced6fc8d857/file_downloaded). 
 * 2024.6.1 Our paper has been accepted to [PPSN2024](https://ppsn2024.fh-ooe.at/). Congratulations to Arnaud and Sébastien!
     * Arnaud Liefooghe, Ryoji Tanabe, and Sébastien Verel: Contrasting the Landscapes of Feature Selection under Different Machine Learning Models. [pdf](https://ulco.hal.science/hal-04692860/file/liefooghe-ppsn2024.pdf), [poster](pdf/ltv-ppsn2024-slide.pdf)
