@@ -34,6 +34,9 @@ title: Ryoji Tanabe
 
 ## Grants
 
+* 2025.4 - 2029.3 JSPS Grant in Aid for Scientific Research (B)
+  * Title: Self-adaptive Automated Algorithm Selection System for Black Box Optimization
+  * 14,500,000 JPY (estimated)
 * 2021.4 - 2024.3 Grant-in-Aid for Young Scientists from JSPS
   * Title: Automatic Configuration of Preference-based Evolutionary Multi-objective Optimization Algorithms
   * 4,550,000 JPY (estimated)

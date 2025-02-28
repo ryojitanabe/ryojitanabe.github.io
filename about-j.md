@@ -28,6 +28,8 @@ title: Ryoji Tanabe
 
 ### 外部資金
 
+* 2025年4月 - 2029年3月: 科研費基盤研究(B)
+  * 題目: ブラックボックス最適化に対する自己適応的な自動アルゴリズム選択システム
 * 2021年4月 - 2024年3月: 若手研究
   * 題目: 選好に基づく多目的進化型アルゴリズムを自動生成する枠組みの開発とその応用
 * 2019年12月 - 2024年3月: 卓越研究員補助金
@@ -54,7 +56,7 @@ title: Ryoji Tanabe
 ### 学会活動歴
 
 * Program Committee Member
-  * GECCO: 2016-2024
+  * GECCO: 2016-
   * CEC: 2014, 2016-2024
 * Reviewer
   * IEEE Transactions on Evolutionary Computation

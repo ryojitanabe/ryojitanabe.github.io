@@ -5,6 +5,8 @@ title: Ryoji Tanabe
 
 ### お知らせ
 
+* 2025年02月28日 科研費基盤研究(B)に採択されました:
+    * 田邊遼司 (代表), ブラックボックス最適化に対する自己適応的な自動アルゴリズム選択システム
 * 2025年01月25日 私達の論文が論文誌[IEEE Transactions on Evolutionary Computation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235)に採択されました. 
 第1著者の興呂木さんは修士2年生です.
     * Keisuke Korogi, Ryoji Tanabe: Speeding up Local Search for the Indicator-based Subset Selection Problem by a Candidate List Strategy, pdf, code, link

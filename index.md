@@ -5,6 +5,8 @@ title: Ryoji Tanabe
 
 ## NEWS
 
+* 2025.02.28 Our application has been accepted by the JSPS Grant in Aid for Scientific Research (B) (approx. 14,500,000 JPY for 2025-2029).
+    * Ryoji Tanabe (PI): Self-adaptive Automated Algorithm Selection System for Black Box Optimization
 * 2025.01.25 Our paper has been accepted to [IEEE Transactions on Evolutionary Computation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235). The first author is a second year graduate student in my lab. Congratulations to Korogi-san!
     * Keisuke Korogi, Ryoji Tanabe: Speeding up Local Search for the Indicator-based Subset Selection Problem by a Candidate List Strategy, pdf, code, link
 * 2024.11.18 I have been ranked as the top 2% of the world's scientists in 2023 in a list released by Stanford University. [link](https://elsevier.digitalcommonsdata.com/public-files/datasets/btchxktzyw/files/5c0c334e-53d9-421b-b344-3ced6fc8d857/file_downloaded). 
