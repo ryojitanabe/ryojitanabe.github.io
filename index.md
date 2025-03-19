@@ -5,10 +5,12 @@ title: Ryoji Tanabe
 
 ## NEWS
 
+* 2025.3.19 Our paper has been accepted to [ACM GECCO2025](https://gecco-2025.sigevo.org/). The first author is a second year graduate student in my lab. Congratulations to Korogi-san!
+    * Keisuke Korogi and Ryoji Tanabe: Analyzing the Landscape of the Indicator-based Subset Selection Problem, pdf, slides
 * 2025.02.28 Our application has been accepted by the JSPS Grant in Aid for Scientific Research (B) (approx. 14,500,000 JPY for 2025-2029).
     * Ryoji Tanabe (PI): A Self-adaptive Automated Algorithm Selection System for Black Box Optimization
 * 2025.01.25 Our paper has been accepted to [IEEE Transactions on Evolutionary Computation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235). The first author is a second year graduate student in my lab. Congratulations to Korogi-san!
-    * Keisuke Korogi, Ryoji Tanabe: Speeding up Local Search for the Indicator-based Subset Selection Problem by a Candidate List Strategy, [pdf](https://arxiv.org/abs/2503.04224), [supplement](https://raw.githubusercontent.com/rogi52/issp_ls_clist/main/tevc2025_issp_supp.pdf), [code](https://github.com/rogi52/issp_ls_clist) , [link](https://ieeexplore.ieee.org/document/10874145)
+    * Keisuke Korogi, Ryoji Tanabe: Speeding up Local Search for the Indicator-based Subset Selection Problem by a Candidate List Strategy, pdf, code, link
 * 2024.11.18 I have been ranked as the top 2% of the world's scientists in 2023 in a list released by Stanford University. [link](https://elsevier.digitalcommonsdata.com/public-files/datasets/btchxktzyw/files/5c0c334e-53d9-421b-b344-3ced6fc8d857/file_downloaded). 
 * 2024.6.1 Our paper has been accepted to [PPSN2024](https://ppsn2024.fh-ooe.at/). Congratulations to Arnaud and Sébastien!
     * Arnaud Liefooghe, Ryoji Tanabe, and Sébastien Verel: Contrasting the Landscapes of Feature Selection under Different Machine Learning Models. [pdf](https://ulco.hal.science/hal-04692860/file/liefooghe-ppsn2024.pdf), [poster](pdf/ltv-ppsn2024-slide.pdf)
