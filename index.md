@@ -6,7 +6,7 @@ title: Ryoji Tanabe
 ## NEWS
 
 * 2025.3.19 Our paper has been accepted to [ACM GECCO2025](https://gecco-2025.sigevo.org/). The first author is a second year graduate student in my lab. Congratulations to Korogi-san!
-    * Keisuke Korogi and Ryoji Tanabe: Analyzing the Landscape of the Indicator-based Subset Selection Problem, pdf, slides
+    * Keisuke Korogi and Ryoji Tanabe: Analyzing the Landscape of the Indicator-based Subset Selection Problem, [pdf](https://arxiv.org/abs/2504.08282), slides
 * 2025.02.28 Our application has been accepted by the JSPS Grant in Aid for Scientific Research (B) (approx. 14,500,000 JPY for 2025-2029).
     * Ryoji Tanabe (PI): A Self-adaptive Automated Algorithm Selection System for Black Box Optimization
 * 2025.01.25 Our paper has been accepted to [IEEE Transactions on Evolutionary Computation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235). The first author is a second year graduate student in my lab. Congratulations to Korogi-san!

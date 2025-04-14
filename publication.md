@@ -65,7 +65,7 @@ None.
 
 ### 2025 
 
-* Keisuke Korogi and Ryoji Tanabe: **Analyzing the Landscape of the Indicator-based Subset Selection Problem**, Proc. ACM Genetic and Evolutionary Computation Conference [(GECCO2025)](https://gecco-2025.sigevo.org), pdf, slides
+* Keisuke Korogi and Ryoji Tanabe: **Analyzing the Landscape of the Indicator-based Subset Selection Problem**, Proc. ACM Genetic and Evolutionary Computation Conference [(GECCO2025)](https://gecco-2025.sigevo.org), [pdf](https://arxiv.org/abs/2504.08282), slides
 
 ### 2024
 
