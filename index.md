@@ -147,7 +147,7 @@ title: Ryoji Tanabe
 ## Ryoji Tanabe, Ph.D.
 
 * Position: Associate Professor
-    * PI of [the Tanabe lab](https://aopt-lab.github.io/index-en)
+    * PI of [the Tanabe lab](https://aopt-lab.github.io/)
 * Affiliation: [Faculty of Environment and Information Sciences](http://www.eis.ynu.ac.jp/english/index.html), [Yokohama National University](https://www.ynu.ac.jp/english/)
 * Address: Room 702, Environment and Information Sciences Building 1
 * E-mail: rt.ryoji.tanabe [at] gmail.com or tanabe-ryoji-sn [at] ynu.ac.jp

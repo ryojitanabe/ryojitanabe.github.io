@@ -167,7 +167,7 @@ title: Ryoji Tanabe
 ### 田邊遼司, 博士 (学術)
 
 * 身分: 准教授
-    * [田邊研究室](https://aopt-lab.github.io/index-en)主宰者
+    * [田邊研究室](https://aopt-lab.github.io/)主宰者
 * 所属: [横浜国立大学](https://www.ynu.ac.jp/) [大学院環境情報研究院](http://www.eis.ynu.ac.jp/index.html)
 * 教員室: 環境情報1号棟702室
 * E-mail: rt.ryoji.tanabe [at] gmail.com または tanabe-ryoji-sn [at] ynu.ac.jp
