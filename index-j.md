@@ -5,6 +5,7 @@ title: Ryoji Tanabe
 
 ### お知らせ
 
+* 2025年09月26日 スタンフォード大学調べの2024年度の世界科学者上位2%リストにランクインしました. 2020年度から5年連続でのランクインです. [link](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/8). 
 * 2025年03月19日 私達の論文が国際会議[ACM GECCO2025](https://gecco-2025.sigevo.org/)に採択されました. 第1著者の興呂木さんは修士2年生です.
     * Keisuke Korogi and Ryoji Tanabe: Analyzing the Landscape of the Indicator-based Subset Selection Problem, [pdf](https://arxiv.org/abs/2504.08282), [slides](pdf/kt-gecco2025-slides.pdf)
 * 2025年02月28日 科研費基盤研究(B)に採択されました:
@@ -12,6 +13,8 @@ title: Ryoji Tanabe
 * 2025年01月25日 私達の論文が論文誌[IEEE Transactions on Evolutionary Computation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235)に採択されました. 
 第1著者の興呂木さんは修士2年生です.
     * Keisuke Korogi, Ryoji Tanabe: Speeding up Local Search for the Indicator-based Subset Selection Problem by a Candidate List Strategy, [pdf](https://arxiv.org/abs/2503.04224), [supplement](https://raw.githubusercontent.com/rogi52/issp_ls_clist/main/tevc2025_issp_supp.pdf), [code](https://github.com/rogi52/issp_ls_clist) , [link](https://ieeexplore.ieee.org/document/10874145)
+
+{% comment %}
 * 2024年11月18日 スタンフォード大学調べの2023年度の世界科学者上位2%リストにランクインしました. 2020年度から4年連続でのランクインです. [link](https://elsevier.digitalcommonsdata.com/public-files/datasets/btchxktzyw/files/5c0c334e-53d9-421b-b344-3ced6fc8d857/file_downloaded). 
 * 2024年9月24日 [進化計算シンポジウム2024](http://www.jpnsec.org/symposium202403.html)の実行委員長を務めております. ぜひご参加をご検討ください.
 * 2024年8月1日 私達が作成しました横浜国立大学 理工学部 模擬講義動画がYouTubeにて公開されました.
@@ -26,7 +29,6 @@ title: Ryoji Tanabe
     * Ryoji Tanabe: Benchmarking Parameter Control Methods in Differential Evolution for Mixed-Integer Black-Box Optimization. [pdf](https://arxiv.org/abs/2404.03303), [code](https://github.com/ryojitanabe/de_bbobmixint), [ppdata](https://zenodo.org/doi/10.5281/zenodo.10608500), [exdata](https://numbbo.github.io/data-archive/bbob-mixint/), [slides](pdf/t-gecco2024-slides.pdf)
 * 2024年2月9日 Lorentz Center workshop "[BeMCO: Benchmarking in Multi-Criteria Optimisation](https://www.lorentzcenter.nl/site/index.php?pntHandler=WorkshopTemplatePage&pntType=ConPagina&id=1930)"に参加します.
 
-{% comment %}
 
 * 2023年10月13日 スタンフォード大学調べの2022年度の世界科学者上位2%リストにランクインしました. 2020年度から3年連続でのランクインです. [link](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/6), [link](https://elsevier.digitalcommonsdata.com/public-files/datasets/btchxktzyw/files/7bad01c2-63e8-4ed2-94f2-4af4b3b0a4fe/file_downloaded). 
 * 2023年9月20日 我々の論文が論文誌[IEEE Transactions on Evolutionary Computation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235)に採択されました. Ke Li先生 (University of Exeter) との共同研究成果です.

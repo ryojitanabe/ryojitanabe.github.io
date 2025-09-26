@@ -5,12 +5,15 @@ title: Ryoji Tanabe
 
 ## NEWS
 
-* 2025.3.19 Our paper has been accepted to [ACM GECCO2025](https://gecco-2025.sigevo.org/). The first author is a second year graduate student in my lab. Congratulations to Korogi-san!
+* 2025.09.26 I have been ranked as the top 2% of the world's scientists in 2024 in a list released by Stanford University. [link](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/8). 
+* 2025.03.19 Our paper has been accepted to [ACM GECCO2025](https://gecco-2025.sigevo.org/). The first author is a second year graduate student in my lab. Congratulations to Korogi-san!
     * Keisuke Korogi and Ryoji Tanabe: Analyzing the Landscape of the Indicator-based Subset Selection Problem, [pdf](https://arxiv.org/abs/2504.08282), [slides](pdf/kt-gecco2025-slides.pdf)
 * 2025.02.28 Our application has been accepted by the JSPS Grant in Aid for Scientific Research (B) (approx. 14,500,000 JPY for 2025-2029).
     * Ryoji Tanabe (PI): A Self-adaptive Automated Algorithm Selection System for Black Box Optimization
 * 2025.01.25 Our paper has been accepted to [IEEE Transactions on Evolutionary Computation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235). The first author is a second year graduate student in my lab. Congratulations to Korogi-san!
     * Keisuke Korogi, Ryoji Tanabe: Speeding up Local Search for the Indicator-based Subset Selection Problem by a Candidate List Strategy, [pdf](https://arxiv.org/abs/2503.04224), [supplement](https://raw.githubusercontent.com/rogi52/issp_ls_clist/main/tevc2025_issp_supp.pdf), [code](https://github.com/rogi52/issp_ls_clist) , [link](https://ieeexplore.ieee.org/document/10874145)
+	
+{% comment %}
 * 2024.11.18 I have been ranked as the top 2% of the world's scientists in 2023 in a list released by Stanford University. [link](https://elsevier.digitalcommonsdata.com/public-files/datasets/btchxktzyw/files/5c0c334e-53d9-421b-b344-3ced6fc8d857/file_downloaded). 
 * 2024.6.1 Our paper has been accepted to [PPSN2024](https://ppsn2024.fh-ooe.at/). Congratulations to Arnaud and Sébastien!
     * Arnaud Liefooghe, Ryoji Tanabe, and Sébastien Verel: Contrasting the Landscapes of Feature Selection under Different Machine Learning Models. [pdf](https://ulco.hal.science/hal-04692860/file/liefooghe-ppsn2024.pdf), [poster](pdf/ltv-ppsn2024-slide.pdf)
@@ -21,9 +24,6 @@ title: Ryoji Tanabe
 * 2024.3.22 Our paper has been accepted to [ACM GECCO2024](https://gecco-2024.sigevo.org/):
     * Ryoji Tanabe: Benchmarking Parameter Control Methods in Differential Evolution for Mixed-Integer Black-Box Optimization. [pdf](https://arxiv.org/abs/2404.03303), [code](https://github.com/ryojitanabe/de_bbobmixint), [data](https://zenodo.org/doi/10.5281/zenodo.10608500), [slides](pdf/t-gecco2024-slides.pdf)
 * 2024.02.09 I will participate in a Lorentz Center workshop "[BeMCO: Benchmarking in Multi-Criteria Optimisation](https://www.lorentzcenter.nl/site/index.php?pntHandler=WorkshopTemplatePage&pntType=ConPagina&id=1930)".
-
-{% comment %}
-
 * 2023.10.13 I have been ranked as the top 2% of the world's scientists in 2022 in a list released by Stanford University. [link](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/6), [link](https://elsevier.digitalcommonsdata.com/public-files/datasets/btchxktzyw/files/7bad01c2-63e8-4ed2-94f2-4af4b3b0a4fe/file_downloaded). 
 * 2023.9.20 Our paper has been accepted to [IEEE Transactions on Evolutionary Computation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235). This is collaborative research with Prof. Ke Li at University of Exeter.
     * Ryoji Tanabe, Ke Li: Quality Indicators for Preference-based Evolutionary Multi-objective Optimization Using a Reference Point: A Review and Analysis. [pdf](https://arxiv.org/abs/2301.12148), [code](https://github.com/ryojitanabe/prefqi), link
