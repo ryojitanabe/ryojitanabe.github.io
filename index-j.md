@@ -5,6 +5,9 @@ title: Ryoji Tanabe
 
 ### お知らせ
 
+* 2027年05月27日 私達の論文が国際会議[PPSN2026](https://ppsn2026.disi.unitn.it/)に採択されました. 前者の論文の第1著者の最上さんは修士2年生です.
+    * Ryuichi Mogami and Ryoji Tanabe: Effects of Objective Normalization on Regions of Interest in Preference-Based Evolutionary Multi-Objective Optimization, pdf, poster
+    * Ryoji Tanabe: Quantitative Performance Analysis of Stopping Criteria for CMA-ES, pdf, poster
 * 2026年03月21日 私達の論文が国際会議[ACM GECCO2026](https://gecco-2026.sigevo.org/)に採択されました. 第1著者の北村さんと最上さんは修士1年生です.
     * Kenji Kitamura and Ryoji Tanabe: Benchmarking Stopping Criteria for Evolutionary Multi-objective Optimization, pdf, slides
     * Ryuichi Mogami and Ryoji Tanabe: A Bi-Criteria Selection Framework for Incorporating Preference Information into Evolutionary Multi-objective Optimization, pdf, slides

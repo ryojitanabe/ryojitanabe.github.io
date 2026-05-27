@@ -65,6 +65,8 @@ None.
 
 ### 2026
 
+* Ryuichi Mogami and Ryoji Tanabe: **Effects of Objective Normalization on Regions of Interest in Preference-Based Evolutionary Multi-Objective Optimization**, Proc. Parallel Problem Solving from Nature [(PPSN2026)](https://ppsn2026.disi.unitn.it/), pdf, poster
+* Ryoji Tanabe: **Quantitative Performance Analysis of Stopping Criteria for CMA-ES**, Proc. Parallel Problem Solving from Nature [(PPSN2026)](https://ppsn2026.disi.unitn.it/), pdf, poster
 * Kenji Kitamura and Ryoji Tanabe: **Benchmarking Stopping Criteria for Evolutionary Multi-objective Optimization**, Proc. ACM Genetic and Evolutionary Computation Conference [(GECCO2026)](https://gecco-2026.sigevo.org), pdf, slides
 * Ryuichi Mogami and Ryoji Tanabe: **A Bi-Criteria Selection Framework for Incorporating Preference Information into Evolutionary Multi-objective Optimization**, Proc. ACM Genetic and Evolutionary Computation Conference [(GECCO2026)](https://gecco-2026.sigevo.org), pdf, slides
 
