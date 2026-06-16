@@ -5,18 +5,18 @@ title: Ryoji Tanabe
 
 ## NEWS
 
-* 2026.05.27 Our two papers have been accepted to [PPSN2026](https://ppsn2026.disi.unitn.it/). The first author of one paper is a second year graduate student in my lab. Congratulations to Mogami-san!
-    * Ryuichi Mogami and Ryoji Tanabe: Effects of Objective Normalization on Regions of Interest in Preference-Based Evolutionary Multi-Objective Optimization, pdf, poster
+* 2026.05.27 Our two papers have been accepted to [PPSN2026](https://ppsn2026.disi.unitn.it/). The first author of one paper is a second year graduate student in my lab. Congratulations to [Mogami-san](https://ryuichi-mogami.github.io/)!
+    * Ryuichi Mogami and Ryoji Tanabe: Effects of Objective Normalization on Regions of Interest in Preference-Based Evolutionary Multi-Objective Optimization, [pdf](https://arxiv.org/abs/2606.16382), poster
     * Ryoji Tanabe: Quantitative Performance Analysis of Stopping Criteria for CMA-ES, [pdf](https://arxiv.org/abs/2606.09220), poster	
-* 2026.03.21 Our two papers have been accepted to [ACM GECCO2026](https://gecco-2026.sigevo.org/). The two first authors are second year graduate students in my lab. Congratulations to Kitamura-san and Mogami-san!
+* 2026.03.21 Our two papers have been accepted to [ACM GECCO2026](https://gecco-2026.sigevo.org/). The two first authors are second year graduate students in my lab. Congratulations to Kitamura-san and [Mogami-san](https://ryuichi-mogami.github.io/)!
     * Kenji Kitamura and Ryoji Tanabe: Benchmarking Stopping Criteria for Evolutionary Multi-objective Optimization, [pdf](https://arxiv.org/abs/2604.25458), slides
     * Ryuichi Mogami and Ryoji Tanabe: A Bi-Criteria Selection Framework for Incorporating Preference Information into Evolutionary Multi-objective Optimization, pdf, slides
 * 2025.09.26 I have been ranked as the top 2% of the world's scientists in 2024 in a list released by Stanford University. [link](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/8). 
-* 2025.03.19 Our paper has been accepted to [ACM GECCO2025](https://gecco-2025.sigevo.org/). The first author is a second year graduate student in my lab. Congratulations to Korogi-san!
+* 2025.03.19 Our paper has been accepted to [ACM GECCO2025](https://gecco-2025.sigevo.org/). The first author is a second year graduate student in my lab. Congratulations to [Korogi-san](https://rogi52.github.io/)!
     * Keisuke Korogi and Ryoji Tanabe: Analyzing the Landscape of the Indicator-based Subset Selection Problem, [pdf](https://arxiv.org/abs/2504.08282), [slides](pdf/kt-gecco2025-slides.pdf)
 * 2025.02.28 Our application has been accepted by the JSPS Grant in Aid for Scientific Research (B) (approx. 14,500,000 JPY for 2025-2029).
     * Ryoji Tanabe (PI): A Self-adaptive Automated Algorithm Selection System for Black Box Optimization
-* 2025.01.25 Our paper has been accepted to [IEEE Transactions on Evolutionary Computation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235). The first author is a second year graduate student in my lab. Congratulations to Korogi-san!
+* 2025.01.25 Our paper has been accepted to [IEEE Transactions on Evolutionary Computation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235). The first author is a second year graduate student in my lab. Congratulations to [Korogi-san](https://rogi52.github.io/)!
     * Keisuke Korogi, Ryoji Tanabe: Speeding up Local Search for the Indicator-based Subset Selection Problem by a Candidate List Strategy, [pdf](https://arxiv.org/abs/2503.04224), [supplement](https://raw.githubusercontent.com/rogi52/issp_ls_clist/main/tevc2025_issp_supp.pdf), [code](https://github.com/rogi52/issp_ls_clist) , [link](https://ieeexplore.ieee.org/document/10874145)
 	
 {% comment %}
@@ -156,7 +156,7 @@ title: Ryoji Tanabe
     * PI of [the Tanabe lab](https://aopt-lab.github.io/)
 * Affiliation: [Faculty of Environment and Information Sciences](http://www.eis.ynu.ac.jp/english/index.html), [Yokohama National University](https://www.ynu.ac.jp/english/)
 * Address: Room 702, Environment and Information Sciences Building 1
-* E-mail: rt.ryoji.tanabe [at] gmail.com or tanabe-ryoji-sn [at] ynu.ac.jp
+* E-mail: tanabe-ryoji-sn [at] ynu.ac.jp
 * [Google Scholar](https://scholar.google.co.jp/citations?user=xze7scoAAAAJ&hl=en), [DBLP](http://dblp.uni-trier.de/pers/hd/t/Tanabe:Ryoji)
 
 ## Short Biography

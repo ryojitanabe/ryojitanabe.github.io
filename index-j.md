@@ -5,19 +5,19 @@ title: Ryoji Tanabe
 
 ### お知らせ
 
-* 2026年05月27日 私達の2本の論文が国際会議[PPSN2026](https://ppsn2026.disi.unitn.it/)に採択されました. 1つ目の論文の第1著者の最上さんは修士2年生です.
+* 2026年05月27日 私達の2本の論文が国際会議[PPSN2026](https://ppsn2026.disi.unitn.it/)に採択されました. 1つ目の論文の第1著者の[最上さん](https://ryuichi-mogami.github.io/)は修士2年生です.
     * Ryuichi Mogami and Ryoji Tanabe: Effects of Objective Normalization on Regions of Interest in Preference-Based Evolutionary Multi-Objective Optimization, pdf, poster
     * Ryoji Tanabe: Quantitative Performance Analysis of Stopping Criteria for CMA-ES, [pdf](https://arxiv.org/abs/2606.09220), poster
-* 2026年03月21日 私達の2本の論文が国際会議[ACM GECCO2026](https://gecco-2026.sigevo.org/)に採択されました. 第1著者の北村さんと最上さんは修士1年生です.
+* 2026年03月21日 私達の2本の論文が国際会議[ACM GECCO2026](https://gecco-2026.sigevo.org/)に採択されました. 第1著者の北村さんと[最上さん](https://ryuichi-mogami.github.io/)は修士1年生です.
     * Kenji Kitamura and Ryoji Tanabe: Benchmarking Stopping Criteria for Evolutionary Multi-objective Optimization, [pdf](https://arxiv.org/abs/2604.25458), slides
     * Ryuichi Mogami and Ryoji Tanabe: A Bi-Criteria Selection Framework for Incorporating Preference Information into Evolutionary Multi-objective Optimization, pdf, slides
 * 2025年09月26日 スタンフォード大学調べの2024年度の世界科学者上位2%リストにランクインしました. 2020年度から5年連続でのランクインです. [link](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/8). 
-* 2025年03月19日 私達の論文が国際会議[ACM GECCO2025](https://gecco-2025.sigevo.org/)に採択されました. 第1著者の興呂木さんは修士2年生です.
+* 2025年03月19日 私達の論文が国際会議[ACM GECCO2025](https://gecco-2025.sigevo.org/)に採択されました. 第1著者の[興呂木さん](https://rogi52.github.io/)は修士2年生です.
     * Keisuke Korogi and Ryoji Tanabe: Analyzing the Landscape of the Indicator-based Subset Selection Problem, [pdf](https://arxiv.org/abs/2504.08282), [slides](pdf/kt-gecco2025-slides.pdf)
 * 2025年02月28日 科研費基盤研究(B)に採択されました:
     * 田邊遼司 (代表), ブラックボックス最適化に対する自己適応的な自動アルゴリズム選択システム
 * 2025年01月25日 私達の論文が論文誌[IEEE Transactions on Evolutionary Computation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235)に採択されました. 
-第1著者の興呂木さんは修士2年生です.
+第1著者の[興呂木さん](https://rogi52.github.io/)は修士2年生です.
     * Keisuke Korogi, Ryoji Tanabe: Speeding up Local Search for the Indicator-based Subset Selection Problem by a Candidate List Strategy, [pdf](https://arxiv.org/abs/2503.04224), [supplement](https://raw.githubusercontent.com/rogi52/issp_ls_clist/main/tevc2025_issp_supp.pdf), [code](https://github.com/rogi52/issp_ls_clist) , [link](https://ieeexplore.ieee.org/document/10874145)
 
 {% comment %}
@@ -178,7 +178,7 @@ title: Ryoji Tanabe
     * [田邊研究室](https://aopt-lab.github.io/)主宰者
 * 所属: [横浜国立大学](https://www.ynu.ac.jp/) [大学院環境情報研究院](http://www.eis.ynu.ac.jp/index.html)
 * 教員室: 環境情報1号棟702室
-* E-mail: rt.ryoji.tanabe [at] gmail.com または tanabe-ryoji-sn [at] ynu.ac.jp
+* E-mail: tanabe-ryoji-sn [at] ynu.ac.jp
 * [Google Scholar](https://scholar.google.co.jp/citations?user=xze7scoAAAAJ&hl=en), [DBLP](http://dblp.uni-trier.de/pers/hd/t/Tanabe:Ryoji)
 
 ### 略歴
