@@ -10,7 +10,7 @@ title: Ryoji Tanabe
     * Ryoji Tanabe: Quantitative Performance Analysis of Stopping Criteria for CMA-ES, [pdf](https://arxiv.org/abs/2606.09220), poster	
 * 2026.03.21 Our two papers have been accepted to [ACM GECCO2026](https://gecco-2026.sigevo.org/). The two first authors are second year graduate students in my lab. Congratulations to Kitamura-san and [Mogami-san](https://ryuichi-mogami.github.io/)!
     * Kenji Kitamura and Ryoji Tanabe: Benchmarking Stopping Criteria for Evolutionary Multi-objective Optimization, [pdf](https://arxiv.org/abs/2604.25458), slides
-    * Ryuichi Mogami and Ryoji Tanabe: A Bi-Criteria Selection Framework for Incorporating Preference Information into Evolutionary Multi-objective Optimization, pdf, slides
+    * Ryuichi Mogami and Ryoji Tanabe: A Bi-Criteria Selection Framework for Incorporating Preference Information into Evolutionary Multi-objective Optimization, [pdf](https://dl.acm.org/doi/10.1145/3795095.3805083), slides
 * 2025.09.26 I have been ranked as the top 2% of the world's scientists in 2024 in a list released by Stanford University. [link](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/8). 
 * 2025.03.19 Our paper has been accepted to [ACM GECCO2025](https://gecco-2025.sigevo.org/). The first author is a second year graduate student in my lab. Congratulations to [Korogi-san](https://rogi52.github.io/)!
     * Keisuke Korogi and Ryoji Tanabe: Analyzing the Landscape of the Indicator-based Subset Selection Problem, [pdf](https://arxiv.org/abs/2504.08282), [slides](pdf/kt-gecco2025-slides.pdf)

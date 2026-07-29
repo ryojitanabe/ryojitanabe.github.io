@@ -10,7 +10,7 @@ title: Ryoji Tanabe
     * Ryoji Tanabe: Quantitative Performance Analysis of Stopping Criteria for CMA-ES, [pdf](https://arxiv.org/abs/2606.09220), poster
 * 2026年03月21日 私達の2本の論文が国際会議[ACM GECCO2026](https://gecco-2026.sigevo.org/)に採択されました. 第1著者の北村さんと[最上さん](https://ryuichi-mogami.github.io/)は修士1年生です.
     * Kenji Kitamura and Ryoji Tanabe: Benchmarking Stopping Criteria for Evolutionary Multi-objective Optimization, [pdf](https://arxiv.org/abs/2604.25458), slides
-    * Ryuichi Mogami and Ryoji Tanabe: A Bi-Criteria Selection Framework for Incorporating Preference Information into Evolutionary Multi-objective Optimization, pdf, slides
+    * Ryuichi Mogami and Ryoji Tanabe: A Bi-Criteria Selection Framework for Incorporating Preference Information into Evolutionary Multi-objective Optimization, [pdf](https://dl.acm.org/doi/10.1145/3795095.3805083), slides
 * 2025年09月26日 スタンフォード大学調べの2024年度の世界科学者上位2%リストにランクインしました. 2020年度から5年連続でのランクインです. [link](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/8). 
 * 2025年03月19日 私達の論文が国際会議[ACM GECCO2025](https://gecco-2025.sigevo.org/)に採択されました. 第1著者の[興呂木さん](https://rogi52.github.io/)は修士2年生です.
     * Keisuke Korogi and Ryoji Tanabe: Analyzing the Landscape of the Indicator-based Subset Selection Problem, [pdf](https://arxiv.org/abs/2504.08282), [slides](pdf/kt-gecco2025-slides.pdf)
